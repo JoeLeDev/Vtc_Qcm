@@ -1,0 +1,578 @@
+[
+  {
+    "id": "2022-FM-q01-4c4b00c9",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 1,
+    "stem": "Sur route mouillée la distance de freinage est multipliée par :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "4"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-FM-q05-4c4b00c9 (original conservé).",
+      "Correctif Q1 2022-FM: n° d'examen capturé; stem nettoyé; alias 2022-FM-q58140-3b41903f."
+    ],
+    "duplicateOf": "2021-FM-q05-4c4b00c9",
+    "legacyIds": [
+      "2022-FM-q58140-3b41903f"
+    ]
+  },
+  {
+    "id": "2022-FM-q02-f6e20d97",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 2,
+    "stem": "Je suis titulaire du permis A2 depuis deux ans puis du permis A depuis un an, dans combien d'années pourrais-je pratiquer la profession de chauffeur VMDTR ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "tout de suite"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "3 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "2 ans"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "1 an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q03-7b0be597",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 3,
+    "stem": "A plus d'une heure de ma prise en charge j'ai le droit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'aller boire un café"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "de rechercher un client avant le suivant"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "de stationner devant la gare SNCF"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "de stationner dans un parking privé"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q04-a8cf114b",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 4,
+    "stem": "Un rythme circadien :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "est un rythme biologique intégré prenant la forme d'un cycle d'environ 12 heures"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "est un rythme biologique intégré prenant la forme d'un cycle d'environ 24 heures"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "est une alternance entre la phase d'éveil et la phase de sommeil"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "est la vitesse à laquelle vous circulez dans un rondpoint"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q05-1debfd71",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 5,
+    "stem": "Citez 2 facteurs qui peuvent avoir une influence sur l'effet gyroscopique.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "1. Le transport d'un passager\n2. Le transport de bagages\n3. Les virages\n4. Le vent de côté/latéral\n5. Poids de chargement.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-FM-q06-a0a1dd80",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 6,
+    "stem": "L'énergie absorbée par le corps en cas de choc est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "toujours la même quelle que soit la vitesse"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "d'autant moins importante que la vitesse est élevée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "d'autant plus importante que la vitesse est élevée"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-FM-q10-a0a1dd80 (original conservé)."
+    ],
+    "duplicateOf": "2021-FM-q10-a0a1dd80"
+  },
+  {
+    "id": "2022-FM-q07-2661353c",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quelle est la puissance minimale d'une motocyclette utilisée pour le transport de T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "35 kW"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "aucun si elle est hybride ou électrique"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "40 kW"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q08-d768bf32",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 8,
+    "stem": "Avec lequel ou lesquels de ces véhicules je n'ai pas le droit de réaliser du transport de personne à titre onéreux ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un quadro"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Une moto side-car de 45kW"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Un 3 roues permis B"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Une moto de 1800 cm3"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q09-04399973",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 9,
+    "stem": "Où se situent les lésions le plus souvent constatées chez les motards ? Citez-en au moins 2.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Tête, membres supérieurs et inférieurs et colonne vertébrale (sera accepté l'énoncé de membre type pied, doigt,\nmain…)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Doublon potentiel de 2021-FM-q04-04399973 (original conservé)."
+    ],
+    "duplicateOf": "2021-FM-q04-04399973"
+  },
+  {
+    "id": "2022-FM-q10-09a61ad9",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 10,
+    "stem": "Quels sont le ou les éléments qui font partie du savoir-être d'un chauffeur ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Ponctualité"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Développement de son activité"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Discrétion"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Connaissance de la règlementation"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q11-4959f952",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 11,
+    "stem": "Tout casque utilisé en France doit posséder :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "4 bandes réfléchissantes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "5 bandes réfléchissantes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "3 bandes réfléchissantes"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q12-1bf228dc",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 12,
+    "stem": "Quelle est la largeur pour rouler en inter-file ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1,05 m"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1,50 m"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "80 cm"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "1 m maximum"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q13-c7e42368",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 13,
+    "stem": "De quelle couleur est la signalétique spécifique à l'activité de conducteur de véhicules motorisés à deux ou trois roues ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "rouge"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "verte"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "bleue"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-FM-q11-c7e42368 (original conservé)."
+    ],
+    "duplicateOf": "2021-FM-q11-c7e42368"
+  },
+  {
+    "id": "2022-FM-q14-643fdd7e",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 14,
+    "stem": "Citez 4 facteurs de risque d'accident en moto.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "1 - l'alcool\n2 - les drogues\n3 - le duo alcool/drogues\n4 - la vitesse excessive\n5 - la fatigue\n6 - l'illusion d'être visible\n7 - l'inexpérience\n8 - l'excès de confiance.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Doublon potentiel de 2021-FM-q15-643fdd7e (original conservé)."
+    ],
+    "duplicateOf": "2021-FM-q15-643fdd7e"
+  },
+  {
+    "id": "2022-FM-q15-322e531b",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 15,
+    "stem": "Citez 5 mentions figurant sur l'attestation d'entretien.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "1. Marque\n2. Modèle\n3. Immatriculation\n4. Numéro d'identification du véhicule\n5. Date de première immatriculation\n6. Date de délivrance et d'expiration de l'attestation\n7. Entreprise délivrant l'attestation\n8. Nom du professionnel assurant l'entretien du véhicule et mention de son diplôme.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-FM-q16-ccb245c9",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 16,
+    "stem": "Quelle est la durée de validité de l'attestation d'entretien du véhicule ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "2 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "4 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

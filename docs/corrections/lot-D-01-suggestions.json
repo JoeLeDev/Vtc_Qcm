@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "suggestions": [
+    {
+      "questionId": "2021-D-q01-5033fa43",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "D’après le texte 20 Minutes (illustration p.9), le pick-up le plus apprécié depuis longtemps aux États-Unis est le Ford F-150 ; le Cybertruck est présenté comme un concurrent atypique. SpaceX n’est pas un pick-up ; « Blade Runner » désigne l’esthétique / surnom du concept, pas le modèle de référence du marché.",
+      "documentaryRef": "Consultation 2026-10-13. Texte d’annale CMA 2021 D (capture `/annales/images/2021-p9.png`) — article 20 Minutes 22/11/2019 https://www.20minutes.fr/monde/2657443-20191122-gros-fail-design-douteux-elon-musk-presente-cybertruck-100-electrique-tesla. Compréhension de document, pas de norme juridique.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-D-q02-78f6c3f9",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Un prototype est un modèle d’essais / d’études avant une diffusion en série. Ce n’est ni le dernier modèle d’une série, ni un modèle déjà diffusé à grande échelle. Le texte évoque le prototype Cybertruck présenté lors du show.",
+      "documentaryRef": "Consultation 2026-10-13. Lexique français courant + texte d’annale 20 Minutes (prototype / démonstration). Définition pédagogique standard.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-D-q03-ba70d707",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "Le texte cite Jessica Caldwell (Edmunds) : le véhicule peut avoir du mal à séduire la clientèle traditionnelle de pick-up parce qu’il « ne ressemble à rien d’autre » (design radical). L’électricité et le prix sont évoqués mais ne sont pas la raison mise en avant pour cette difficulté de séduction traditionnelle.",
+      "documentaryRef": "Consultation 2026-10-13. Texte d’annale 20 Minutes / citation Edmunds dans `/annales/images/2021-p9.png`. Compréhension ciblée.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-D-q04-9c2d7e6c",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "« Arborer » signifie porter / afficher ostensiblement (ex. arborer un logo, un macaron). Parmi les choix, Afficher est le synonyme correct. Cacher et Dissimuler sont des antonymes ; Révéler est proche mais moins exact (dévoiler un secret plutôt qu’exhiber).",
+      "documentaryRef": "Consultation 2026-10-13. Dictionnaire de français (CNRTL / Larousse — « arborer »). Texte d’annale pour le contexte d’emploi. Énoncé « synonyme(s) » : une réponse principale attendue côté banque `single`.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-D-q05-cebbac15",
+      "proposedOpenAnswer": "Parce que le véhicule était présenté comme très résistant aux attaques extérieures, mais une vitre du prototype a été cassée par le lancer d’une bille d’acier lors de la démonstration.",
+      "pedagogicalExplanation": "L’indication CMA et le texte décrivent le « fail » du show : revendication de résistance (marteaux, billes d’acier, balles) puis casse de la vitre sous les yeux du public. Orthographe de l’indication PDF (« résistent », « vitre ») à ne pas recopier telle quelle.",
+      "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 D Q5 + texte 20 Minutes (`/annales/images/2021-p9.png`).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-D-q06-dc843594",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "Le texte précise que l’alliage d’acier inoxydable développé pour le Cybertruck est le même que celui utilisé pour les fusées SpaceX. Blade Runner = esthétique ; F-150 = concurrent marché.",
+      "documentaryRef": "Consultation 2026-10-13. Texte d’annale 20 Minutes (`/annales/images/2021-p9.png`) — mention SpaceX / fusées.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-D-q07-7fb4def9",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Le texte indique trois versions tarifaires, la plus chère (~69 900 $) annoncée avec une autonomie d’environ 800 km. 400 km correspond à une version d’entrée ; 100 km n’apparaît pas.",
+      "documentaryRef": "Consultation 2026-10-13. Texte d’annale 20 Minutes (`/annales/images/2021-p9.png`) — autonomie max 800 km. Chiffres d’annonce 2019 (pas une norme).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-D-q08-66adca1c",
+      "proposedOpenAnswer": "Tesla cultive l’innovation et la rupture ; la polémique (design atypique, « fail » du show) fait partie de son image et alimente sa notoriété — « si ce n’était pas un peu polémique, ce ne serait pas une Tesla ».",
+      "pedagogicalExplanation": "L’indication CMA souligne que Tesla mise sur la nouveauté et que les polémiques renforcent son succès / sa visibilité. Réponse pédagogique de compréhension, pas juridique.",
+      "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 D Q8 + citation du texte 20 Minutes / Edmunds.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-D-q09-265a781b",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "Dans le texte (« allure futuriste et cyberpunk »), « allure » désigne l’aspect / l’apparence du véhicule, pas la vitesse. « Style » est proche mais le sens contextuel le plus direct parmi les choix d’examen est Aspect.",
+      "documentaryRef": "Consultation 2026-10-13. Texte d’annale (`/annales/images/2021-p9.png`) ; CNRTL « allure » (apparence). Ambiguïté possible Aspect vs Style — confiance high-medium.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-D-q10-4d0b6f0e",
+      "proposedOpenAnswer": "100 % électrique ; lignes épurées ; allure futuriste / cyberpunk ; 6 places ; traction ~7 tonnes ; charge utile ~1,5 t ; acier inoxydable ultrarésistant ; 0–100 km/h en ~3 s (au moins 4 caractéristiques attendues).",
+      "pedagogicalExplanation": "Recopie structurée de l’indication CMA / du texte. Toute liste d’au moins quatre traits issus du document est acceptable.",
+      "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 D Q10 + texte 20 Minutes.",
+      "confidence": "high"
+    }
+  ]
+}

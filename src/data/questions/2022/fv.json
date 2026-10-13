@@ -1,0 +1,562 @@
+[
+  {
+    "id": "2022-FV-q01-4e149c1b",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 1,
+    "stem": "Le prix psychologique correspond :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "au prix dont se souvient le consommateur"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "au prix que le consommateur est prêt à payer pour acheter le produit/la prestation"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "au prix de référence pour une catégorie de produits/prestations"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "au prix perçu par le consommateur"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-FV: n° d'examen capturé; stem nettoyé; alias 2022-FV-q58137-f66bd0d2."
+    ],
+    "legacyIds": [
+      "2022-FV-q58137-f66bd0d2"
+    ]
+  },
+  {
+    "id": "2022-FV-q02-48c2649e",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 2,
+    "stem": "Quelle affirmation est vraie ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Lorsque la demande est supérieure à l'offre, les prix augmentent"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Lorsque la demande est supérieure à l'offre, les prix baissent"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Lorsque la demande est inférieure à l'offre, les prix augmentent"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q03-2547c52f",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 3,
+    "stem": "De manière générale, quelle est l'attitude à adopter lors de l'approche du lieu de destination?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Informer le client de votre arrivée prochaine"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Préparer la mission suivante"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Demander à votre client de rassembler ses effets personnels"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q04-f57c39cd",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 4,
+    "stem": "Avant de démarrer votre activité, vous allez devoir convaincre votre banquier afin de lui \"vendre\" votre projet. Quels sont dans l'idéal les deux éléments à lui présenter le jour du rendez-vous ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Carte de visite"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Étude de marché"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Business plan"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Carte grise du véhicule"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q05-acbf7822",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 5,
+    "stem": "En tant qu'exploitant, je ne peux pas:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "fixer librement les prix sans tenir compte de mes éléments de coûts"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "fixer librement les prix, sous réserve d'être en dessous du prix de revient"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "fixer librement les prix sans m'assurer que je ne travaille pas à perte"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q06-dd5294c3",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 6,
+    "stem": "Pour prendre en charge un client dans un hôtel, il convient de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "klaxonner pour informer de l'arrivée du véhicule"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "l'attendre devant la porte d'entrée de l'hôtel"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "se faire annoncer auprès de la réception de l'hôtel"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q07-57b8d49d",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quelle est la première étape d'une stratégie commerciale d'un chauffeur VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le marketing mix"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le plan d'action"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "L'étude de marché"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q08-9e968eb9",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 8,
+    "stem": "Votre client oublie son portefeuille dans votre véhicule. Que faites-vous ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le contacter le plus rapidement possible pour le rassurer, lui proposer de récupérer son bien\nle plus surement et rapidement possible",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-FV-q09-9bbed938",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 9,
+    "stem": "Le devis:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "est une proposition modifiable jusqu'à acceptation du client"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "est postérieur à la prestation"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "a une date de validité maximale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q10-c6adc1a7",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 10,
+    "stem": "Diriez-vous que vos futurs clients VTC, que vous cherchez à conquérir sont :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Vos adeptes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Vos objectifs"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Votre marché"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q11-1c1fcc24",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 11,
+    "stem": "Citez quatre des mentions devant obligatoirement figurer sur un devis.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le devis doit mentionner les éléments suivants :\n-date du devis et durée de validité de l'offre ;\n-date, heure et lieu de prise en charge;\n-lieu de destination;\n-nom, raison sociale et adresse de l'entreprise (n° de téléphone et adresse électronique) ;\n-statut et forme juridique de l'entreprise ;\n-pour un commerçant : numéro RCS suivi du nom de la ville où se trouve le greffe d'immatriculation ;\npour un artisan : numéro au Répertoire des métiers (n° Siren + RM + n° du département d'immatriculation) ;\n-numéro individuel d'identification à la TVA,\n-nom et adresse du client ;\n-date de début et durée estimée des travaux ou de la prestation ;\n-décompte détaillé (et description) de chaque prestation, en quantité et en prix unitaire ;\n-prix horaire ou forfaitaire de main d'œuvre ;\n-frais de déplacement, éventuellement ;\n-modalités de paiement, de livraison et d'exécution du contrat ;\n-modalités des réclamations et conditions du service après-vente (garantie notamment) ;\n-somme globale à payer HT et TTC, en précisant les taux de TVA applicables.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-FV-q12-772e340b",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 12,
+    "stem": "Quelles sont les méthodes de prospection existantes ? Citez un exemple de chaque.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Prospection traditionnelle (porte à porte, téléphone) ou prospection numérique (site web,\nmailing, réseaux sociaux, centrales de réservations)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Doublon potentiel de 2021-FV-q04-772e340b (original conservé)."
+    ],
+    "duplicateOf": "2021-FV-q04-772e340b"
+  },
+  {
+    "id": "2022-FV-q13-abeafd19",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 13,
+    "stem": "Dans la formule monôme, l'élément pris en compte pour le calcul du coût de revient est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un terme journalier fixe"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Un terme horaire de conducteur"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Un terme kilométrique"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q14-15a9cb61",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 14,
+    "stem": "Dans l'activité de VTC, les conditions générales de vente sont :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "ne doivent pas être fournies à un professionnel qui en fait la demande"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "indispensables en relation B to C"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "facultatives en relation B to B"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "conformes à la loi Hamon du 17 mars 2014"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-FV-q11-15a9cb61 (original conservé)."
+    ],
+    "duplicateOf": "2021-FV-q11-15a9cb61"
+  },
+  {
+    "id": "2022-FV-q15-d0543d7a",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 15,
+    "stem": "Parmi ces affirmations, la ou lesquelles sont vraie(s) ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "lors du management, je dois prendre les réservations clients quoiqu'il en coute"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "lors du suivi client, je dois mémoriser les personnes et les habitudes des clients"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "lors de la gestion de la mission, je dois déposer mon client le plus rapidement possible"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "lors de l'accueil client, je dois savoir contrôler ma tenue et mon véhicule"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q16-81ea4527",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 16,
+    "stem": "Vous avez réussi votre examen avec succès et décidez d'acheter un véhicule pour réaliser votre activité. Sur quels points allez-vous être attentifs concernant l'achat de celui-ci ? Citez-en 3.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "- Source énergétique (véhicule électrique, hybride, essence, diesel)\n- Prix du véhicule à négocier\n- Standing du véhicule\n- Confort du véhicule\n- Coût du crédit / amortissement\n- Entretient courant\n\n- Assurances",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  }
+]

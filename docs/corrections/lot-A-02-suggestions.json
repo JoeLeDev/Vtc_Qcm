@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "suggestions": [
+    {
+      "questionId": "2022-A-q01-34dc9cf1",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "La carte professionnelle de conducteur T3P est délivrée par l’autorité administrative : le préfet du département (ou le préfet de police à Paris). En pratique, le service compétent est la préfecture. Ni la DREAL, ni la DIRECCTE, ni la mairie ne délivrent cette carte.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-2-2, R. 3120-6, R. 3122-10 (VTC : préfet / préfet de police). Compil. DGITM T3P. ID corrigé depuis legacy 2022-A-q58132-e3694fd5.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2022-A-q02-5eca2b6a",
+      "proposedOpenAnswer": "Transport collectif de personnes défini par un itinéraire, des points d’arrêt, une fréquence (ou horaires), et des conditions tarifaires.",
+      "pedagogicalExplanation": "Un service régulier s’oppose au service occasionnel : il est organisé de façon permanente selon un parcours et un schéma d’exploitation préétablis (itinéraire, arrêts, horaires/fréquence, tarifs). L’indication d’annale CMA reprend ces critères. Cadre : transports publics routiers de personnes (code des transports), distinct du T3P à la demande.",
+      "documentaryRef": "Consultation 2026-10-13. Indication annale CMA 2022. Code des transports — services réguliers de transport public routier de personnes (livre Ier 3e partie, titre Ier). Compil./page ministère transports. Confiance limitée à la formulation exacte d’article non relu mot à mot dans cette session.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2022-A-q03-1ce22607",
+      "proposedChoiceIds": ["b", "d"],
+      "pedagogicalExplanation": "L’examen d’accès comporte des épreuves écrites d’admissibilité et une épreuve pratique d’admission (R. 3120-7). Les options « préparation » et « intégration » ne correspondent pas au texte. L’annale marque « choix multiple » : B et D sont les deux composantes légales. Si le barème n’accepte qu’une case, validation humaine requise.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-7. Arrêté du 6 avril 2017 relatif aux programmes et à l’évaluation des épreuves (JORF). Compil. DGITM T3P.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2022-A-q04-6687ebc8",
+      "proposedOpenAnswer": "Permis de conduire ; carte grise ; justificatif d’assurance du véhicule (transport de personnes à titre onéreux) ; justificatif d’assurance RC professionnelle ; carte professionnelle en cours de validité ; attestation de formation continue le cas échéant.",
+      "pedagogicalExplanation": "En contrôle, le conducteur T3P doit pouvoir présenter les titres de circulation et d’identification du véhicule, la carte professionnelle (R. 3120-6 / R. 3124-12), et les justificatifs d’assurance (R. 3120-4 et L. 3120-4). L’indication CMA ajoute l’attestation de formation (formation continue R. 3120-8-2).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports R. 3120-4, R. 3120-6, R. 3120-8-2, R. 3124-12 ; L. 3120-4. Indication annale CMA 2022. Compil. DGITM T3P.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2022-A-q05-da1c93e8",
+      "proposedChoiceIds": ["d"],
+      "pedagogicalExplanation": "L’honorabilité professionnelle (R. 3120-8) exclut notamment une condamnation définitive pour infraction à la législation sur les stupéfiants. Le franchissement d’un feu rouge n’est pas, en soi, dans cette liste ; l’inaptitude médicale et le non-exercice ne sont pas des « délits » justifiant le refus au sens de la question.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-8 (3° : stupéfiants notamment). Compil. DGITM T3P.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2022-A-q06-0f587e83",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "LOTI = Loi d’orientation des transports intérieurs (loi n° 82-1153 du 30 décembre 1982), texte fondateur recodifié pour partie dans le code des transports.",
+      "documentaryRef": "Consultation 2026-10-13. Loi n° 82-1153 du 30 décembre 1982 d’orientation des transports intérieurs — https://www.legifrance.gouv.fr (recherche LOTI) ; notice CEREMA/DTRF. Inchangé quant à la signification du sigle.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2022-A-q07-5583c18d",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "Seule l’affirmation A est exacte : délivrance par le préfet ou le préfet de police. La carte ne mentionne pas le résultat d’examen ni une commune d’autorisation d’exercice au sens d’une ADS ; la mairie ne délivre pas la carte pro conducteur T3P.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-2-2, R. 3120-6, R. 3122-10. Compil. DGITM T3P.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2022-A-q08-d99af71e",
+      "proposedChoiceIds": ["a", "d"],
+      "pedagogicalExplanation": "R. 3120-6 impose la restitution de la carte (1) en cas de cessation définitive d’activité et (2) lorsqu’une condition de délivrance cesse d’être remplie. Une condamnation correctionnelle n’entraîne restitution automatique que si elle fait disparaître l’honorabilité ou une autre condition. L’annale indique « choix multiple » : A et D. Si barème mono-réponse, validation humaine.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-6 (alinéas restitution). Compil. DGITM T3P.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2022-A-q09-df7e60ee",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Les collèges État et professionnels sont membres de la commission (voix délibérative). Les représentants des organisations professionnelles des centrales de réservation sont invités comme personnes qualifiées sans voix délibérative (voix consultative) lorsque leur activité a un impact significatif (D. 3120-31).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. D. 3120-26 (composition) et D. 3120-31 (invités sans voix délibérative) — https://librejustice.fr/norm/fr/code-des-transports/d3120-31 (base LEGI). Compil. DGITM T3P.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2022-A-q10-c3de9d58",
+      "proposedOpenAnswer": "Responsabilité civile circulation (RCC) adaptée au transport de personnes à titre onéreux ; responsabilité civile professionnelle (RCP).",
+      "pedagogicalExplanation": "Même dualité qu’en 2021 : R. 3120-4 / assurance circulation pour TPP à titre onéreux + L. 3120-4 RC professionnelle.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-4 et R. 3120-4. Indication annale CMA 2022. Compil. DGITM T3P.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2022-A-q11-59f68ab9",
+      "proposedOpenAnswer": "Avertissement ; retrait temporaire de la carte professionnelle ; retrait définitif de la carte professionnelle.",
+      "pedagogicalExplanation": "L. 3124-11 énumère les sanctions administratives : avertissement, retrait temporaire ou définitif de la carte, en cas de violation de la réglementation applicable à la profession. Autorité : préfet (R. 3124-4 / R. 3124-8).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3124-11, R. 3124-4, R. 3124-8. Indication annale CMA 2022. Compil. DGITM T3P.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2022-A-q12-d0682d45",
+      "proposedOpenAnswer": "Condition d’honorabilité professionnelle : absence au bulletin n° 2 du casier judiciaire des condamnations limitativement énumérées à l’article R. 3120-8 (souvent résumée en examen par « B2 vierge » des peines concernées).",
+      "pedagogicalExplanation": "L’honorabilité n’est pas une notion morale vague : R. 3120-8 liste les condamnations qui font obstacle à l’exercice. L’indication CMA « B2 vierge » est une formule pédagogique : le B2 ne doit pas comporter les peines listées.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-2-1 (honorabilité) et R. 3120-8. Indication annale CMA 2022. Compil. DGITM T3P.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2022-A-q13-1e2b58e4",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "L’aptitude professionnelle est en principe constatée par la réussite à l’examen (R. 3120-7). Une simple formation ne suffit pas. L’expérience de conducteur n’est pas la voie obligatoire générale (des équivalences existent pour certains profils, hors option A telle que rédigée).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-2-1 et R. 3120-7. Compil. DGITM T3P. Point de vigilance : équivalences / VMDTR — validation humaine si le barème vise une autre option.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2022-A-q14-9cbb981d",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "Un litige de tarification de course relève du contentieux civil de consommation / contrat, historiquement évoqué sous l’appellation « juge de proximité ». La préfecture traite surtout les manquements professionnels (et précise souvent ne pas traiter les remboursements). Prud’hommes = travail ; tribunal de commerce = commerçants entre eux. Attention : terminologie 2026 = tribunal de proximité / tribunal judiciaire (petits litiges).",
+      "documentaryRef": "Consultation 2026-10-13. Service-Public F35125 (tribunal de proximité, litiges ≤ 10 000 €) https://www.service-public.gouv.fr/particuliers/vosdroits/F35125. Formulaire Pref. Police : incompétence pour remboursements. Confiance moyenne : libellé d’examen « juge de proximité » daté.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2022-A-q15-5f99467b",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "La formation continue est obligatoire tous les cinq ans ; l’attestation est valable cinq ans (R. 3120-8-2).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-8-2. Compil. DGITM T3P. Inchangé depuis 2022.",
+      "confidence": "high"
+    }
+  ]
+}

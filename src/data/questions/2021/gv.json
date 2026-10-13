@@ -1,0 +1,297 @@
+[
+  {
+    "id": "2021-GV-q01-804dd097",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 1,
+    "stem": "Quelle sont les dimensions minimum d'une voiture pour être utilisée comme VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "4,3 m x 1,5 m"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "4,5 m x 1,7 m"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "4,5 m x 1,6 m"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "4,6 m x 1,8 m"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-GV: n° d'examen capturé; stem nettoyé; alias 2021-GV-q49959-a8f8c61f."
+    ],
+    "legacyIds": [
+      "2021-GV-q49959-a8f8c61f"
+    ]
+  },
+  {
+    "id": "2021-GV-q02-65dc0b6d",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 2,
+    "stem": "La prise en charge d'un client sur une voie ouverte à la circulation publique sans réservation préalable est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "autorisée si elle est consécutive à la dépose du client précédent sur le même lieu"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "passible d'une suspension du permis de conduire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un délit puni d'une peine de prison et d'une amende pouvant aller jusqu'à 15 000€"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GV-q03-50c11b46",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 3,
+    "stem": "Pour la réalisation d'une prestation de VTC :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "les conditions générales de vente peuvent constituer un document valant contrat, sous réserve que le client ait dûment signé la dernière page"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "les conditions générales de vente peuvent constituer un document valant contrat, sous réserve que le client ait dûment signé toutes les pages"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il doit exister un contrat avec le client final qui doit être obligatoirement écrit sur support papier"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "il doit exister un contrat avec le client final pouvant être écrit sur support papier ou électronique"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GV-q04-961127c7",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 4,
+    "stem": "Quelle démarche faut-il entreprendre pour pouvoir exploiter un véhicule électrique dérogeant aux caractéristiques techniques imposées aux véhicules VTC?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Il n'y a pas de démarche car un véhicule électrique n'a pas besoin de respecter des\ncaractéristiques techniques pour être utilisé par un chauffeur VTC",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GV-q05-52d1eb2b",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 5,
+    "stem": "La durée maximale de stationnement précédant l'horaire de prise en charge mentionné par le client lors de sa réservation à un aéroport ou une gare pour un VTC est de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1 heure"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "45 minutes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "30 minutes"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "1 h 30"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GV-q06-8c53e464",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 6,
+    "stem": "Si vous utilisez votre véhicule VTC à des fins privées, que devez-vous faire ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Retirer la carte professionnelle",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GV-q07-37418464",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 7,
+    "stem": "Comment reconnait-on un VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Par un macaron à l'avant et à l'arrière du véhicule"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Par un macaron à l'arrière"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Par la couleur noire du véhicule de haut-de-gamme"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Par un macaron à l'avant"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GV-q08-6a844bda",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 8,
+    "stem": "L'inscription au registre des exploitants VTC donne lieu à :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la publication au bulletin officiel"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la délivrance d'un diplôme"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la publication du nom de l'entreprise dans la liste des exploitants sur le site du Ministère"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la délivrance d'une attestation d'inscription"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

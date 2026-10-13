@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "suggestions": [
+    {
+      "questionId": "2021-B-q02-f93825f9",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "En comptabilité, le résultat d’exploitation = produits d’exploitation − charges d’exploitation. Si les charges sont inférieures aux produits, le résultat est positif : bénéfice d’exploitation. Ce n’est pas, en soi, un dépôt de bilan ni une perte.",
+      "documentaryRef": "Consultation 2026-10-13. Notion de résultat d’exploitation (plan comptable / pédagogie gestion). Pas de texte pénal spécifique — raisonnement comptable standard. Inchangé 2021→2026.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-B-q03-7d37122c",
+      "proposedChoiceIds": ["d"],
+      "pedagogicalExplanation": "Les statuts fixent la durée de la société, qui ne peut excéder 99 ans (prorogeable par périodes ≤ 99 ans). Réponse : 99 ans.",
+      "documentaryRef": "Consultation 2026-10-13. Code de commerce art. L. 210-2 — https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000005634379/LEGISCTA000006113739/ ; Service-Public Entreprendre F36201 https://entreprendre.service-public.gouv.fr/vosdroits/F36201. Inchangé depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-B-q04-715861bf",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "RÉPONSE D’ANNALE 2021 : l’extrait d’immatriculation au Répertoire des Métiers s’appelait extrait D1 (équivalent artisan du Kbis commercial). RÉPONSE 2026 : depuis le 1er janvier 2023, le RM est intégré au Registre national des entreprises (RNE) ; l’extrait D1 n’est plus délivré — le justificatif est l’attestation/extrait RNE (DGE / Service-Public). La suggestion conserve B comme réponse historique d’examen.",
+      "documentaryRef": "Consultation 2026-10-13. Service-Public Entreprendre A18918 (Kbis vs RNE) https://entreprendre.service-public.gouv.fr/actualites/A18918 ; DGE — attestation RNE https://www.entreprises.gouv.fr/la-dge/actualites/attestation-dimmatriculation-au-registre-national-des-entreprises-ou-extrait-rne. Question potentiellement obsolète dans sa formulation.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-B-q05-776b254b",
+      "proposedOpenAnswer": "Amortissement linéaire annuel = 21 000 € HT ÷ 3 = 7 000 € HT.",
+      "pedagogicalExplanation": "En amortissement linéaire (constant), la base amortissable HT est répartie également sur la durée d’utilisation. 21 000 / 3 = 7 000 € HT par an. (Pas de valeur résiduelle indiquée.)",
+      "documentaryRef": "Consultation 2026-10-13. Indication annale CMA 2021. Règle d’amortissement linéaire (CGI / plan comptable — principe pédagogique). Inchangé sur le calcul.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-B-q06-3b9206b5",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "L’immatriculation artisanale exigeait classiquement une qualification professionnelle (ou équivalence) pour l’activité concernée. Le permis D n’est pas requis pour le T3P léger ; la propriété du véhicule n’est pas une condition d’immatriculation au RM. Vigilance 2026 : formalités via guichet unique / RNE — le libellé « Répertoire des Métiers » est daté.",
+      "documentaryRef": "Consultation 2026-10-13. Cadre historique répertoire des métiers / qualification artisanale (code de l’artisanat). Évolution 2023 RNE — Service-Public Entreprendre. Confiance moyenne-élevée sur A ; formulation RM à signaler comme potentiellement obsolète.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-B-q07-64d444dd",
+      "proposedChoiceIds": ["d"],
+      "pedagogicalExplanation": "Le code APE (activité principale exercée / NAF) est attribué par l’INSEE à partir de l’activité déclarée, à des fins statistiques. Ni l’URSSAF, ni la CMA, ni la SSI ne l’attribuent.",
+      "documentaryRef": "Consultation 2026-10-13. INSEE FAQ Sirene « Qui attribue le code APE ? » https://www.insee.fr/fr/information/6790269?question=qui-attribue-le-code-ape ; Service-Public F33050 https://entreprendre.service-public.gouv.fr/vosdroits/F33050. Inchangé depuis 2021 (NAF 2025 à venir 2027 — hors question).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-B-q08-8dd210c6",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "SARL = Société À Responsabilité Limitée. « Société anonyme à responsabilité limitée » mélange SARL et SA.",
+      "documentaryRef": "Consultation 2026-10-13. Code de commerce — sociétés à responsabilité limitée (L. 223-1 et s.). Définition statutaire inchangée.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-B-q09-b0bcc50d",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Par construction, le bilan est toujours équilibré : total de l’actif = total du passif (capitaux propres + dettes). Un bénéfice ou une perte apparaît dans le compte de résultat et se retrouve dans les capitaux propres, pas comme un déséquilibre actif/passif.",
+      "documentaryRef": "Consultation 2026-10-13. Principe d’équilibre du bilan (PCG). Inchangé 2021→2026.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-B-q10-7249cd8b",
+      "proposedOpenAnswer": "Sujet de droit distinct des personnes physiques qui le composent (ex. société, association), doté de la personnalité juridique lui permettant d’avoir des droits et obligations propres.",
+      "pedagogicalExplanation": "Une personne morale est une entité juridique (société, association, etc.) distincte des personnes physiques. L’indication CMA (« regroupement… ») est une formulation pédagogique partielle : la personnalité morale naît notamment de l’immatriculation pour les sociétés (code civil / code de commerce).",
+      "documentaryRef": "Consultation 2026-10-13. Code civil art. 1842 (personnalité des sociétés) ; indication annale CMA 2021. Confiance medium sur la formulation exacte attendue à l’examen.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-B-q11-53bdeb27",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Le président de SASU, lorsqu’il est rémunéré, est affilié au régime général en qualité d’assimilé salarié (pas salarié au sens du droit du travail ; pas de cotisation chômage sur le mandat). « Salarié » / « travailleur salarié » sont inexactes au sens strict.",
+      "documentaryRef": "Consultation 2026-10-13. Service-Public Entreprendre F36240 https://entreprendre.service-public.gouv.fr/vosdroits/F36240 ; Code de la sécurité sociale art. L. 311-3 (assimilés). Inchangé sur le principe depuis 2021.",
+      "confidence": "high"
+    }
+  ]
+}

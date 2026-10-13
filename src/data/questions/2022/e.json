@@ -1,0 +1,748 @@
+[
+  {
+    "id": "2022-E-q01-895d1812",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "I need a taxi for tomorrow afternoon :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "J'ai besoin d'un taxi pour demain après-midi"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "J'ai besoin d'un taxi pour demain"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "J'ai besoin d'un taxi pour cet après-midi"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-E: n° d'examen capturé; stem nettoyé; alias 2022-E-q58136-cbf26286."
+    ],
+    "legacyIds": [
+      "2022-E-q58136-cbf26286"
+    ]
+  },
+  {
+    "id": "2022-E-q02-d48a9ff9",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "Est-ce qu'il y a un musée dans votre ville ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "is there museum on your town ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "whats a museum in your town ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "is there a museum in your town ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q03-f86a21bb",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "Pouvez-vous attendre quelques minutes ? Mon ami arrive.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Could you wait a couple of minutes ? My friend would arrive"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Could you wait a couple of minutes ? My friend is coming"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Are you waiting a couple of minutes ? My friend is coming"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q04-38f358a9",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Souhaitez-vous un reçu ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "do you want a ticket?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "would you like a receipt?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "did you want a bill?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-E-q08-38f358a9 (original conservé)."
+    ],
+    "duplicateOf": "2021-E-q08-38f358a9"
+  },
+  {
+    "id": "2022-E-q05-5b354581",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Ma voiture ne démarre pas :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "my car shouldn't start"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "my car didn't start"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "my car doesn't start"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q06-2046240d",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "What is the translation of « driving »?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Conduire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Partir"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Construire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q07-81233fea",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quelle est la marque de votre voiture ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "What brand is your car?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "How is your car?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Is that your car?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q08-49f6e33f",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Are you free?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Êtes-vous disponible ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Êtes-vous prêt ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Êtes-vous gratuit ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q09-19946e95",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Mettez votre ceinture de sécurité :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Fasten your seat belt"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Sit on your seat belt"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Unfasten your seat belt"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q10-8cf70600",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Can you take us to the airport before 4 pm?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Pouvez-vous nous conduire à l'aéroport avant 4h de l'après midi ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Pouvez-vous aller à l'aéroport à 4h de l'après midi ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Peux-tu nous prendre à l'aéroport à 4h ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q11-727a8872",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 11,
+    "stem": "I am so sorry, I lost my wallet. What can we do ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Je suis désolé, j'ai perdu mon sac à main. Que pouvons-nous faire ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Je suis désolé, j'ai perdu mon portefeuille. Que pouvons-nous faire ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Je suis désolé, j'ai perdu mon portefeuille. Que pouvez-vous faire ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q12-2199ac4e",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 12,
+    "stem": "Do you have a business card?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Avez-vous une carte professionnelle?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Avez-vous une carte des entreprises ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Avez-vous une carte de visite ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q13-adbcdab4",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 13,
+    "stem": "I can't go through, the road is blocked.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Je peux traverser, la circulation n'est pas bloquée"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Je ne peux pas y aller, la route est bloquée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Je peux y aller, la route n'est pas bloquée"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q14-5ac0ee6e",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 14,
+    "stem": "There seems to be traffic jams on the motorway, do you know another way ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Il semble que les routes soient bloquées, pouvez-vous prendre l'autoroute ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Il semblerait qu'il faille prendre l'autoroute pour éviter les bouchons ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Apparemment, il y a des bouchons sur l'autoroute, connaissez-vous une autre route ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q15-6bfdaebf",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 15,
+    "stem": "Will we be on time for my train?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Est-ce que le train sera à l'heure ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Serons-nous à l'heure pour mon train ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "A quelle heure est mon train ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q16-2fc069f2",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 16,
+    "stem": "Taking the bus is cheaper than taking the train:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Prendre le bus coûte plus cher que prendre le train"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Prendre le bus coûte moins cher que prendre le train"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Prendre le bus est plus long que prendre le train"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q17-10343275",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 17,
+    "stem": "We booked a guest house in Lamentin:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Nous avons réservé dans une maison d'hôtes au Lamentin"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Vous livrez les invités au Lamentin"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Nous avons un livre d'invités au Lamentin"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q18-bc0cad2b",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 18,
+    "stem": "I have a commute at the station at 4.15 pm.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "J'ai une correspondance à la gare à 16h15"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "J'ai une correspondance à l'aéroport à 16h15"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "J'ai une correspondance à la gare à 4h15 du matin"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q19-e809d79b",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 19,
+    "stem": "I would like to visit the south of France, have you already been there?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "J'aimerais visiter le sud de la France, y êtes-vous déjà allé ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Je veux visiter le sud de la France, y êtes-vous déjà allé ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Je veux visiter le sud de la France, êtes-vous déjà descendu là-bas ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q20-c046f48f",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 20,
+    "stem": "Do you have change on ten euros?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Pouvez-vous me donner dix euros ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Connaissez-vous un bureau de change pour des euros ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Avez-vous la monnaie sur dix euros ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

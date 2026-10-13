@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "suggestions": [
+    {
+      "questionId": "2021-FV-q01-715e2d6a",
+      "proposedOpenAnswer": "Politique risquée : marge et rentabilité fragilisées ; risque d’image « prix bas = qualité basse » ; pression concurrentielle et dégradation perçue de la profession ; difficile à remonter ensuite.",
+      "pedagogicalExplanation": "Indication CMA : bas prix pour conquérir le marché = risque économique et d’image. Raisonnement commercial général (pas une norme juridique VTC).",
+      "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 FV Q1. Marketing : stratégie de pénétration / dumping perçu.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-FV-q02-4cc8521f",
+      "proposedChoiceIds": ["a", "c"],
+      "pedagogicalExplanation": "La marge peut s’exprimer en % du chiffre d’affaires (taux de marge commerciale / marge nette selon définitions) ou en % du coût de revient. Ce n’est pas un % du coût fixe ni des cotisations sociales. Type banque `single` mais formulation « peut être » : A et C sont les expressions pédagogiques classiques — revue humaine du barème.",
+      "documentaryRef": "Consultation 2026-10-13. Comptabilité / gestion : marge = CA − coûts ; taux de marge / taux de marque (référentiels BTS / BPI France pédagogie). Pas de texte VTC spécifique.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-FV-q03-7d72f76a",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "Les 4P du marketing mix : Product, Price, Place, Promotion (Produit, Prix, Distribution/Place, Communication/Promotion). Les autres listes mélangent des leviers hors modèle classique.",
+      "documentaryRef": "Consultation 2026-10-13. Marketing mix McCarthy (4P) — référentiel commercial standard. Inchangé.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-FV-q04-772e340b",
+      "proposedOpenAnswer": "Prospection traditionnelle (porte-à-porte, téléphone, réseaux locaux) et prospection numérique (site, mailing, réseaux sociaux, plateformes) — un exemple de chaque.",
+      "pedagogicalExplanation": "Indication CMA : distinguer canaux traditionnels et numériques avec un exemple chacun.",
+      "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 FV Q4.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-FV-q05-f8f41748",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "Avant mix et plan d’action, la démarche commerciale commence par l’analyse du marché (besoins, concurrence, segmentation). Le marketing mix et le plan d’action viennent ensuite.",
+      "documentaryRef": "Consultation 2026-10-13. Démarche stratégique commerciale (diagnostic / étude de marché → objectifs → mix → plan). Pédagogie gestion/commerce.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-FV-q07-e38fabec",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "En pratique pédagogique et fiscale courante, le matériel informatique est souvent amorti sur 3 ans (durée d’usage courte). 1 an est trop court hors cas exceptionnel ; 5 ans est plus typique d’autres immobilisations.",
+      "documentaryRef": "Consultation 2026-10-13. Pratique d’amortissement informatique (durées d’usage courantes / doctrine fiscale pédagogique). Vérifier barème exact de l’annale — confiance medium-high.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-FV-q08-2c2d1d26",
+      "proposedOpenAnswer": "TVA transport de personnes 10 % : HT = 75 / 1,10 ≈ 68,18 € ; TVA = 75 − 68,18 ≈ 6,82 €.",
+      "pedagogicalExplanation": "Indication CMA confirme le taux 10 % (transport de voyageurs). Calcul : prix TTC / (1+t) = HT ; TVA = TTC − HT.",
+      "documentaryRef": "Consultation 2026-10-13. Indication annale CMA 2021 FV Q8. Code général des impôts — taux réduit 10 % transport de voyageurs (art. 279 b quater CGI, sauf exceptions). Toujours d’actualité en 2026 pour le transport public routier de personnes concerné.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-FV-q10-5346f142",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "Bonne pratique de sécurité / qualité de service de nuit : déposer devant l’immeuble et attendre que la cliente soit entrée. Repartir aussitôt (B) est risqué ; raccompagner jusqu’à l’appartement (C) n’est pas attendu et peut être inapproprié.",
+      "documentaryRef": "Consultation 2026-10-13. Savoir-être / qualité de service VTC (guides professionnels / formation CMA) — pas un article du code des transports. Confiance pédagogique high.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-FV-q14-71bb2eda",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Le panier moyen = montant moyen des achats (ou du CA) par client / par commande. Pas la taille physique d’un panier de courses.",
+      "documentaryRef": "Consultation 2026-10-13. Indicateur commercial standard (CA / nombre de clients). Pédagogie gestion.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-FV-q16-da00bd7e",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "B to B = Business to Business (prestations entre professionnels). A est la bonne définition. C reformule correctement le sens mais le sigle standard est « business to business » (A) ; B décrit du C to C / particulier.",
+      "documentaryRef": "Consultation 2026-10-13. Vocabulaire commercial B2B / B2C. Si le barème n’accepte qu’une case, A est la réponse attendue.",
+      "confidence": "high"
+    }
+  ]
+}

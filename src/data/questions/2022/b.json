@@ -1,0 +1,667 @@
+[
+  {
+    "id": "2022-B-q01-38e2d57d",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "Bilan et compte de résultat sont obligatoires pour toutes structures exploitées :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "sous statut fiscal de réel simplifié"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "sous régime de micro-entrepreneur"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "sous statut fiscal de réel normal"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-B: n° d'examen capturé; stem nettoyé; alias 2022-B-q58145-11c4c132."
+    ],
+    "legacyIds": [
+      "2022-B-q58145-11c4c132"
+    ]
+  },
+  {
+    "id": "2022-B-q02-97ac5d47",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "Mme Sophie achète et met en service un véhicule le 1er mars 2023 pour une valeur de 24 000 € HT, amortissable de façon linéaire sur 5 ans. Ses comptes sont clôturés traditionnellement le 31 décembre de chaque année. Quelle sera la valeur comptable nette du véhicule au 31 décembre 2026 ? Détaillez vos calculs.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "24 000 / 5 = 4 800 €\n1er année = 4 800 x 10 / 12 = 4000 €\n2ème, 3ème et 4ème année = 4 800 € chacune\nTotal amortissement au 31 décembre 2026 = 18 400 €\nValeur comptable nette au 31 décembre 2026 = 24 000 - 18 400 = 5 600 €",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-B-q03-b6c22a7a",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "Parmi ces propositions, laquelle (lesquelles) se trouve(nt) à l'actif du bilan :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le prêt bancaire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la banque"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "le véhicule"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "le capital"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q04-f9e501de",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Une entreprise individuelle :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "doit changer de statut juridique pour embaucher un salarié"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "peut embaucher des salariés"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "ne peut embaucher qu'un apprenti"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q05-547ee3f2",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Le résultat d'une entreprise est obtenu par :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la différence entre produits et charges"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la différence entre actif et passif"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "stock + créances clients - dettes fournisseurs"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q06-2c348126",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "Dans un bilan comptable, un amortissement fait baisser :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "les charges"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le bénéfice"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "l'imposition"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q07-8ffbc43f",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "L'assujettissement du bénéfice de l'entreprise à l'impôt sur les sociétés est possible dans le cadre :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'une SARL"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "d'une SARL à associé unique (anciennement EURL)"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "d'une micro-entreprise"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q08-0936b587",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Les montants figurant dans le compte de résultat sont :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "HT"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "TTC"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "TVA"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q09-ffafbfec",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Qu'est-ce qu'une créance client ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une facture en attente de création"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une facture impayée par un client"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une facture réglée par un client"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "une facture due à un fournisseur"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q10-dbd5487a",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Lequel de ces documents n'est pas demandé à un artisan pour s'inscrire au Répertoire des Métiers ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "extrait du casier judiciaire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "justificatif de domicile"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "carte de sécurité sociale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q11-1b2ac6f3",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 11,
+    "stem": "Vous créez seul(e) une activité de transport de personnes. Quels sont les statuts juridiques possibles ? (citez-en trois)",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Entreprise Individuelle (EI)\nSARL à associé unique (anciennement EURL)\nSASU",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-B-q12-60df750e",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 12,
+    "stem": "Le Président de la Chambre de Métiers et de l'Artisanat est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un(e) salarié(e) de la fonction publique"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un(e) artisan(e) en exercice"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une personne nommée par le Préfet de région"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q13-13a70018",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 13,
+    "stem": "Qu'est-ce qu'un chiffre d'affaires ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'argent qui reste en banque après avoir payé toutes les charges"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la différence entre les produits et les charges"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "l'ensemble des commandes ou devis"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "l'ensemble des sommes facturées aux clients"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q14-4a7e3296",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 14,
+    "stem": "Lors de la création d'une société, la publication d'une annonce légale est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "obligatoire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "nécessaire pour faire de la publicité"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "facultative"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q15-217e65b8",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 15,
+    "stem": "Un artisan exerçant en entreprise individuelle est imposé de plein droit à :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'impôt sur les sociétés et l'impôt sur le revenu des personnes physiques"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "l'impôt sur le revenu des personnes physiques"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "l'impôt sur les sociétés"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q16-f6a63a8b",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 16,
+    "stem": "Quel est le taux de TVA applicable sur le transport de personnes ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "7 %"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "10 %"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "20%"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "5,5 %"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q17-85fc4ab6",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 17,
+    "stem": "Quel est le code qui permet de déterminer l'activité réalisée par une entreprise ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "SIRET"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "SIREN"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "APE"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q18-6826e76b",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 18,
+    "stem": "Les emprunts sont intégrés dans :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "les créances sur client"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "les dettes à long terme"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "les capitaux permanents"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "les immobilisations"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

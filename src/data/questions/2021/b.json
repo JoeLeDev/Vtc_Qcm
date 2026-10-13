@@ -1,0 +1,700 @@
+[
+  {
+    "id": "2021-B-q01-f4004dbb",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Parmi ces propositions, qu'est-ce qui constitue une charge déductible pour un entrepreneur individuel ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "L'achat d'un véhicule"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "La facture d'entretien du véhicule"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Le loyer de crédit-bail"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Le prélèvement de l'exploitant"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-B: n° d'examen capturé; stem nettoyé; alias 2021-B-q49954-010db5b5."
+    ],
+    "legacyIds": [
+      "2021-B-q49954-010db5b5"
+    ]
+  },
+  {
+    "id": "2021-B-q02-f93825f9",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "Lorsque les charges d'exploitation d'une entreprise sont inférieures aux produits :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "il y a bénéfice d'exploitation"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "l'entreprise doit déposer le bilan"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il y a perte d'exploitation"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q03-7d37122c",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Quelle est la durée de vie maximum prévue par la loi pour une SARL ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "25 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "10 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "50 ans"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "99 ans"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q04-715861bf",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Comment appelle-t-on l'extrait d'immatriculation d'une entreprise artisanale ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un extrait de casier n°2"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un extrait D1"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un extrait K-bis"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q05-776b254b",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Un artisan achète un véhicule 21 000 € HT. Ce véhicule est amorti sur 3 ans. De combien sera l'amortissement linéaire annuel ? Détaillez votre calcul.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "21 000 / 3 = 7 000 € HT d'amortissement annuel",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-B-q06-3b9206b5",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "Pour être immatriculé au Répertoire des Métiers, le futur chef d'entreprise du T3P doit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "avoir une qualification professionnelle spécifique"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "être titulaire du permis D transports en commun"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "être propriétaire de son véhicule"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q07-64d444dd",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Qui attribue le code APE d'une entreprise ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "URSSAF"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "SSI"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "CMA"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "INSEE"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q08-8dd210c6",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "Que signifie le sigle SARL ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "société à responsabilité limitée"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "société anonyme à responsabilité limitée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "société à régime limitée"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "système anonyme à responsabilité limitée"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q09-b0bcc50d",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "Dans un bilan :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Si le total de l'actif est supérieur au passif il y a bénéfice"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le total de l'actif est toujours égal au total du passif"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Si le total de l'actif est inférieur au passif il y a perte"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q10-7249cd8b",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "Qu'est-ce qu'une personne morale ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Une personne morale est généralement constituée par un regroupement de personnes\nphysiques ou morales qui souhaitent accomplir quelque chose en commun.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-B-q11-53bdeb27",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 11,
+    "stem": "Le Président d'une SASU est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "salarié"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "assimilé salarié"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "travailleur salarié"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q12-d0090949",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 12,
+    "stem": "La CRDS signifie :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "contribution régionale pour les dépenses sociales"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "contribution pour le remboursement de la dette sociale"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "contribution régionale au développement social"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "contribution pour la réduction de la dette sociale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q13-c62dfc3f",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 13,
+    "stem": "Quels sont les critères qui caractérisent une activité relevant du Répertoire des Métiers ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "L'effectif"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le chiffre d'affaires"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La nature d'activité"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La forme juridique"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "B 2021 Q13: « Quels sont les critères » → multiple."
+    ],
+    "legacyIds": [
+      "TYPEFIX-2021-B-q13"
+    ]
+  },
+  {
+    "id": "2021-B-q14-a52fc5bf",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 14,
+    "stem": "Dans quel cas un gérant de société à capitaux est-il salarié ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Associé unique SARL"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Président de SAS"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Gérant de SARL possédant 51 % des parts sociales"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q15-4c5a49c5",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 15,
+    "stem": "Chaque mois, la TVA à décaisser représente :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la TVA sur les achats"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la TVA déductible moins la TVA collectée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la TVA sur les ventes"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la TVA collectée moins la TVA déductible"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q16-e1daaae0",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 16,
+    "stem": "Parmi les propositions suivantes, la ou lesquelles correspond(ent) à un investissement ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Les honoraires d'expert-comptable"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Les assurances professionnelles"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "L'acquisition d'un véhicule"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La révision du véhicule"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "B 2021 Q16: « la ou lesquelles » → multiple."
+    ],
+    "legacyIds": [
+      "TYPEFIX-2021-B-q16"
+    ]
+  },
+  {
+    "id": "2021-B-q17-bfa53207",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 17,
+    "stem": "La TVA sur les carburants est-elle récupérable ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "oui, partiellement dans tous les cas"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "non, dans tous les cas"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "oui, totalement dans tous les cas"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "cela dépend de la fiscalité départementale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q18-b4e17881",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 18,
+    "stem": "Selon le Code de Commerce, les documents comptables doivent être conservés :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "5 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un an"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "3 ans"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "10 ans"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

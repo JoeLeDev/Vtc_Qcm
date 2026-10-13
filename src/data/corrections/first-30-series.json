@@ -1,0 +1,1565 @@
+{
+  "version": 1,
+  "title": "Première série à valider",
+  "generatedAt": "2026-10-13",
+  "count": 30,
+  "note": "Aucune promotion automatique vers verified. Validation individuelle obligatoire.",
+  "questionIds": [
+    "2021-A-q02-f1d3d2e2",
+    "2021-A-q03-f89927f8",
+    "2021-A-q05-ffc0ef7b",
+    "2021-A-q06-94ae2b9a",
+    "2021-A-q11-01fdc9ac",
+    "2021-A-q12-adcd7c27",
+    "2021-B-q02-f93825f9",
+    "2021-B-q03-7d37122c",
+    "2021-B-q07-64d444dd",
+    "2021-B-q08-8dd210c6",
+    "2021-C-q03-23bb0d60",
+    "2021-C-q04-3f61e04a",
+    "2021-C-q08-4bea5117",
+    "2021-C-q09-b9b5e399",
+    "2021-D-q01-5033fa43",
+    "2021-D-q02-78f6c3f9",
+    "2021-D-q03-ba70d707",
+    "2021-D-q04-9c2d7e6c",
+    "2021-E-q02-4b357b6d",
+    "2021-E-q03-4d41b751",
+    "2021-E-q04-b8b4897a",
+    "2021-E-q06-fdae0354",
+    "2021-E-q10-98210ba6",
+    "2021-FV-q03-7d72f76a",
+    "2021-FV-q05-f8f41748",
+    "2021-FV-q14-71bb2eda",
+    "2021-FV-q16-da00bd7e",
+    "2021-GV-q01-804dd097",
+    "2021-GV-q05-52d1eb2b",
+    "2021-GV-q07-37418464"
+  ],
+  "items": [
+    {
+      "order": 1,
+      "questionId": "2021-A-q02-f1d3d2e2",
+      "subject": "A",
+      "year": 2021,
+      "number": 2,
+      "type": "single",
+      "stem": "Un conducteur sanctionné par le tribunal correctionnel pour délit de fuite peut saisir :",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "le tribunal judiciaire pour une condamnation inférieure à 4 000 €"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "la cour d'appel"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "la cour de cassation"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "le tribunal correctionnel qui jugera à nouveau l'affaire"
+        }
+      ],
+      "proposedChoiceIds": [
+        "b"
+      ],
+      "proposedChoices": [
+        {
+          "id": "b",
+          "label": "B",
+          "text": "la cour d'appel"
+        }
+      ],
+      "pedagogicalExplanation": "Une condamnation du tribunal correctionnel se conteste en appel devant la cour d’appel (voie de réformation de fait et de droit). La Cour de cassation n’est saisie qu’après appel, pour le droit seulement. Le tribunal correctionnel ne « rejugera » pas l’affaire hors voies de recours prévues ; le tribunal judiciaire n’est pas la juridiction d’appel du correctionnel.",
+      "documentaryRef": "Consultation 2026-10-13. Code de procédure pénale — appel des jugements correctionnels (art. 496 et s.). Légifrance code de procédure pénale : https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006071154/. Règle inchangée depuis 2021.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Appel correctionnel — Code procédure pénale (structure inchangée). Source à confirmer sur Légifrance au moment de la validation UI.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 2,
+      "questionId": "2021-A-q03-f89927f8",
+      "subject": "A",
+      "year": 2021,
+      "number": 3,
+      "type": "single",
+      "stem": "Quelle est la taille minimum de la commune dans laquelle peut s'exercer une activité du T3P ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "11000 habitants"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "1500 habitants"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Il n'y a pas de taille minimum"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "20000 habitants"
+        }
+      ],
+      "proposedChoiceIds": [
+        "c"
+      ],
+      "proposedChoices": [
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Il n'y a pas de taille minimum"
+        }
+      ],
+      "pedagogicalExplanation": "Aucune disposition du code des transports n’assujettit l’exercice d’une activité T3P (taxi, VTC, VMDTR) à un seuil minimal d’habitants de la commune. Les seuils démographiques rencontrés ailleurs (ex. PDU / LOTI) ne créent pas une taille minimale de commune pour le T3P.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports, titre II livre Ier 3e partie (L. 3120-1 et s.) — absence de condition de taille de commune. Présentation ministérielle T3P : https://www.ecologie.gouv.fr/politiques-publiques/taxi-vtc-vmdtr-cpa-reglementation-transports-publics-particuliers-personnes. Inchangé depuis 2021 sur ce point.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Absence de seuil démographique T3P — raisonnement a contrario code transports ; pas de source positive d’un seuil.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 3,
+      "questionId": "2021-A-q05-ffc0ef7b",
+      "subject": "A",
+      "year": 2021,
+      "number": 5,
+      "type": "single",
+      "stem": "Quelle est l'autorité qui effectue la vérification du casier judiciaire d'un candidat à la carte professionnelle de conducteur de véhicules T3P ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "le préfet de police ou le préfet"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "le préfet de région"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "les forces de l'ordre"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "le ministère chargé des transports"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "le préfet de police ou le préfet"
+        }
+      ],
+      "pedagogicalExplanation": "La carte professionnelle de conducteur T3P est délivrée par l’autorité administrative : préfet du département (ou préfet de police à Paris). C’est cette autorité qui s’assure des conditions d’honorabilité, notamment via le bulletin n° 2 du casier judiciaire (art. R. 3120-8). Ni le préfet de région, ni le ministère chargé des transports, ni « les forces de l’ordre » en tant que telles ne délivrent la carte ni ne conduisent cette vérification administrative.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-2-2 (délivrance de la carte), R. 3120-6 (conditions de délivrance), R. 3120-8 (honorabilité / B2), R. 3122-10 (préfet / préfet de police pour VTC). Compil. DGITM T3P. Pages Service-Public consultées via recherche (F21907/F31027 ont renvoyé 404 le 2026-10-13 ; s’appuyer sur Légifrance/DGITM).",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "à revoir",
+      "documentaryNote": "Autorité casier judiciaire candidat carte pro — vérifier article précis code transports / procédure administrative avant validation.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "à revoir"
+    },
+    {
+      "order": 4,
+      "questionId": "2021-A-q06-94ae2b9a",
+      "subject": "A",
+      "year": 2021,
+      "number": 6,
+      "type": "single",
+      "stem": "Quelle est l'ancienneté maximum pour un véhicule hybride ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "6 ans"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "aucune"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "7 ans"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "2 ans"
+        }
+      ],
+      "proposedChoiceIds": [
+        "b"
+      ],
+      "proposedChoices": [
+        {
+          "id": "b",
+          "label": "B",
+          "text": "aucune"
+        }
+      ],
+      "pedagogicalExplanation": "Pour les VTC, l’arrêté du 26 mars 2015 fixe une ancienneté maximale de moins de six ans (sauf véhicules de collection), mais son article 2 exclut expressément les véhicules hybrides et électriques de ces exigences. L’article L. 3120-5 du code des transports confirme que les prestations T3P peuvent être effectuées avec des véhicules électriques ou hybrides par dérogation aux caractéristiques techniques réglementaires. Réponse annale et actuelle : aucune limite d’âge spécifique issue de cet arrêté pour un hybride. La question ne précise pas « VTC » mais s’inscrit dans le sujet T3P / cadre VTC de l’examen.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-5. Arrêté du 26 mars 2015 relatif aux caractéristiques des véhicules VTC, art. 1 et 2 (NOR DEVT1500042A) — art. 1 : moins de 6 ans ; art. 2 : inapplicable aux hybrides/électriques. Réponse ministérielle AN n°33449 (rappel de l’exonération d’âge pour hybrides/électriques). Inchangé sur le principe depuis 2021.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Ancienneté véhicule hybride — contrôler arrêté caractéristiques / L.3120-5 si cité dans la suggestion.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 5,
+      "questionId": "2021-A-q11-01fdc9ac",
+      "subject": "A",
+      "year": 2021,
+      "number": 11,
+      "type": "single",
+      "stem": "La réglementation du T3P se trouve dans le :",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Code préfectoral"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Code pénal"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Code du travail"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "Code des transports"
+        }
+      ],
+      "proposedChoiceIds": [
+        "d"
+      ],
+      "proposedChoices": [
+        {
+          "id": "d",
+          "label": "D",
+          "text": "Code des transports"
+        }
+      ],
+      "pedagogicalExplanation": "Le cœur de la réglementation T3P (accès à la profession, exercice, véhicules, sanctions) figure dans le code des transports (3e partie, livre Ier, titre II). Le code pénal et le code du travail peuvent s’appliquer ponctuellement ; il n’existe pas de « code préfectoral ».",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-1 à L. 3124-15. Ministère des Transports — page T3P. Compil. DGITM T3P. Inchangé depuis 2021.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Localisation réglementation T3P dans code des transports — cadre stable.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 6,
+      "questionId": "2021-A-q12-adcd7c27",
+      "subject": "A",
+      "year": 2021,
+      "number": 12,
+      "type": "single",
+      "stem": "Pour être exploitable en activité de transport public particulier de personnes, un véhicule électrique doit être :",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "de couleur noire"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "équipé d'un pack confort (boite automatique, climatisation, connectique…)"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "soumis à des contraintes particulières"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "sans contraintes particulières"
+        }
+      ],
+      "proposedChoiceIds": [
+        "d"
+      ],
+      "proposedChoices": [
+        {
+          "id": "d",
+          "label": "D",
+          "text": "sans contraintes particulières"
+        }
+      ],
+      "pedagogicalExplanation": "Un véhicule électrique (comme un hybride) peut être utilisé pour le T3P par dérogation aux caractéristiques techniques imposées par voie réglementaire (L. 3120-5). Pour les VTC, l’arrêté du 26 mars 2015 (âge, dimensions, puissance) ne s’applique pas aux électriques/hybrides. D’où « sans contraintes particulières » au sens de ces contraintes techniques réglementaires — sans que cela dispense des autres obligations (assurance, signalétique VTC, etc.).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-5. Arrêté du 26 mars 2015 art. 2. Compil. DGITM T3P. Inchangé sur le principe depuis 2021.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "à revoir",
+      "documentaryNote": "Véhicule électrique exploitable — vérifier conditions exactes vs exemption caractéristiques.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "à revoir"
+    },
+    {
+      "order": 7,
+      "questionId": "2021-B-q02-f93825f9",
+      "subject": "B",
+      "year": 2021,
+      "number": 2,
+      "type": "single",
+      "stem": "Lorsque les charges d'exploitation d'une entreprise sont inférieures aux produits :",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "il y a bénéfice d'exploitation"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "l'entreprise doit déposer le bilan"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "il y a perte d'exploitation"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "il y a bénéfice d'exploitation"
+        }
+      ],
+      "pedagogicalExplanation": "En comptabilité, le résultat d’exploitation = produits d’exploitation − charges d’exploitation. Si les charges sont inférieures aux produits, le résultat est positif : bénéfice d’exploitation. Ce n’est pas, en soi, un dépôt de bilan ni une perte.",
+      "documentaryRef": "Consultation 2026-10-13. Notion de résultat d’exploitation (plan comptable / pédagogie gestion). Pas de texte pénal spécifique — raisonnement comptable standard. Inchangé 2021→2026.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Résultat d’exploitation — raisonnement comptable standard, pas de texte pénal.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 8,
+      "questionId": "2021-B-q03-7d37122c",
+      "subject": "B",
+      "year": 2021,
+      "number": 3,
+      "type": "single",
+      "stem": "Quelle est la durée de vie maximum prévue par la loi pour une SARL ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "25 ans"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "10 ans"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "50 ans"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "99 ans"
+        }
+      ],
+      "proposedChoiceIds": [
+        "d"
+      ],
+      "proposedChoices": [
+        {
+          "id": "d",
+          "label": "D",
+          "text": "99 ans"
+        }
+      ],
+      "pedagogicalExplanation": "Les statuts fixent la durée de la société, qui ne peut excéder 99 ans (prorogeable par périodes ≤ 99 ans). Réponse : 99 ans.",
+      "documentaryRef": "Consultation 2026-10-13. Code de commerce art. L. 210-2 — https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000005634379/LEGISCTA000006113739/ ; Service-Public Entreprendre F36201 https://entreprendre.service-public.gouv.fr/vosdroits/F36201. Inchangé depuis 2021.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "L. 210-2 code commerce — durée max 99 ans (à confirmer Légifrance).",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 9,
+      "questionId": "2021-B-q07-64d444dd",
+      "subject": "B",
+      "year": 2021,
+      "number": 7,
+      "type": "single",
+      "stem": "Qui attribue le code APE d'une entreprise ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "URSSAF"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "SSI"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "CMA"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "INSEE"
+        }
+      ],
+      "proposedChoiceIds": [
+        "d"
+      ],
+      "proposedChoices": [
+        {
+          "id": "d",
+          "label": "D",
+          "text": "INSEE"
+        }
+      ],
+      "pedagogicalExplanation": "Le code APE (activité principale exercée / NAF) est attribué par l’INSEE à partir de l’activité déclarée, à des fins statistiques. Ni l’URSSAF, ni la CMA, ni la SSI ne l’attribuent.",
+      "documentaryRef": "Consultation 2026-10-13. INSEE FAQ Sirene « Qui attribue le code APE ? » https://www.insee.fr/fr/information/6790269?question=qui-attribue-le-code-ape ; Service-Public F33050 https://entreprendre.service-public.gouv.fr/vosdroits/F33050. Inchangé depuis 2021 (NAF 2025 à venir 2027 — hors question).",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Code APE attribué par INSEE — FAQ INSEE consultable.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 10,
+      "questionId": "2021-B-q08-8dd210c6",
+      "subject": "B",
+      "year": 2021,
+      "number": 8,
+      "type": "single",
+      "stem": "Que signifie le sigle SARL ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "société à responsabilité limitée"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "société anonyme à responsabilité limitée"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "société à régime limitée"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "système anonyme à responsabilité limitée"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "société à responsabilité limitée"
+        }
+      ],
+      "pedagogicalExplanation": "SARL = Société À Responsabilité Limitée. « Société anonyme à responsabilité limitée » mélange SARL et SA.",
+      "documentaryRef": "Consultation 2026-10-13. Code de commerce — sociétés à responsabilité limitée (L. 223-1 et s.). Définition statutaire inchangée.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Définition SARL — code commerce.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 11,
+      "questionId": "2021-C-q03-23bb0d60",
+      "subject": "C",
+      "year": 2021,
+      "number": 3,
+      "type": "single",
+      "stem": "Vous êtes au volant de votre véhicule et recevez un appel sur votre téléphone portable. Vous prenez le téléphone en main, vous encourez :",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "un retrait d'un point"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "un retrait de deux points"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "un retrait de trois points"
+        }
+      ],
+      "proposedChoiceIds": [
+        "c"
+      ],
+      "proposedChoices": [
+        {
+          "id": "c",
+          "label": "C",
+          "text": "un retrait de trois points"
+        }
+      ],
+      "pedagogicalExplanation": "L’usage d’un téléphone tenu en main par le conducteur en circulation entraîne de plein droit la réduction de trois points du permis (contravention 4e classe).",
+      "documentaryRef": "Consultation 2026-10-13. Code de la route art. R. 412-6-1 — https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159599/ (section principes généraux). Inchangé sur le retrait de 3 points depuis bien avant 2021.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "R. 412-6-1 — 3 points confirmé (sources 2026).",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 12,
+      "questionId": "2021-C-q04-3f61e04a",
+      "subject": "C",
+      "year": 2021,
+      "number": 4,
+      "type": "multiple",
+      "stem": "Quelles sont les obligations expressément prévues par le code de la route, pour tout conducteur impliqué dans un accident de la circulation qui n'a provoqué que des dégâts matériels ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "avertir ou faire avertir la police"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "avertir ou faire avertir la gendarmerie"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "s'arrêter aussitôt que cela lui est possible, sans créer de danger pour la circulation"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "communiquer son identité et son adresse à toute personne impliquée dans l'accident"
+        }
+      ],
+      "proposedChoiceIds": [
+        "c",
+        "d"
+      ],
+      "proposedChoices": [
+        {
+          "id": "c",
+          "label": "C",
+          "text": "s'arrêter aussitôt que cela lui est possible, sans créer de danger pour la circulation"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "communiquer son identité et son adresse à toute personne impliquée dans l'accident"
+        }
+      ],
+      "pedagogicalExplanation": "Pour un accident à dégâts matériels seuls, R. 231-1 impose : (1°) s’arrêter dès que possible sans créer de danger ; (2°) communiquer identité et adresse aux personnes impliquées. Avertir police/gendarmerie n’est obligatoire que s’il y a blessés ou tués (3°).",
+      "documentaryRef": "Consultation 2026-10-13. Code de la route art. R. 231-1 — https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006143853/2017-11-05/. Texte justifie explicitement C et D. Type extrait « single » mais deux obligations cumulatives — validation humaine barème.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "R. 231-1 — obligations accident dégâts matériels ; type multiple confirmé par « Quelles ».",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 13,
+      "questionId": "2021-C-q08-4bea5117",
+      "subject": "C",
+      "year": 2021,
+      "number": 8,
+      "type": "single",
+      "stem": "Le décret n° 2016-448 du 13 avril 2016 modifiant certaines dispositions du code de la route relatives aux véhicules interdit les « vitres surteintées ». A cette fin, il impose :",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "un taux minimal de transparence de 70% sur les vitres avant et le pare-prise"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "un taux minimal de transparence de 80% sur les vitres arrières et lunettes-arrières"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "un taux minimal de transparence de 70% sur les vitres avant, le pare-prise et les vitres arrières"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "un taux minimal de transparence de 80% sur les vitres avant, le pare-prise et les vitres arrières"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "un taux minimal de transparence de 70% sur les vitres avant et le pare-prise"
+        }
+      ],
+      "pedagogicalExplanation": "Depuis le 1er janvier 2017 (décret 2016-448), le facteur de transmission de la lumière doit être d’au moins 70 % pour le pare-brise et les vitres latérales avant. Les vitres arrière ne sont pas soumises à ce seuil. Attention orthographe de l’énoncé (« pare-prise » = pare-brise).",
+      "documentaryRef": "Consultation 2026-10-13. Décret n° 2016-448 du 13 avril 2016 ; Code de la route art. R. 316-3 (transparence ≥ 70 % vitres avant). Préfecture Réunion / Sécurité routière. Règle déjà en vigueur en 2021 et en 2026.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Transparence vitres ≥ 70 % — décret 2016-448 / R. 316-3 (à confirmer Légifrance).",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 14,
+      "questionId": "2021-C-q09-b9b5e399",
+      "subject": "C",
+      "year": 2021,
+      "number": 9,
+      "type": "single",
+      "stem": "En cas de panne de votre véhicule, à quelle distance placez-vous le triangle de pré signalisation ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "50 mètres au moins de votre véhicule"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "10 mètres au moins de votre véhicule"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "30 mètres au moins de votre véhicule"
+        }
+      ],
+      "proposedChoiceIds": [
+        "c"
+      ],
+      "proposedChoices": [
+        {
+          "id": "c",
+          "label": "C",
+          "text": "30 mètres au moins de votre véhicule"
+        }
+      ],
+      "pedagogicalExplanation": "Le triangle de présignalisation se place sur la chaussée à environ 30 mètres (au moins) en amont du véhicule immobilisé, sauf mise en danger manifeste du conducteur. Sur autoroute/voie rapide la pratique recommande souvent davantage, mais le choix d’examen parmi A/B/C est 30 m.",
+      "documentaryRef": "Consultation 2026-10-13. Arrêté du 30 septembre 2008 relatif à la présignalisation ; art. R. 416-19 code de la route. DGCCRF fiche triangle/gilet https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Triangles-de-pre-signalisation-gilets-de-securite. Inchangé sur 30 m.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Triangle ~30 m — art. R. 416-19 / arrêté présignalisation (à confirmer).",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 15,
+      "questionId": "2021-D-q01-5033fa43",
+      "subject": "D",
+      "year": 2021,
+      "number": 1,
+      "type": "single",
+      "stem": "Quel pick-up est le plus apprécié aux États-Unis depuis longtemps ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Le SpaceX"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Le Ford F-150"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Le Blade Runner"
+        }
+      ],
+      "proposedChoiceIds": [
+        "b"
+      ],
+      "proposedChoices": [
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Le Ford F-150"
+        }
+      ],
+      "pedagogicalExplanation": "D’après le texte 20 Minutes (illustration p.9), le pick-up le plus apprécié depuis longtemps aux États-Unis est le Ford F-150 ; le Cybertruck est présenté comme un concurrent atypique. SpaceX n’est pas un pick-up ; « Blade Runner » désigne l’esthétique / surnom du concept, pas le modèle de référence du marché.",
+      "documentaryRef": "Consultation 2026-10-13. Texte d’annale CMA 2021 D (capture `/annales/images/2021-p9.png`) — article 20 Minutes 22/11/2019 https://www.20minutes.fr/monde/2657443-20191122-gros-fail-design-douteux-elon-musk-presente-cybertruck-100-electrique-tesla. Compréhension de document, pas de norme juridique.",
+      "confidence": "high",
+      "hasIllustration": true,
+      "illustrationPath": "/annales/images/2021-p9.png",
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Compréhension texte 20 Minutes — illustration 2021-p9.png vérifiée thématiquement.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 16,
+      "questionId": "2021-D-q02-78f6c3f9",
+      "subject": "D",
+      "year": 2021,
+      "number": 2,
+      "type": "single",
+      "stem": "Qu'est-ce qu'un prototype ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Dernier modèle d'une série"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Un modèle de tests/d'études d'un nouveau produit"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Modèle diffusé à grande échelle"
+        }
+      ],
+      "proposedChoiceIds": [
+        "b"
+      ],
+      "proposedChoices": [
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Un modèle de tests/d'études d'un nouveau produit"
+        }
+      ],
+      "pedagogicalExplanation": "Un prototype est un modèle d’essais / d’études avant une diffusion en série. Ce n’est ni le dernier modèle d’une série, ni un modèle déjà diffusé à grande échelle. Le texte évoque le prototype Cybertruck présenté lors du show.",
+      "documentaryRef": "Consultation 2026-10-13. Lexique français courant + texte d’annale 20 Minutes (prototype / démonstration). Définition pédagogique standard.",
+      "confidence": "high",
+      "hasIllustration": true,
+      "illustrationPath": "/annales/images/2021-p9.png",
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Lexique « prototype » + contexte texte.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 17,
+      "questionId": "2021-D-q03-ba70d707",
+      "subject": "D",
+      "year": 2021,
+      "number": 3,
+      "type": "single",
+      "stem": "Pourquoi le Cybertruck pourrait-il avoir du mal à séduire la clientèle traditionnelle ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Parce que c'est un véhicule électrique"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Parce qu'il est trop cher"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Parce qu'il ne ressemble à rien d'autre"
+        }
+      ],
+      "proposedChoiceIds": [
+        "c"
+      ],
+      "proposedChoices": [
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Parce qu'il ne ressemble à rien d'autre"
+        }
+      ],
+      "pedagogicalExplanation": "Le texte cite Jessica Caldwell (Edmunds) : le véhicule peut avoir du mal à séduire la clientèle traditionnelle de pick-up parce qu’il « ne ressemble à rien d’autre » (design radical). L’électricité et le prix sont évoqués mais ne sont pas la raison mise en avant pour cette difficulté de séduction traditionnelle.",
+      "documentaryRef": "Consultation 2026-10-13. Texte d’annale 20 Minutes / citation Edmunds dans `/annales/images/2021-p9.png`. Compréhension ciblée.",
+      "confidence": "high",
+      "hasIllustration": true,
+      "illustrationPath": "/annales/images/2021-p9.png",
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Citation Edmunds dans le texte.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 18,
+      "questionId": "2021-D-q04-9c2d7e6c",
+      "subject": "D",
+      "year": 2021,
+      "number": 4,
+      "type": "single",
+      "stem": "Donnez un (des) synonyme(s) de « arborer »:",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Cacher"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Révéler"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Afficher"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "Dissimuler"
+        }
+      ],
+      "proposedChoiceIds": [
+        "c"
+      ],
+      "proposedChoices": [
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Afficher"
+        }
+      ],
+      "pedagogicalExplanation": "« Arborer » signifie porter / afficher ostensiblement (ex. arborer un logo, un macaron). Parmi les choix, Afficher est le synonyme correct. Cacher et Dissimuler sont des antonymes ; Révéler est proche mais moins exact (dévoiler un secret plutôt qu’exhiber).",
+      "documentaryRef": "Consultation 2026-10-13. Dictionnaire de français (CNRTL / Larousse — « arborer »). Texte d’annale pour le contexte d’emploi. Énoncé « synonyme(s) » : une réponse principale attendue côté banque `single`.",
+      "confidence": "high",
+      "hasIllustration": true,
+      "illustrationPath": "/annales/images/2021-p9.png",
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Synonyme arborer = afficher (réf. dictionnaire).",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 19,
+      "questionId": "2021-E-q02-4b357b6d",
+      "subject": "E",
+      "year": 2021,
+      "number": 2,
+      "type": "single",
+      "stem": "You will ……………, our island is amazing.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "look"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "see"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "watch"
+        }
+      ],
+      "proposedChoiceIds": [
+        "b"
+      ],
+      "proposedChoices": [
+        {
+          "id": "b",
+          "label": "B",
+          "text": "see"
+        }
+      ],
+      "pedagogicalExplanation": "« You will see » = tu verras / vous verrez (constatation future). Look (regarder activement) et watch (regarder attentivement, un spectacle) ne conviennent pas à cette tournure impersonnelle sur la découverte de l’île.",
+      "documentaryRef": "Consultation 2026-10-13. Grammaire / usage see vs look vs watch (anglais courant).",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "see vs look/watch — grammaire EN.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 20,
+      "questionId": "2021-E-q03-4d41b751",
+      "subject": "E",
+      "year": 2021,
+      "number": 3,
+      "type": "single",
+      "stem": "Pourriez-vous passer me prendre ici demain à 6 heures, s'il-vous-plait ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "can you take me here tomorrow at 6, please?"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "could you pick me on here tomorrow at 6, please?"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "could you pick me up here tomorrow at 6, please?"
+        }
+      ],
+      "proposedChoiceIds": [
+        "c"
+      ],
+      "proposedChoices": [
+        {
+          "id": "c",
+          "label": "C",
+          "text": "could you pick me up here tomorrow at 6, please?"
+        }
+      ],
+      "pedagogicalExplanation": "« Passer me prendre » = pick me up. Formule polie : could you pick me up here tomorrow at 6, please? A « take me here » est calque incorrect ; B « pick me on here » est agrammatical.",
+      "documentaryRef": "Consultation 2026-10-13. Phrasal verb pick somebody up (chercher quelqu’un en voiture).",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "pick me up — phrasal verb.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 21,
+      "questionId": "2021-E-q04-b8b4897a",
+      "subject": "E",
+      "year": 2021,
+      "number": 4,
+      "type": "single",
+      "stem": "Thank you for the ride, keep the change.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Merci pour la course, ne changez pas"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Merci d'avoir attendu, gardez la monnaie"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Merci pour la course, gardez la monnaie"
+        }
+      ],
+      "proposedChoiceIds": [
+        "c"
+      ],
+      "proposedChoices": [
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Merci pour la course, gardez la monnaie"
+        }
+      ],
+      "pedagogicalExplanation": "« Thank you for the ride, keep the change » = Merci pour la course, gardez la monnaie. A confond change/monnaie avec « ne changez pas » ; B invente « attendu » et « bill ».",
+      "documentaryRef": "Consultation 2026-10-13. Vocabulaire taxi : ride = course ; keep the change = gardez la monnaie.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "ride / keep the change.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 22,
+      "questionId": "2021-E-q06-fdae0354",
+      "subject": "E",
+      "year": 2021,
+      "number": 6,
+      "type": "single",
+      "stem": "She..........English very well.",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "speaks"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "speak"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "spoken"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "speaks"
+        }
+      ],
+      "pedagogicalExplanation": "3e personne du singulier au présent simple : She speaks English very well. « speak » sans -s est incorrect ; « spoken » est un participe passé.",
+      "documentaryRef": "Consultation 2026-10-13. Présent simple — accord sujet/verbe (she/he/it + V-s).",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Présent simple 3e personne speaks.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 23,
+      "questionId": "2021-E-q10-98210ba6",
+      "subject": "E",
+      "year": 2021,
+      "number": 10,
+      "type": "single",
+      "stem": "Les gilets jaunes bloquent les autoroutes en ce moment",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "The yellow vests are blocking the motorways"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "The yellow vests block the motorways"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "The yellow vests blocked the motorways"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "The yellow vests are blocking the motorways"
+        }
+      ],
+      "pedagogicalExplanation": "« en ce moment » impose le present continuous : The yellow vests are blocking the motorways. Le présent simple (B) décrit une habitude ; le prétérit (C) un fait passé.",
+      "documentaryRef": "Consultation 2026-10-13. Present continuous pour action en cours (now / en ce moment).",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Present continuous « en ce moment ».",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 24,
+      "questionId": "2021-FV-q03-7d72f76a",
+      "subject": "FV",
+      "year": 2021,
+      "number": 3,
+      "type": "single",
+      "stem": "Dans le mix marketing, à quoi correspondent les 4P ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Prix - Produit - Place - Promotion"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Prix - Produit - Parrainage - Personnalisation"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Plateforme - Présentation - Place - Promotion"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Prix - Produit - Place - Promotion"
+        }
+      ],
+      "pedagogicalExplanation": "Les 4P du marketing mix : Product, Price, Place, Promotion (Produit, Prix, Distribution/Place, Communication/Promotion). Les autres listes mélangent des leviers hors modèle classique.",
+      "documentaryRef": "Consultation 2026-10-13. Marketing mix McCarthy (4P) — référentiel commercial standard. Inchangé.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "4P marketing — référentiel commercial standard.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 25,
+      "questionId": "2021-FV-q05-f8f41748",
+      "subject": "FV",
+      "year": 2021,
+      "number": 5,
+      "type": "single",
+      "stem": "Quelle est la première étape d'une stratégie commerciale ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Le marketing mix"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Le plan d'action"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "L'analyse du marché"
+        }
+      ],
+      "proposedChoiceIds": [
+        "c"
+      ],
+      "proposedChoices": [
+        {
+          "id": "c",
+          "label": "C",
+          "text": "L'analyse du marché"
+        }
+      ],
+      "pedagogicalExplanation": "Avant mix et plan d’action, la démarche commerciale commence par l’analyse du marché (besoins, concurrence, segmentation). Le marketing mix et le plan d’action viennent ensuite.",
+      "documentaryRef": "Consultation 2026-10-13. Démarche stratégique commerciale (diagnostic / étude de marché → objectifs → mix → plan). Pédagogie gestion/commerce.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Analyse de marché en première étape.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 26,
+      "questionId": "2021-FV-q14-71bb2eda",
+      "subject": "FV",
+      "year": 2021,
+      "number": 14,
+      "type": "single",
+      "stem": "Le panier moyen est :",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "la taille des achats à charger dans le coffre"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "la moyenne des achats par client"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "la taille moyenne des paniers de courses en France"
+        }
+      ],
+      "proposedChoiceIds": [
+        "b"
+      ],
+      "proposedChoices": [
+        {
+          "id": "b",
+          "label": "B",
+          "text": "la moyenne des achats par client"
+        }
+      ],
+      "pedagogicalExplanation": "Le panier moyen = montant moyen des achats (ou du CA) par client / par commande. Pas la taille physique d’un panier de courses.",
+      "documentaryRef": "Consultation 2026-10-13. Indicateur commercial standard (CA / nombre de clients). Pédagogie gestion.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Définition panier moyen.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 27,
+      "questionId": "2021-FV-q16-da00bd7e",
+      "subject": "FV",
+      "year": 2021,
+      "number": 16,
+      "type": "single",
+      "stem": "Un client vous demande si vous faites des prestations en B to B. De quoi parle-t-il ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "de prestations business to business"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "de prestations d'un particulier vers des particuliers"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "de prestations d'un professionnel vers des professionnels"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "de prestations business to business"
+        }
+      ],
+      "pedagogicalExplanation": "B to B = Business to Business (prestations entre professionnels). A est la bonne définition. C reformule correctement le sens mais le sigle standard est « business to business » (A) ; B décrit du C to C / particulier.",
+      "documentaryRef": "Consultation 2026-10-13. Vocabulaire commercial B2B / B2C. Si le barème n’accepte qu’une case, A est la réponse attendue.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "B2B = business to business.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 28,
+      "questionId": "2021-GV-q01-804dd097",
+      "subject": "GV",
+      "year": 2021,
+      "number": 1,
+      "type": "single",
+      "stem": "Quelle sont les dimensions minimum d'une voiture pour être utilisée comme VTC ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "4,3 m x 1,5 m"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "4,5 m x 1,7 m"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "4,5 m x 1,6 m"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "4,6 m x 1,8 m"
+        }
+      ],
+      "proposedChoiceIds": [
+        "b"
+      ],
+      "proposedChoices": [
+        {
+          "id": "b",
+          "label": "B",
+          "text": "4,5 m x 1,7 m"
+        }
+      ],
+      "pedagogicalExplanation": "Longueur hors tout minimale 4,50 m et largeur minimale 1,70 m pour un VTC thermique (arrêté du 26 mars 2015). Les véhicules hybrides et électriques sont exemptés de ces caractéristiques (et de la puissance / âge dans les conditions de l’arrêté).",
+      "documentaryRef": "Consultation 2026-10-13. Arrêté du 26 mars 2015 relatif aux caractéristiques des véhicules VTC (JO) ; code des transports R. 3122-6 / L. 3120-5. Livret préfectoral VTC 2025 (ex. Landes) confirme 4,50 × 1,70 m. Inchangé sur le fond depuis 2021.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Arrêté 26/03/2015 — 4,50 × 1,70 m (sources préfectorales 2025).",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 29,
+      "questionId": "2021-GV-q05-52d1eb2b",
+      "subject": "GV",
+      "year": 2021,
+      "number": 5,
+      "type": "single",
+      "stem": "La durée maximale de stationnement précédant l'horaire de prise en charge mentionné par le client lors de sa réservation à un aéroport ou une gare pour un VTC est de :",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "1 heure"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "45 minutes"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "30 minutes"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "1 h 30"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "1 heure"
+        }
+      ],
+      "pedagogicalExplanation": "Durée maximale de stationnement aux abords / enceinte des gares et aérogares : 1 heure avant l’horaire de prise en charge réservé (D. 3120-3).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-2 II 3° et D. 3120-3. Service-Public F31027 ; fiche thématique ministère écologie L. 3120-2. Inchangé depuis 2021.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "D. 3120-3 — 1 heure (confirmé 2026-10-13).",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    },
+    {
+      "order": 30,
+      "questionId": "2021-GV-q07-37418464",
+      "subject": "GV",
+      "year": 2021,
+      "number": 7,
+      "type": "single",
+      "stem": "Comment reconnait-on un VTC ?",
+      "choices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Par un macaron à l'avant et à l'arrière du véhicule"
+        },
+        {
+          "id": "b",
+          "label": "B",
+          "text": "Par un macaron à l'arrière"
+        },
+        {
+          "id": "c",
+          "label": "C",
+          "text": "Par la couleur noire du véhicule de haut-de-gamme"
+        },
+        {
+          "id": "d",
+          "label": "D",
+          "text": "Par un macaron à l'avant"
+        }
+      ],
+      "proposedChoiceIds": [
+        "a"
+      ],
+      "proposedChoices": [
+        {
+          "id": "a",
+          "label": "A",
+          "text": "Par un macaron à l'avant et à l'arrière du véhicule"
+        }
+      ],
+      "pedagogicalExplanation": "Un VTC se reconnaît à la signalétique officielle : macaron / vignette à l’avant et à l’arrière du véhicule. Pas par la seule couleur noire.",
+      "documentaryRef": "Consultation 2026-10-13. Arrêté du 6 avril 2017 relatif à la signalétique des VTC (deux vignettes avant/arrière) ; R. 3122-8 code des transports ; REVTC. Arrêté modificatif 24/07/2025 (inamovibilité) — principe avant+arrière inchangé.",
+      "confidence": "high",
+      "hasIllustration": false,
+      "illustrationPath": null,
+      "status": "suggested",
+      "verificationDateHint": "À renseigner lors de la validation humaine",
+      "historicalVsCurrent": "Aucun écart réglementaire 2021→2026 identifié pour cette sélection",
+      "documentaryStatus": "prêt pour validation humaine",
+      "documentaryNote": "Signalétique avant+arrière — arrêté 06/04/2017.",
+      "documentaryConsultedAt": "2026-10-13",
+      "recommendedDecision": "prêt pour validation humaine"
+    }
+  ],
+  "documentaryAuditAt": "2026-10-13",
+  "readyForHumanValidation": 28,
+  "needsMoreCheck": 2
+}

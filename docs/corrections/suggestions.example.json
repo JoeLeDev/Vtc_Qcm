@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "suggestions": [
+    {
+      "questionId": "REMPLACER-PAR-UN-ID-REEL",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "Explication pédagogique préparée hors application, basée sur vos sources.",
+      "documentaryRef": "Ex. Code des transports — article à citer précisément après vérification",
+      "confidence": "low"
+    }
+  ]
+}

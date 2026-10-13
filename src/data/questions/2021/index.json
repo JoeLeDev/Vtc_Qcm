@@ -1,0 +1,5396 @@
+[
+  {
+    "id": "2021-A-q01-6f0023fa",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Quels agents sont habilités à effectuer un contrôle routier de conducteur de T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Les gendarmes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le juge du tribunal judiciaire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Les agents représentant la SNCF"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Les policiers"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-A: n° examen capturé; type multiple (interrogatif pluriel Quels)."
+    ],
+    "legacyIds": [
+      "2021-A-q49953-942e405b"
+    ]
+  },
+  {
+    "id": "2021-A-q02-f1d3d2e2",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "Un conducteur sanctionné par le tribunal correctionnel pour délit de fuite peut saisir :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le tribunal judiciaire pour une condamnation inférieure à 4 000 €"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la cour d'appel"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la cour de cassation"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "le tribunal correctionnel qui jugera à nouveau l'affaire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q03-f89927f8",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Quelle est la taille minimum de la commune dans laquelle peut s'exercer une activité du T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "11000 habitants"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1500 habitants"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Il n'y a pas de taille minimum"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "20000 habitants"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q04-21f97d5d",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Qui agrée les organismes de formation continue des conducteurs de T3P ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Les préfectures.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q05-ffc0ef7b",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Quelle est l'autorité qui effectue la vérification du casier judiciaire d'un candidat à la carte professionnelle de conducteur de véhicules T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le préfet de police ou le préfet"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le préfet de région"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "les forces de l'ordre"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "le ministère chargé des transports"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q06-94ae2b9a",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "Quelle est l'ancienneté maximum pour un véhicule hybride ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "6 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "aucune"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "7 ans"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "2 ans"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q07-61c19a41",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Comment se présente une réservation préalable ? Citez 2 mentions qui doivent figurer obligatoirement sur celle-ci.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Comment se présente une réservation préalable ?\nSupport papier ou électronique\nCitez 2 mentions qui doivent figurer obligatoirement sur celle-ci (deux réponses au choix du candidat)\n- Nom, dénomination sociale de l'entreprise\n- Coordonnées de l'entreprise, N°= SIREN/ SIRET\n- Nom et coordonnées téléphoniques du client,\n- lieu de prise en charge souhaité par le client\n- Date et heure de la réservation par le client,\ndate et heure de la prise en charge souhaitée par le client",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q08-2de1b526",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "Que devez-vous présenter aux agents susceptibles d'effectuer des contrôles pour justifier d'une réservation préalable ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Un document écrit sur support papier ou électronique.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q09-080e6ea7",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "Le retrait de la carte professionnelle est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une sanction administrative prise par un préfet"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une sanction administrative prise par un juge"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "consécutif à la décision d'un juge de l'ordre administratif sous certaines conditions"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "consécutif à la décision d'un juge de l'ordre pénal sous certaines conditions"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q10-ac166b31",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "Quelles assurances doit souscrire un professionnel effectuant du T3P ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Un contrat pour le véhicule couvrant les dommages corporels et matériels pour le transport\nde personnes à titre onéreux appelé aussi responsabilité civile circulation.\nUn contrat de responsabilité civile professionnelle couvrant les dommages corporels, matériels et immatériels.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q11-01fdc9ac",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 11,
+    "stem": "La réglementation du T3P se trouve dans le :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Code préfectoral"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Code pénal"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Code du travail"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Code des transports"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q12-adcd7c27",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 12,
+    "stem": "Pour être exploitable en activité de transport public particulier de personnes, un véhicule électrique doit être :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "de couleur noire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "équipé d'un pack confort (boite automatique, climatisation, connectique…)"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "soumis à des contraintes particulières"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "sans contraintes particulières"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q13-ce3e9c73",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 13,
+    "stem": "Vous êtes chauffeur de transport public particulier de personnes né le 12 mai 1950. Quelle est la périodicité de l'examen médical d'aptitude physique auquel vous devez vous soumettre ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "5 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "2 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q14-00110411",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 14,
+    "stem": "Citez deux cas dans lesquels la carte professionnelle peut être retirée à un conducteur du T3P ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Annulation permis de conduire.\nDélit pénal prévu par le code des transports (délits routiers, agressions sexuelles, cf code des transports, …)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q15-bfd027be",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 15,
+    "stem": "Quel kilométrage maximum un conducteur de T3P peut-il réaliser pour sa course ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1000 km"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "500 km"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "300 km"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "pas de limitation"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q01-f4004dbb",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Parmi ces propositions, qu'est-ce qui constitue une charge déductible pour un entrepreneur individuel ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "L'achat d'un véhicule"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "La facture d'entretien du véhicule"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Le loyer de crédit-bail"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Le prélèvement de l'exploitant"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-B: n° d'examen capturé; stem nettoyé; alias 2021-B-q49954-010db5b5."
+    ],
+    "legacyIds": [
+      "2021-B-q49954-010db5b5"
+    ]
+  },
+  {
+    "id": "2021-B-q02-f93825f9",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "Lorsque les charges d'exploitation d'une entreprise sont inférieures aux produits :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "il y a bénéfice d'exploitation"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "l'entreprise doit déposer le bilan"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il y a perte d'exploitation"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q03-7d37122c",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Quelle est la durée de vie maximum prévue par la loi pour une SARL ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "25 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "10 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "50 ans"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "99 ans"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q04-715861bf",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Comment appelle-t-on l'extrait d'immatriculation d'une entreprise artisanale ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un extrait de casier n°2"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un extrait D1"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un extrait K-bis"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q05-776b254b",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Un artisan achète un véhicule 21 000 € HT. Ce véhicule est amorti sur 3 ans. De combien sera l'amortissement linéaire annuel ? Détaillez votre calcul.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "21 000 / 3 = 7 000 € HT d'amortissement annuel",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-B-q06-3b9206b5",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "Pour être immatriculé au Répertoire des Métiers, le futur chef d'entreprise du T3P doit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "avoir une qualification professionnelle spécifique"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "être titulaire du permis D transports en commun"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "être propriétaire de son véhicule"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q07-64d444dd",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Qui attribue le code APE d'une entreprise ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "URSSAF"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "SSI"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "CMA"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "INSEE"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q08-8dd210c6",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "Que signifie le sigle SARL ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "société à responsabilité limitée"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "société anonyme à responsabilité limitée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "société à régime limitée"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "système anonyme à responsabilité limitée"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q09-b0bcc50d",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "Dans un bilan :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Si le total de l'actif est supérieur au passif il y a bénéfice"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le total de l'actif est toujours égal au total du passif"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Si le total de l'actif est inférieur au passif il y a perte"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q10-7249cd8b",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "Qu'est-ce qu'une personne morale ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Une personne morale est généralement constituée par un regroupement de personnes\nphysiques ou morales qui souhaitent accomplir quelque chose en commun.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-B-q11-53bdeb27",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 11,
+    "stem": "Le Président d'une SASU est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "salarié"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "assimilé salarié"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "travailleur salarié"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q12-d0090949",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 12,
+    "stem": "La CRDS signifie :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "contribution régionale pour les dépenses sociales"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "contribution pour le remboursement de la dette sociale"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "contribution régionale au développement social"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "contribution pour la réduction de la dette sociale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q13-c62dfc3f",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 13,
+    "stem": "Quels sont les critères qui caractérisent une activité relevant du Répertoire des Métiers ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "L'effectif"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le chiffre d'affaires"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La nature d'activité"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La forme juridique"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "B 2021 Q13: « Quels sont les critères » → multiple."
+    ],
+    "legacyIds": [
+      "TYPEFIX-2021-B-q13"
+    ]
+  },
+  {
+    "id": "2021-B-q14-a52fc5bf",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 14,
+    "stem": "Dans quel cas un gérant de société à capitaux est-il salarié ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Associé unique SARL"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Président de SAS"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Gérant de SARL possédant 51 % des parts sociales"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q15-4c5a49c5",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 15,
+    "stem": "Chaque mois, la TVA à décaisser représente :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la TVA sur les achats"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la TVA déductible moins la TVA collectée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la TVA sur les ventes"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la TVA collectée moins la TVA déductible"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q16-e1daaae0",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 16,
+    "stem": "Parmi les propositions suivantes, la ou lesquelles correspond(ent) à un investissement ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Les honoraires d'expert-comptable"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Les assurances professionnelles"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "L'acquisition d'un véhicule"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La révision du véhicule"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "B 2021 Q16: « la ou lesquelles » → multiple."
+    ],
+    "legacyIds": [
+      "TYPEFIX-2021-B-q16"
+    ]
+  },
+  {
+    "id": "2021-B-q17-bfa53207",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 17,
+    "stem": "La TVA sur les carburants est-elle récupérable ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "oui, partiellement dans tous les cas"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "non, dans tous les cas"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "oui, totalement dans tous les cas"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "cela dépend de la fiscalité départementale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-B-q18-b4e17881",
+    "subject": "B",
+    "scope": "common",
+    "year": 2021,
+    "number": 18,
+    "stem": "Selon le Code de Commerce, les documents comptables doivent être conservés :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "5 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un an"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "3 ans"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "10 ans"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q01-a8bb3e17",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Sur un trajet de 100 km sur autoroute, si je roule à 130 km/h au lieu de 120 km/h, je « gagne » environ :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "4 minutes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "10 minutes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "15 minutes"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "8 minutes"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-C: n° d'examen capturé; stem nettoyé; alias 2021-C-q49955-efe6e7d1."
+    ],
+    "legacyIds": [
+      "2021-C-q49955-efe6e7d1"
+    ]
+  },
+  {
+    "id": "2021-C-q02-4e9aec96",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "Par temps de pluie, est allongé(e) :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le temps de réaction"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la distance de freinage"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la distance d'arrêt"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "l'adhérence sur la route"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q03-23bb0d60",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Vous êtes au volant de votre véhicule et recevez un appel sur votre téléphone portable. Vous prenez le téléphone en main, vous encourez :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un retrait d'un point"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un retrait de deux points"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un retrait de trois points"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q04-3f61e04a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Quelles sont les obligations expressément prévues par le code de la route, pour tout conducteur impliqué dans un accident de la circulation qui n'a provoqué que des dégâts matériels ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "avertir ou faire avertir la police"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "avertir ou faire avertir la gendarmerie"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "s'arrêter aussitôt que cela lui est possible, sans créer de danger pour la circulation"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "communiquer son identité et son adresse à toute personne impliquée dans l'accident"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "C 2021 Q4: « Quelles sont les obligations » → multiple (énoncé pluriel)."
+    ],
+    "legacyIds": [
+      "TYPEFIX-2021-C-q4"
+    ]
+  },
+  {
+    "id": "2021-C-q05-d84d0b34",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Les piétons qui s'engagent dans la traversée d'une chaussée :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Doivent traverser la chaussée en tenant compte de la visibilité ainsi que de la distance et de la vitesse des véhicules"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Ont le droit de s'engager quelle que soit la vitesse et la distance des véhicules"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "N'ont pas le droit de s'engager dans la traversée d'une chaussée hors d'un passage piéton, même s'il n'en n'existe pas à moins de 50 mètres"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Sont tenus d'utiliser, lorsqu'il en existe à moins de 50 mètres, les passages prévus à leur intention"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q06-a4235dde",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "En cas de récidive d'une conduite sous l'influence de substances ou de plantes classées comme stupéfiants, vous encourez :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'annulation de votre permis de conduire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la suspension de votre permis de conduire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la confiscation/immobilisation de votre véhicule"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q07-3fcdd133",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Mon voyant d'essence vient de s'allumer :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "je réduis mon allure afin de diminuer ma consommation de carburant"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "je continue ma route jusqu'à une prochaine station"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "j'allume mes feux de détresse"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "je m'arrête sur ma droite"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q08-4bea5117",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "Le décret n° 2016-448 du 13 avril 2016 modifiant certaines dispositions du code de la route relatives aux véhicules interdit les « vitres surteintées ». A cette fin, il impose :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un taux minimal de transparence de 70% sur les vitres avant et le pare-prise"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un taux minimal de transparence de 80% sur les vitres arrières et lunettes-arrières"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un taux minimal de transparence de 70% sur les vitres avant, le pare-prise et les vitres arrières"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un taux minimal de transparence de 80% sur les vitres avant, le pare-prise et les vitres arrières"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q09-b9b5e399",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "En cas de panne de votre véhicule, à quelle distance placez-vous le triangle de pré signalisation ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "50 mètres au moins de votre véhicule"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "10 mètres au moins de votre véhicule"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "30 mètres au moins de votre véhicule"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q10-f7267642",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "En agglomération, l'usage de l'avertisseur sonore est autorisé :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "pour donner les avertissements nécessaires aux autres usagers de la route"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "en cas de danger immédiat"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "pour saluer un collègue conducteur"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q11-fc740260",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 11,
+    "stem": "A 90 km/h la distance d'arrêt est approximativement de:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "50 m"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "70 m"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "80 m"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q12-f07ecf95",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 12,
+    "stem": "Lorsque les pneus sont sous-gonflés cela entraîne:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un risque accru d'éclatement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une augmentation de la consommation de carburant"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une meilleure adhérence à la route"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q13-7ea243f3",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 13,
+    "stem": "Que risque un conducteur en cas de dépassement de la vitesse maximale autorisée compris entre 40 km/h et moins de 50 km/h ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Une contravention de première classe"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Une contravention de quatrième classe"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La perte de deux points du permis de conduire"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La perte de quatre points du permis de conduire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q14-852e0c0a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 14,
+    "stem": "La durée du temps de réaction est d'environ:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1/2 seconde"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1/10 ième de seconde"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 seconde"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q15-c89e171e",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 15,
+    "stem": "Dans quel cas l'arrêt est-il autorisé sur la bande d'arrêt d'urgence de l'autoroute ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "jamais"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "en cas de panne ou d'accident"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "dans tous les cas"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "pour téléphoner"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q16-80203912",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 16,
+    "stem": "Combien de points perdez-vous en cas de chevauchement d'une ligne continue ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "3 points"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "2 points"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 point"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q17-c5d4be87",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 17,
+    "stem": "Les feux de route éclairent à une distance minimale de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "100 mètres"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "50 mètres"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "150 mètres"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "200 mètres"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q18-4f2ae029",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 18,
+    "stem": "Titulaire d'un permis probatoire, dans quel cas, devrais-je suivre obligatoirement un stage de sensibilisation à la sécurité routière :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "en cas de perte en une seule fois de 2 points"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "en cas de perte en une seule fois de 3 points"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "en cas de perte en une seule fois de 4 points"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q19-3bb46d83",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 19,
+    "stem": "En agglomération, lorsque vous dépassez latéralement, un piéton ou un cycliste, vous devez laisser un espace d'au moins :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "3 mètres"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1 mètre"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "0,50 mètre"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "1,50 mètres"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q20-a2677f4a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 20,
+    "stem": "Ce panneau signale :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un cassis ou dos d'âne"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un ralentisseur de type dos d'âne"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un ralentisseur"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p8.png",
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Panneau A1a (cassis/dos-d'âne) extrait page 8 — associé à C 2021 Q20, pas aux questions D."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-C-q20"
+    ]
+  },
+  {
+    "id": "2021-D-q01-5033fa43",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Quel pick-up est le plus apprécié aux États-Unis depuis longtemps ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le SpaceX"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le Ford F-150"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Le Blade Runner"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-D: n° d'examen capturé; stem nettoyé; alias 2021-D-q49956-f8a72138.",
+      "Texte 20 Minutes Cybertruck (p.9) requis pour la compréhension D 2021."
+    ],
+    "legacyIds": [
+      "2021-D-q49956-f8a72138",
+      "ILLUS-2021-D-q01"
+    ]
+  },
+  {
+    "id": "2021-D-q02-78f6c3f9",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "Qu'est-ce qu'un prototype ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Dernier modèle d'une série"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Un modèle de tests/d'études d'un nouveau produit"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Modèle diffusé à grande échelle"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q2."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q02"
+    ]
+  },
+  {
+    "id": "2021-D-q03-ba70d707",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Pourquoi le Cybertruck pourrait-il avoir du mal à séduire la clientèle traditionnelle ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Parce que c'est un véhicule électrique"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Parce qu'il est trop cher"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Parce qu'il ne ressemble à rien d'autre"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q3."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q03"
+    ]
+  },
+  {
+    "id": "2021-D-q04-9c2d7e6c",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Donnez un (des) synonyme(s) de « arborer »:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Cacher"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Révéler"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Afficher"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Dissimuler"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck (mot « arborer ») associé à D 2021 Q4."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q04"
+    ]
+  },
+  {
+    "id": "2021-D-q05-cebbac15",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Pourquoi la présentation du Cybertruck a été un échec?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Parce que ce véhicule est censé être très résistent aux attaques extérieurs mais son vitre a\nété cassé par l'envoi d'une balle d'acier.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Texte Cybertruck associé à D 2021 Q5."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q05"
+    ]
+  },
+  {
+    "id": "2021-D-q06-dc843594",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "Pour quel autre moyen de transport l'alliage en acier développé par Tesla sera-t-il utilisé ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le Blade Runner"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le F-150"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La fusée spatiale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q6."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q06"
+    ]
+  },
+  {
+    "id": "2021-D-q07-7fb4def9",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Quelle est l'autonomie maximale d'un modèle Cybertruck ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "100km"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "800km"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "400km"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q7."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q07"
+    ]
+  },
+  {
+    "id": "2021-D-q08-66adca1c",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "« Si le pick-up Tesla n'était pas un peu polémique, ça ne serait pas une Tesla». Expliquez cette affirmation",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Tesla est une société qui cherche toujours d'apporter de la nouveauté et de l'innovation. Les\npolémiques et les scandales ne font qu'augmenter son succès.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 9 — association manuelle via patches si pertinent.",
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Texte Cybertruck associé à D 2021 Q8."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q08"
+    ]
+  },
+  {
+    "id": "2021-D-q09-265a781b",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "Quelle est la signification du mot « allure » dans le texte ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Aspect"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Vitesse"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Style"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 9 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q9."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q09"
+    ]
+  },
+  {
+    "id": "2021-D-q10-4d0b6f0e",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "D'après le texte, listez au moins 4 caractéristiques du Cybertruck Tesla.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Véhicule 100% électrique, lignes très épurées, allure futuriste et cyberpunk, six places,\ncapable de tracter sept tonnes et emporter 1,5 tonne, réalisé en acier inoxydable ultrarésistant, pourra passer de 0 à\n100 km/h en environ trois secondes",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 9 — association manuelle via patches si pertinent.",
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Texte Cybertruck associé à D 2021 Q10."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q10"
+    ]
+  },
+  {
+    "id": "2021-E-q01-838fcf42",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Savez-vous de quand date ce bâtiment historique ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "is it possible to visit this historical monument?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "do you know some listed historical monuments?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "do you know when this historical monument was built ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-E: n° d'examen capturé; stem nettoyé; alias 2021-E-q49957-3f5e75b1.",
+      "Illustration « bâtiment historique » absente de l'extraction PDF — signalée pour revue ; la réponse linguistique ne dépend pas de l'image."
+    ],
+    "legacyIds": [
+      "2021-E-q49957-3f5e75b1",
+      "ILLUS-MISSING-2021-E-q01"
+    ]
+  },
+  {
+    "id": "2021-E-q02-4b357b6d",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "You will ……………, our island is amazing.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "look"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "see"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "watch"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q03-4d41b751",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Pourriez-vous passer me prendre ici demain à 6 heures, s'il-vous-plait ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "can you take me here tomorrow at 6, please?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "could you pick me on here tomorrow at 6, please?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "could you pick me up here tomorrow at 6, please?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q04-b8b4897a",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Thank you for the ride, keep the change.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Merci pour la course, ne changez pas"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Merci d'avoir attendu, gardez la monnaie"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Merci pour la course, gardez la monnaie"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q05-e87e2e46",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Passez-vous un agréable séjour en France ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "do you enjoy your stay in France?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "do you like France?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "are you ok in France?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q06-fdae0354",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "She..........English very well.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "speaks"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "speak"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "spoken"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q07-1c505f77",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Have you come for the music festival?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Êtes-vous venus pour le festival de musique ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Avez-vous votre place pour le festival de musique ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Êtes-vous allés au festival de musique ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q08-38f358a9",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "Souhaitez-vous un reçu ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "would you like a receipt?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "did you want a bill?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "do you want a ticket?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q09-274aae34",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "Sorry! It's quite expensive for us. May we get a ……………… price?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "less"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "lower"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "reduction"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q10-98210ba6",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "Les gilets jaunes bloquent les autoroutes en ce moment",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "The yellow vests are blocking the motorways"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "The yellow vests block the motorways"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "The yellow vests blocked the motorways"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q11-6b32bdf9",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 11,
+    "stem": "Disabled welcome :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Pas de fauteuil roulant"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "J'accueille les handicapés"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Pas de place pour le fauteuil"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q12-cf5bf8a3",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 12,
+    "stem": "Bonjour, êtes-vous disponible pour m'emmener à la gare?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "hello, are you disponible to make me to the station?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "hello, are you available to get me to the station?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "hello, are you disponible to get me to the station?"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "hello, are you available to make me to the station?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q13-68191dd5",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 13,
+    "stem": "Do you take the......card?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "business"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "credit"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "blue"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q14-6273f497",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 14,
+    "stem": "I was told to say anything concerning this new advert:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "je n'ai rien à dire à propos de ce nouvel avertissement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "on m'a dit de ne rien dire de cette nouvelle publicité"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "je n'avais rien à dire concernant ce nouvel adversaire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q15-24ccc740",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 15,
+    "stem": "Nous vérifions le moteur trois fois par an",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "we check the motor three times per year"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "we're checking the motor three times per week"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "we were tchecking the motor three times per year"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q16-4ac9ee8f",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 16,
+    "stem": "Vous nous devez 53 euros :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "you must us 53 euros"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "you must buy 53 euros"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "you owe us 53 euros"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q17-710d0895",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 17,
+    "stem": "What is the opposite of slow?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Noisy"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Dry"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Fast"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q18-b0f5cf99",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 18,
+    "stem": "Il est interdit de fumer dans la voiture !",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "it's allowed of smoke in the car!"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "it's forbidden to smoke in the car!"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "it's forbidden of smoke in the car!"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q19-5a4def9d",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 19,
+    "stem": "Elle vit à Paris depuis dix ans",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "She had been living in Paris since ten years"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "She has been living in Paris for ten years"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "She has lived in Paris until ten years"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "She lived in Paris for ten years"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q20-ac27d203",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 20,
+    "stem": "I took a taxi because the buses were on strike",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "je prends un taxi car les bus sont lents"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "j'ai pris un taxi car les bus ne fonctionnaient pas"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "j'ai pris un taxi car les bus étaient en grève"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q01-715e2d6a",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 1,
+    "stem": "Vous connaissez un VTC qui va démarrer son activité avec des prix très bas afin d'attirer un maximum de clients. Que pensez-vous de cette politique tarifaire ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Politique tarifaire risquée : rentabilité diminuée, perception du client ( prix bas = qualité\nmauvaise? ), dégradation de l'image de la profession,....",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Correctif Q1 2021-FV: n° d'examen capturé; stem nettoyé; alias 2021-FV-q49958-9c8d74b4."
+    ],
+    "legacyIds": [
+      "2021-FV-q49958-9c8d74b4"
+    ]
+  },
+  {
+    "id": "2021-FV-q02-4cc8521f",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 2,
+    "stem": "La marge peut être exprimée en pourcentage du :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "chiffre d'affaires"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "coût fixe"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "coût de revient"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "coût des cotisations sociales"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q03-7d72f76a",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 3,
+    "stem": "Dans le mix marketing, à quoi correspondent les 4P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Prix - Produit - Place - Promotion"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Prix - Produit - Parrainage - Personnalisation"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Plateforme - Présentation - Place - Promotion"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q04-772e340b",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 4,
+    "stem": "Quelles sont les méthodes de prospection existantes ? Citez un exemple de chaque.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Prospection traditionnelle (porte à porte, téléphone) ou prospection numérique (site web,\nmailing, réseaux sociaux, centrales de réservations)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FV-q05-f8f41748",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 5,
+    "stem": "Quelle est la première étape d'une stratégie commerciale ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le marketing mix"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le plan d'action"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "L'analyse du marché"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q06-2ac2390e",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 6,
+    "stem": "En cas de retard très important du client, que faites-vous ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Dans un premier temps je prends contact avec le client afin de lui demander son heure\nd'arrivée.\nEn fonction de celle-ci je lui propose de lui réserver un autre VTC si j'ai une autre course de prévue.\nDans le cas contraire le client ayant réservé la course, je l'attends.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FV-q07-e38fabec",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 7,
+    "stem": "Le matériel informatique peut être amorti sur :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "3 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "5 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q08-2c2d1d26",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 8,
+    "stem": "Le montant d'une prestation s'élève à 75 € TTC. Calculez le montant de la TVA et le prix HT, en détaillant vos calculs.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Prix HT : /1,10 = 68,18\nMontant TVA : 75 - 68,18 = 6,82",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FV-q09-c79f89d1",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 9,
+    "stem": "Un chauffeur VTC, en EURL, fait un chiffre d'affaires de 50 000 €. Il a 10 000 € de charges sociales, a vendu son ancienne voiture 8 000 € et a payé 5 000 € de TVA. Quel est son résultat ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "43 000 €"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "37 000 €"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "27 000 €"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q10-5346f142",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 10,
+    "stem": "En déposant une cliente, de nuit, à son domicile :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous la déposez devant la porte de son immeuble et attendez qu'elle soit rentrée dans son immeuble avant de repartir"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous la déposez devant chez elle et votre mission étant terminée, vous repartez"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous proposez de la raccompagner jusqu'à la porte de son appartement compte tenu de l'heure tardive"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q11-15a9cb61",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 11,
+    "stem": "Dans l'activité de VTC, les conditions générales de vente sont :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "ne doivent pas être fournies à un professionnel qui en fait la demande"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "indispensables en relation B to C"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "conformes à la loi Hamon du 17 mars 2014"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "facultatives en relation B to B"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q12-44aa5b1d",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 12,
+    "stem": "A l'aéroport, le parking professionnel est saturé alors que vos clients ne vont pas tarder à sortir du check out :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous vous garez sur des zébras"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous vous garez au niveau de la dépose taxi car c'est au niveau des arrivées"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous vous garez au parking public"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "vous attendez qu'une place se libère"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q13-fee90e27",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 13,
+    "stem": "Que doit-on dire lorsqu'on décroche un appel téléphonique ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le nom de la société et bonjour"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le nom de la société"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "allo"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q14-71bb2eda",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 14,
+    "stem": "Le panier moyen est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la taille des achats à charger dans le coffre"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la moyenne des achats par client"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la taille moyenne des paniers de courses en France"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q15-9a44d6b5",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 15,
+    "stem": "Trouver régulièrement de nouveaux clients c'est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un moyen de garder votre confort de vie"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Une nécessité pour la survie de l'entreprise"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Une obligation de votre comptable"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q16-da00bd7e",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 16,
+    "stem": "Un client vous demande si vous faites des prestations en B to B. De quoi parle-t-il ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "de prestations business to business"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "de prestations d'un particulier vers des particuliers"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "de prestations d'un professionnel vers des professionnels"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GV-q01-804dd097",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 1,
+    "stem": "Quelle sont les dimensions minimum d'une voiture pour être utilisée comme VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "4,3 m x 1,5 m"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "4,5 m x 1,7 m"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "4,5 m x 1,6 m"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "4,6 m x 1,8 m"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-GV: n° d'examen capturé; stem nettoyé; alias 2021-GV-q49959-a8f8c61f."
+    ],
+    "legacyIds": [
+      "2021-GV-q49959-a8f8c61f"
+    ]
+  },
+  {
+    "id": "2021-GV-q02-65dc0b6d",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 2,
+    "stem": "La prise en charge d'un client sur une voie ouverte à la circulation publique sans réservation préalable est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "autorisée si elle est consécutive à la dépose du client précédent sur le même lieu"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "passible d'une suspension du permis de conduire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un délit puni d'une peine de prison et d'une amende pouvant aller jusqu'à 15 000€"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GV-q03-50c11b46",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 3,
+    "stem": "Pour la réalisation d'une prestation de VTC :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "les conditions générales de vente peuvent constituer un document valant contrat, sous réserve que le client ait dûment signé la dernière page"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "les conditions générales de vente peuvent constituer un document valant contrat, sous réserve que le client ait dûment signé toutes les pages"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il doit exister un contrat avec le client final qui doit être obligatoirement écrit sur support papier"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "il doit exister un contrat avec le client final pouvant être écrit sur support papier ou électronique"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GV-q04-961127c7",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 4,
+    "stem": "Quelle démarche faut-il entreprendre pour pouvoir exploiter un véhicule électrique dérogeant aux caractéristiques techniques imposées aux véhicules VTC?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Il n'y a pas de démarche car un véhicule électrique n'a pas besoin de respecter des\ncaractéristiques techniques pour être utilisé par un chauffeur VTC",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GV-q05-52d1eb2b",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 5,
+    "stem": "La durée maximale de stationnement précédant l'horaire de prise en charge mentionné par le client lors de sa réservation à un aéroport ou une gare pour un VTC est de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1 heure"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "45 minutes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "30 minutes"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "1 h 30"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GV-q06-8c53e464",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 6,
+    "stem": "Si vous utilisez votre véhicule VTC à des fins privées, que devez-vous faire ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Retirer la carte professionnelle",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GV-q07-37418464",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 7,
+    "stem": "Comment reconnait-on un VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Par un macaron à l'avant et à l'arrière du véhicule"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Par un macaron à l'arrière"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Par la couleur noire du véhicule de haut-de-gamme"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Par un macaron à l'avant"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GV-q08-6a844bda",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 8,
+    "stem": "L'inscription au registre des exploitants VTC donne lieu à :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la publication au bulletin officiel"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la délivrance d'un diplôme"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la publication du nom de l'entreprise dans la liste des exploitants sur le site du Ministère"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la délivrance d'une attestation d'inscription"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(V) - Réglementation nationale spécifique",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q01-227225f4",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 1,
+    "stem": "Quelle est la définition du véhicule taxi ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le véhicule taxi est un véhicule automobile de catégorie Ml (véhicule conçu et construit pour\nle transport de personnes et comportant, outre le siège du conducteur, huit places assises au maximum\net ayant un poids total autorisé en charge inférieur ou égal à 3,5 tonnes), muni d'équipement spéciaux, dont le\npropriétaire ou l'exploitant est titulaire d'une autorisation de stationnement sur la\nvoie publique en attente de la clientèle, afin d'effectuer à la demande de celle-ci et à titre onéreux le transport public\nparticulier de personne et de leurs bagages.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Correctif Q1 2021-GT: n° d'examen capturé; stem nettoyé; alias 2021-GT-q49960-da810b4c."
+    ],
+    "legacyIds": [
+      "2021-GT-q49960-da810b4c"
+    ]
+  },
+  {
+    "id": "2021-GT-q02-e3164530",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 2,
+    "stem": "Le conducteur de taxi a le droit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "de prendre en charge des voyageurs poursuivis par la clameur publique"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "de solliciter un pourboire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "de ne pas attendre les voyageurs s'ils se trouvent dans une voie où le stationnement est impossible"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "d'être accompagné de personnes autres que des clients"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q03-ec95149e",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 3,
+    "stem": "Qu'est-ce que le carnet de métrologie ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une preuve de la conformité des équipements spéciaux"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un carnet de liaison entre l'installateur du matériel et le taxi"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un cahier de note"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un livre"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q04-bd935f35",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 4,
+    "stem": "Citez les trois éléments constitutifs du montant affiché sur le compteur horokilométrique.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "- Tarif appliqué\n- Prise en charge\n- Suppléments",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GT-q05-c541de3f",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 5,
+    "stem": "Dans le cadre du TAP et d'un transport simultané de deux passagers quel pourcentage de remise doit-on pratiquer pour chacun d'eux ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "40 %."
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "30 %."
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "10 %."
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "50 %"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q06-c6df56b6",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 6,
+    "stem": "Où doit-on adresser une demande de détaxe de carburants ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "au bureau des taxis de la Préfecture"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "à la Direction Départementale des Territoires et de la Mer"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "à la Direction régionale des Douanes"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q07-b8cfe9a3",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 7,
+    "stem": "Lorsqu'il cesse d'exercer son activité, le titulaire de la carte professionnelle doit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la restituer à la préfecture qui l'a délivrée"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la céder à titre onéreux"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la détruire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q08-737fb14f",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 8,
+    "stem": "Nul ne peut s'inscrire à l'examen en vue de la délivrance du certificat d'habilitation professionnelle de conducteur de taxi :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "s'il a fait l'objet dans les dix ans qui précèdent sa demande, d'un retrait définitif, de la carte professionnelle de conducteur de taxi"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "s'il a fait l'objet dans les dix ans qui précèdent sa demande, d'une exclusion pour fraude lors d'une session à l'examen d'habilitation de conducteur de taxi"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "s'il a fait l'objet dans les cinq ans qui précèdent sa demande, d'une exclusion pour fraude lors d'une session à l'examen d'habilitation de conducteur de taxi"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q09-0ec4dcd5",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 9,
+    "stem": "Lorsque le conducteur taxi est en service :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "il peut éclairer le dispositif lumineux en vert s'il n'est pas occupé ou retenu"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "il doit éclairer le dispositif lumineux en vert s'il n'est pas occupé ou retenu"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il a interdiction d'éclairer le dispositif lumineux en vert s'il n'est pas occupé ou retenu"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q10-bf604abd",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 10,
+    "stem": "Quelle convention doit appliquer le taxi qui effectue un transport médical pour un assuré d'une CPAM différente de celle avec laquelle il a signé.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le taxi doit appliquer la convention qu'il a signée avec la CPAM de son département quel que\nsoit la caisse de l'assuré.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GT-q11-fa78c3fb",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 11,
+    "stem": "Quelle est l'autorité administrative compétente pour fixer localement une couleur unique des véhicules taxi ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Les présidents du tribunal de commerce"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Les présidents de l'organisation professionnelle"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Les présidents de la chambre de métiers et de l'artisanat"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Celle qui délivre les autorisations de stationnement"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q12-4c3b56d0",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 12,
+    "stem": "Les taxis sont des véhicules automobiles comportant :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "9 places assises y compris le siège du conducteur au maximum"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "outre le siège du conducteur, 7 places assises au maximum"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "outre le siège du conducteur, 8 places assises au maximum"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "outre le siège du conducteur, 9 places assises au maximum"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q13-25e5d9a6",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 13,
+    "stem": "Un conducteur de taxi peut-il transporter des colis non accompagnés ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "oui, à condition que le conducteur de taxi se fasse payer d'avance"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "oui, mais le conducteur de taxi se fait payer à l'arrivée par rapport au compteur"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "non, c'est interdit car les taxis sont prévus pour le transport de personnes et de leurs bagages"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "non, même s'il a un contrat d'assistance bagages avec une compagnie aérienne"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q14-4b5da480",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 14,
+    "stem": "Lorsqu'un titulaire ne peut exploiter lui-même son autorisation de stationnement, quelles sont les deux possibilités qui s'offrent à lui pour que son entreprise reste active ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "La location du véhicule taxi à un conducteur de taxi.\nL'emploi d'un salarié.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GT-q15-e5a9cadd",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 15,
+    "stem": "Quelle est la prestation dont le chef d'une entreprise individuelle de T3P ne peut bénéficier ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'indemnité journalière de maladie"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "les allocations familiales"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "l'indemnité de chômage"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la retraite de base"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q01-1ebec5c5",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 1,
+    "stem": "Le fait d'exercer l'activité de T3P à titre onéreux avec un véhicule non conforme aux caractéristiques prévues au R3123-3 est puni :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'une contravention de 5ème classe"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "d'une contravention de 3ème classe"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "d'une contravention de 2ème classe"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-FM: n° d'examen capturé; stem nettoyé; alias 2021-FM-q49961-446e50cb."
+    ],
+    "legacyIds": [
+      "2021-FM-q49961-446e50cb"
+    ]
+  },
+  {
+    "id": "2021-FM-q02-7c643ad8",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 2,
+    "stem": "Citez 3 éléments devant faire l'objet d'un entretien.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "1. Système de freinage (disques, plaquettes, liquides)\n2. Système de direction\n3. Éléments de liaison au sol (pneumatiques, suspension et état du châssis)\n4. Système de visibilité (feux, retro),\n5. Fluides moteur (eau, huile)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FM-q03-d4f2d6ff",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 3,
+    "stem": "Quel est le montant de l'amende si le casque utilisé n'est pas conforme ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "90 €"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "135 €"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "68 €"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q04-04399973",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 4,
+    "stem": "Où se situent les lésions le plus souvent constatées chez les motards ? Citez-en au moins 2.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Tête, membres supérieurs et inférieurs et colonne vertébrale (sera accepté l'énoncé de membre type pied, doigt,\nmain…)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FM-q05-4c4b00c9",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 5,
+    "stem": "Sur route mouillée la distance de freinage est multipliée par :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "4"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "3"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q06-05c23bd0",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 6,
+    "stem": "Quel est le poids maximum pour transporter un client et ses bagages ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "limite autorisée par le PTAC"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "aucune limite"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "200 kg + le conducteur"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q07-878fa217",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 7,
+    "stem": "Quelle est la classe de la contravention si le casque utilisé n'est pas conforme ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'une contravention de 5ème classe"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "d'une contravention de 4ème classe"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "d'une contravention de 2ème classe"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q08-414ce790",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 8,
+    "stem": "Quel est le pourcentage de motards impliqués dans les accidents corporels ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "25%"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "10%"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "20%"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "15%"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q09-e63a93c2",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 9,
+    "stem": "Un choc entre une moto roulant à 100 km/h et un obstacle fixe équivaut :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "à une chute de 7 étages"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "à une chute de 5 étages"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "à une chute de 15 étages"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "à une chute de 12 étages"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q10-a0a1dd80",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 10,
+    "stem": "L'énergie absorbée par le corps en cas de choc est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'autant plus importante que la vitesse est élevée"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "toujours la même quelle que soit la vitesse"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "d'autant moins importante que la vitesse est élevée"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q11-c7e42368",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 11,
+    "stem": "De quelle couleur est la signalétique spécifique à l'activité de conducteur de véhicules motorisés à deux ou trois roues ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "bleue"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "verte"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "rouge"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 19,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q12-2504981a",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 12,
+    "stem": "Le port des gants est obligatoire depuis :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le 20 novembre 2015"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le 20 novembre 2016"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "le 20 novembre 2017"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 19,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q13-2c9c0778",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 13,
+    "stem": "Un conducteur de motocyclette est impliqué dans :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1/3 des accidents mortels"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "2/3 des accidents mortels"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "3/4 des accidents mortels"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "1/4 des accidents mortels"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 19,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FM-q14-2189a194",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 14,
+    "stem": "Quels sont les 3 équipements de sécurité obligatoires pour l'usage d'une motocyclette ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Casque, gants et gilet fluo dans la moto.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 19,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FM-q15-643fdd7e",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 15,
+    "stem": "Citez 4 facteurs de risque d'accident en moto.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "1 - l'alcool\n2 - les drogues\n3 - le duo alcool/drogues\n4 - la vitesse excessive\n5 - la fatigue\n6 - l'illusion d'être visible\n7 - l'inexpérience\n8 - l'excès de confiance.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 19,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FM-q16-dc936003",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 16,
+    "stem": "Depuis l'arrêté du 28 juin 2018, quelle est la durée de validité de la nouvelle carte professionnelle de conducteur de VMDTR ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "5 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "2 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "illimitée"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - F(M) - Sécurité routière VMDTR et\nrèglementation d'exploitation spécifique",
+    "pdfPage": 19,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GM-q01-778b39be",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 1,
+    "stem": "Un client se présente fortement alcoolisé, il est préférable de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'attendre 10 minutes avant de partir"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le prendre en charge en dépit de son état"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "le refuser pour des raisons de sécurité"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-GM: n° d'examen capturé; stem nettoyé; alias 2021-GM-q49962-f6974b9e."
+    ],
+    "legacyIds": [
+      "2021-GM-q49962-f6974b9e"
+    ]
+  },
+  {
+    "id": "2021-GM-q02-60fb073e",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 2,
+    "stem": "Pour assurer une bonne qualité de service aux clients, je dispose de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une selle réfrigérée"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une selle confort"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une paire de gants"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "deux paires de gants de deux tailles différentes"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GM-q03-dcb21fc3",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 3,
+    "stem": "Votre client est très pressé, il vous demande de rouler plus vite :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous lui expliquez que vous allez faire au mieux en respectant les règles de sécurité"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous acceptez immédiatement"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous refusez la course"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GM-q04-888c4b0b",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 4,
+    "stem": "A quel moment assure-t-on la prise en charge des bagages par temps sec ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Avant d'avoir équipé le passager",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GM-q05-f5bff0c2",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 5,
+    "stem": "Que faire lorsqu'un client refuse de mettre les gants ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "On le prend en charge en lui expliquant qu'il s'expose à une contravention"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "On le refuse"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "On range les gants dans le top case"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "On lui demande de les garder avec lui"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GM-q06-3952493e",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 6,
+    "stem": "Donnez trois conseils à un client qui monte pour la première fois sur une moto.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Expliquer que la moto penche dans les virages, bien s'installer au fond du fauteuil et de ne\npas bouger, ne pas sortir les bras, ne pas se pencher dans le sens opposé dans un virage, ne pas hésiter à dire si la\npersonne a peur en roulant, utiliser l'intercom pour communiquer avec le chauffeur",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GM-q07-706428de",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 7,
+    "stem": "Un client arrive avec trop de bagages :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous le refusez"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous lui mettez la valise sur les genoux"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous chargez les bagages les uns sur les autres"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GM-q08-f3ac2321",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 8,
+    "stem": "Vous attendez un client à l'aéroport dont le vol a 30 minutes de retard lorsqu'une personne vous sollicite :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous lui expliquez que vous êtes réservé et lui laissez votre carte avec vos coordonnées"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous prenez en charge cette personne immédiatement, vous serez de retour à temps pour votre client"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous la prenez en charge et vous appelez un collègue pour le client retardataire"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "vous refusez car il est strictement interdit de prendre en charge un client sans réservation préalable"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

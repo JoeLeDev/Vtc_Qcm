@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "suggestions": [
+    {
+      "questionId": "2021-A-q01-6f0023fa",
+      "proposedChoiceIds": ["a", "d"],
+      "pedagogicalExplanation": "Un contrôle routier de conducteur T3P relève de la compétence générale des officiers et agents de police judiciaire de la police nationale et de la gendarmerie nationale (constatation des infractions à la circulation et à la réglementation professionnelle). Le juge du tribunal judiciaire n’effectue pas de contrôle routier. Les agents de sécurité SNCF agissent sur le domaine ferroviaire, pas comme contrôleurs T3P sur la voie publique. Attention : l’énoncé dit « quels agents » et l’annale indique « question à choix multiple » — les deux réponses A et D sont attendues. L’identifiant technique de la question est corrompu (titre d’examen collé à l’énoncé).",
+      "documentaryRef": "Consultation 2026-10-13. Code de la route art. L. 130-4 (compétence OPJ/APJ police et gendarmerie pour contraventions liées à la circulation, sans préjudice de leur compétence générale). Code des transports art. R. 3124-12 (présentation de la carte aux « agents des services chargés des contrôles »). Compil. DGITM « Code des transports — T3P » (MAJ 06/01/2020), https://www.ecologie.gouv.fr/sites/default/files/documents/CodeTransportsT3PMAJ%2020012022.pdf. Légifrance : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045072417 (L. 130-4 code de la route).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q02-f1d3d2e2",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Une condamnation du tribunal correctionnel se conteste en appel devant la cour d’appel (voie de réformation de fait et de droit). La Cour de cassation n’est saisie qu’après appel, pour le droit seulement. Le tribunal correctionnel ne « rejugera » pas l’affaire hors voies de recours prévues ; le tribunal judiciaire n’est pas la juridiction d’appel du correctionnel.",
+      "documentaryRef": "Consultation 2026-10-13. Code de procédure pénale — appel des jugements correctionnels (art. 496 et s.). Légifrance code de procédure pénale : https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006071154/. Règle inchangée depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q03-f89927f8",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "Aucune disposition du code des transports n’assujettit l’exercice d’une activité T3P (taxi, VTC, VMDTR) à un seuil minimal d’habitants de la commune. Les seuils démographiques rencontrés ailleurs (ex. PDU / LOTI) ne créent pas une taille minimale de commune pour le T3P.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports, titre II livre Ier 3e partie (L. 3120-1 et s.) — absence de condition de taille de commune. Présentation ministérielle T3P : https://www.ecologie.gouv.fr/politiques-publiques/taxi-vtc-vmdtr-cpa-reglementation-transports-publics-particuliers-personnes. Inchangé depuis 2021 sur ce point.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q04-21f97d5d",
+      "proposedOpenAnswer": "Le préfet du département où est situé le centre de formation (à Paris : le préfet de police). En pratique : les préfectures.",
+      "pedagogicalExplanation": "L’agrément des centres de formation initiale ou continue des conducteurs de transport public particulier est délivré par le préfet du département du lieu du centre, ou par le préfet de police si le centre est à Paris. L’agrément vaut cinq ans. La formulation « les préfectures » de l’indication d’annale désigne cette autorité préfectorale.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-9 (agrément préfectoral des centres de formation T3P). Légifrance : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034389387. Compil. DGITM T3P. Inchangé sur le principe depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q05-ffc0ef7b",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "La carte professionnelle de conducteur T3P est délivrée par l’autorité administrative : préfet du département (ou préfet de police à Paris). C’est cette autorité qui s’assure des conditions d’honorabilité, notamment via le bulletin n° 2 du casier judiciaire (art. R. 3120-8). Ni le préfet de région, ni le ministère chargé des transports, ni « les forces de l’ordre » en tant que telles ne délivrent la carte ni ne conduisent cette vérification administrative.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-2-2 (délivrance de la carte), R. 3120-6 (conditions de délivrance), R. 3120-8 (honorabilité / B2), R. 3122-10 (préfet / préfet de police pour VTC). Compil. DGITM T3P. Pages Service-Public consultées via recherche (F21907/F31027 ont renvoyé 404 le 2026-10-13 ; s’appuyer sur Légifrance/DGITM).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q06-94ae2b9a",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Pour les VTC, l’arrêté du 26 mars 2015 fixe une ancienneté maximale de moins de six ans (sauf véhicules de collection), mais son article 2 exclut expressément les véhicules hybrides et électriques de ces exigences. L’article L. 3120-5 du code des transports confirme que les prestations T3P peuvent être effectuées avec des véhicules électriques ou hybrides par dérogation aux caractéristiques techniques réglementaires. Réponse annale et actuelle : aucune limite d’âge spécifique issue de cet arrêté pour un hybride. La question ne précise pas « VTC » mais s’inscrit dans le sujet T3P / cadre VTC de l’examen.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-5. Arrêté du 26 mars 2015 relatif aux caractéristiques des véhicules VTC, art. 1 et 2 (NOR DEVT1500042A) — art. 1 : moins de 6 ans ; art. 2 : inapplicable aux hybrides/électriques. Réponse ministérielle AN n°33449 (rappel de l’exonération d’âge pour hybrides/électriques). Inchangé sur le principe depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q07-61c19a41",
+      "proposedOpenAnswer": "Support papier ou électronique. Deux mentions parmi : nom/dénomination et coordonnées de l’exploitant ; numéro d’identification (SIREN/SIRET) ; nom et téléphone du client ; date et heure de la réservation ; date, heure et lieu de prise en charge.",
+      "pedagogicalExplanation": "Support papier ou électronique (R. 3120-2). RÉPONSE D’ANNALE 2021 : 2 mentions parmi la liste de l’arrêté 30/07/2013 / indication CMA (exploitant, RCS/RM ou SIREN, client+tél., dates/heures, lieu). RÉPONSE 2026 (depuis 30/10/2025) : liste de l’arrêté 06/08/2025 — nouveauté n° registre VTC (L. 3122-3) ; souplesse si coordonnées client absentes du justificatif. Ne pas fusionner les deux régimes.",
+      "documentaryRef": "Consultation 2026-10-13. Voir docs/reports/lot-A-01-validation.md §Q7. R. 3120-2 ; arrêté 30/07/2013 (régime 2021, abrogé) ; arrêté 06/08/2025 art. 1 (JO 29/08/2025, applic. 30/10/2025) https://librejustice.fr/norm/fr/arrete-du-6-aout-2025-relatif-au-justificatif-de-la-reservation-prealable-applicable-aux-voitures-de-transport-avec/1",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-A-q08-2de1b526",
+      "proposedOpenAnswer": "Un justificatif écrit de la réservation préalable, sur support papier ou électronique.",
+      "pedagogicalExplanation": "Le conducteur doit pouvoir présenter aux agents chargés des contrôles le justificatif de réservation préalable prévu à l’article R. 3120-2 (document écrit sur support papier ou électronique). C’est la pièce qui prouve le respect de L. 3120-2 (interdiction de maraudage hors taxi ADS).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-2. Compil. DGITM T3P. Principe inchangé depuis 2021 ; seul le contenu détaillé du justificatif a évolué en 2025 (voir suggestion q07).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q09-080e6ea7",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "Le retrait (temporaire ou définitif) de la carte professionnelle pour violation de la réglementation applicable à la profession est une sanction administrative prise par l’autorité administrative compétente : le préfet (préfet de police à Paris) — art. L. 3124-11 et textes d’application. Ce n’est pas une sanction prononcée par un juge ; un jugement pénal peut en revanche faire cesser une condition d’honorabilité et entraîner restitution/retrait sur le fondement de R. 3120-6.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3124-11 ; R. 3124-4 / R. 3124-8 (autorité compétente = préfet / préfet de police) ; R. 3120-6 (retrait si conditions de délivrance non remplies). Compil. DGITM T3P. Inchangé sur le principe depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q10-ac166b31",
+      "proposedOpenAnswer": "1) Assurance responsabilité civile circulation du véhicule couvrant le transport de personnes à titre onéreux. 2) Assurance responsabilité civile professionnelle.",
+      "pedagogicalExplanation": "Deux obligations distinctes : (1) justificatif d’assurance pour le transport de personnes à titre onéreux présenté aux contrôles (R. 3120-4 / code des assurances) — RC circulation adaptée à l’usage professionnel ; (2) contrat couvrant la responsabilité civile professionnelle (L. 3120-4). Une assurance auto « particulière » insuffisante pour l’usage T3P ne suffit pas.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-4 et R. 3120-4. Compil. DGITM T3P. Indication annale CMA 2021 (RC circulation + RC professionnelle). Cadre inchangé depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q11-01fdc9ac",
+      "proposedChoiceIds": ["d"],
+      "pedagogicalExplanation": "Le cœur de la réglementation T3P (accès à la profession, exercice, véhicules, sanctions) figure dans le code des transports (3e partie, livre Ier, titre II). Le code pénal et le code du travail peuvent s’appliquer ponctuellement ; il n’existe pas de « code préfectoral ».",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-1 à L. 3124-15. Ministère des Transports — page T3P. Compil. DGITM T3P. Inchangé depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q12-adcd7c27",
+      "proposedChoiceIds": ["d"],
+      "pedagogicalExplanation": "Un véhicule électrique (comme un hybride) peut être utilisé pour le T3P par dérogation aux caractéristiques techniques imposées par voie réglementaire (L. 3120-5). Pour les VTC, l’arrêté du 26 mars 2015 (âge, dimensions, puissance) ne s’applique pas aux électriques/hybrides. D’où « sans contraintes particulières » au sens de ces contraintes techniques réglementaires — sans que cela dispense des autres obligations (assurance, signalétique VTC, etc.).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-5. Arrêté du 26 mars 2015 art. 2. Compil. DGITM T3P. Inchangé sur le principe depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q13-ce3e9c73",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Règle (R. 221-11 via D. 3120-5) : 5 ans <60 ; 2 ans dès 60 ; 1 an dès 76. ANNALE 2021 (27/10/2021) : 71 ans → B = 2 ans. AUJOURD’HUI (13/10/2026) : même naissance → >76 ans → C = 1 an. La suggestion conserve B (réponse historique).",
+      "documentaryRef": "Consultation 2026-10-13. Voir docs/reports/lot-A-01-validation.md §Q13. D. 3120-5 ; R. 221-11 code de la route ; Service-Public F1255 https://www.service-public.gouv.fr/particuliers/vosdroits/F1255",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-A-q14-00110411",
+      "proposedOpenAnswer": "Deux cas parmi : (1) violation de la réglementation applicable à la profession (avertissement, retrait temporaire ou définitif — L. 3124-11) ; (2) une des conditions de délivrance cesse d’être remplie (ex. annulation/invalidation du permis, condamnation figurant au B2 au sens de R. 3120-8) — R. 3120-6.",
+      "pedagogicalExplanation": "Le retrait peut être une sanction administrative (L. 3124-11) ou la conséquence de la disparition d’une condition d’exercice (R. 3120-6 : restitution, sinon retrait après observations). Exemples concrets retenus en pédagogie d’examen : annulation du permis ; condamnation pénale / atteinte à l’honorabilité (R. 3120-8). L’indication d’annale cite annulation du permis et délits prévus par le code des transports / honorabilité.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3124-11, R. 3120-6, R. 3120-8. Compil. DGITM T3P. Indication annale CMA 2021. Cadre inchangé sur le principe depuis 2021.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-A-q15-bfd027be",
+      "proposedChoiceIds": ["d"],
+      "pedagogicalExplanation": "Aucune disposition du code des transports ne fixe un kilométrage maximal par course pour un conducteur T3P. Les limitations portent sur d’autres points (réservation préalable, stationnement aux gares/aéroports, etc.), pas sur une distance maximale de prestation.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-1 et s. — absence de plafond kilométrique de course. Compil. DGITM T3P. Inchangé depuis 2021.",
+      "confidence": "high"
+    }
+  ]
+}

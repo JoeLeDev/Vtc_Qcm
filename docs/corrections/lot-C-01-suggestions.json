@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "suggestions": [
+    {
+      "questionId": "2021-C-q02-4e9aec96",
+      "proposedChoiceIds": ["b", "c"],
+      "pedagogicalExplanation": "La pluie diminue l’adhérence : la distance de freinage s’allonge, donc la distance d’arrêt aussi. Le temps de réaction physiologique n’est pas « allongé » par la pluie. L’adhérence n’est pas allongée (elle diminue). Si le barème n’accepte qu’une case, B (distance de freinage) est la formulation la plus classique ; C reste physiquement correcte.",
+      "documentaryRef": "Consultation 2026-10-13. Pédagogie Sécurité routière (distances freinage/arrêt). Ambiguïté de type single vs multi — validation humaine du barème.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-C-q03-23bb0d60",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "L’usage d’un téléphone tenu en main par le conducteur en circulation entraîne de plein droit la réduction de trois points du permis (contravention 4e classe).",
+      "documentaryRef": "Consultation 2026-10-13. Code de la route art. R. 412-6-1 — https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159599/ (section principes généraux). Inchangé sur le retrait de 3 points depuis bien avant 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-C-q04-3f61e04a",
+      "proposedChoiceIds": ["c", "d"],
+      "pedagogicalExplanation": "Pour un accident à dégâts matériels seuls, R. 231-1 impose : (1°) s’arrêter dès que possible sans créer de danger ; (2°) communiquer identité et adresse aux personnes impliquées. Avertir police/gendarmerie n’est obligatoire que s’il y a blessés ou tués (3°).",
+      "documentaryRef": "Consultation 2026-10-13. Code de la route art. R. 231-1 — https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006143853/2017-11-05/. Texte justifie explicitement C et D. Type extrait « single » mais deux obligations cumulatives — validation humaine barème.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-C-q05-d84d0b34",
+      "proposedChoiceIds": ["a", "d"],
+      "pedagogicalExplanation": "Les piétons doivent utiliser les passages prévus lorsqu’il en existe à moins de 50 m, et tenir compte de la visibilité, de la distance et de la vitesse des véhicules. B est faux ; C est faux (hors passage possible s’il n’existe pas de passage à < 50 m).",
+      "documentaryRef": "Consultation 2026-10-13. Code de la route — circulation des piétons (R. 412-37 et s., section piétons). Vérifier barème multi. Inchangé sur le principe.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-C-q06-a4235dde",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "En cas de récidive de conduite après usage de stupéfiants, la peine complémentaire d’annulation du permis avec interdiction de le repasser pendant un délai est encourue (cadre L. 235-1 et peines associées). La suspension peut aussi exister, mais l’annulation est la réponse typiquement attendue pour la récidive.",
+      "documentaryRef": "Consultation 2026-10-13. Code de la route L. 235-1 et peines complémentaires associées (annulation). Sécurité routière. Confiance medium-high — autres peines (confiscation) possibles ; A est la plus spécifique à la récidive dans les choix.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-C-q07-3fcdd133",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Le voyant de réserve n’impose pas un arrêt d’urgence ni les feux de détresse. La conduite prudente consiste à rejoindre la prochaine station-service sans paniquer. Ce n’est pas une règle codifiée précise — réponse pédagogique sécurité routière.",
+      "documentaryRef": "Consultation 2026-10-13. Pédagogie conduite / Sécurité routière (comportement voyant carburant). Pas d’article du code imposant B — confiance low-medium ; validation humaine.",
+      "confidence": "low"
+    },
+    {
+      "questionId": "2021-C-q08-4bea5117",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "Depuis le 1er janvier 2017 (décret 2016-448), le facteur de transmission de la lumière doit être d’au moins 70 % pour le pare-brise et les vitres latérales avant. Les vitres arrière ne sont pas soumises à ce seuil. Attention orthographe de l’énoncé (« pare-prise » = pare-brise).",
+      "documentaryRef": "Consultation 2026-10-13. Décret n° 2016-448 du 13 avril 2016 ; Code de la route art. R. 316-3 (transparence ≥ 70 % vitres avant). Préfecture Réunion / Sécurité routière. Règle déjà en vigueur en 2021 et en 2026.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-C-q09-b9b5e399",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "Le triangle de présignalisation se place sur la chaussée à environ 30 mètres (au moins) en amont du véhicule immobilisé, sauf mise en danger manifeste du conducteur. Sur autoroute/voie rapide la pratique recommande souvent davantage, mais le choix d’examen parmi A/B/C est 30 m.",
+      "documentaryRef": "Consultation 2026-10-13. Arrêté du 30 septembre 2008 relatif à la présignalisation ; art. R. 416-19 code de la route. DGCCRF fiche triangle/gilet https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Triangles-de-pre-signalisation-gilets-de-securite. Inchangé sur 30 m.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-C-q10-f7267642",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "En agglomération, l’avertisseur sonore n’est autorisé qu’en cas de danger immédiat (pas pour saluer, et pas la formule « avertissements nécessaires » qui vaut hors agglo).",
+      "documentaryRef": "Consultation 2026-10-13. Code de la route art. R. 416-1 ; Service-Public F35343 https://www.service-public.gouv.fr/particuliers/vosdroits/F35343. Inchangé depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-C-q11-fc740260",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "Règle pédagogique classique : distance de freinage ≈ (V/10)². À 90 km/h : 9² = 81 m ≈ 80 m. (La distance d’arrêt ajoute le temps de réaction ; selon les barèmes, 80 m désigne souvent la distance de freinage présentée comme « d’arrêt » approximative dans les QCM.)",
+      "documentaryRef": "Consultation 2026-10-13. Formule pédagogique Sécurité routière / code de la route (distances). Ambiguïté freinage vs arrêt — confiance medium.",
+      "confidence": "medium"
+    }
+  ]
+}

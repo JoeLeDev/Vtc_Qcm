@@ -1,0 +1,5387 @@
+[
+  {
+    "id": "2022-A-q01-34dc9cf1",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "Quel service délivre la carte professionnelle de conducteur de T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La DREAL"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "La préfecture"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La DIRECCTE"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La mairie"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-A: n° examen capturé."
+    ],
+    "legacyIds": [
+      "2022-A-q58132-e3694fd5"
+    ]
+  },
+  {
+    "id": "2022-A-q02-5eca2b6a",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "Qu'est-ce qu'un service de transport régulier ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "C'est un transport collectif défini par : itinéraire, point d'arrêt, fréquence, tarif et horaire.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q03-1ce22607",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "L'examen du T3P est composé :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'une épreuve de préparation"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "d'une épreuve d'admission"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "d'une épreuve d'intégration"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "d'une épreuve d'admissibilité"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q04-6687ebc8",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Je me fais contrôler sur la route, quels documents communs aux trois professions dois-je présenter aux forces de l'ordre ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le permis de conduire.\nLa carte grise du véhicule.\nAssurance du véhicule.\nAssurance responsabilité civile professionnelle (RCP).\nAttestation de formation.\nCarte professionnelle en cours de validité.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q05-da1c93e8",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Quel est le délit justifiant le refus de délivrance d'une carte professionnelle ? :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Franchissement d'un feu rouge"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Non exercice régulier de la profession"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Inaptitude médicale"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Conduite après usage de stupéfiants"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q06-0f587e83",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "Quelle est la signification du terme LOTI ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Loi d'observation des taxis intramuros"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Loi d'orientation des transports intérieurs"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Loi d'organisation du tourisme intérieur"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Loi d'orientation du tourisme interne"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q07-5583c18d",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "Parmi ces affirmations, laquelle est vraie ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La carte professionnelle est délivrée par le Préfet ou le Préfet de Police"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "La carte professionnelle mentionne le résultat à l'examen"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La carte professionnelle est délivrée par la Mairie."
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La carte professionnelle mentionne la commune dans laquelle on est autorisé à exercer."
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q08-d99af71e",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Un conducteur de transport public particulier de personnes doit restituer sa carte professionnelle lorsqu' :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une condition de validité n'est plus remplie"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "il est condamné pour délit par le juge du tribunal correctionnel."
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il est employé par un dirigeant qui ne respecte par la règlementation du transport de de voyageurs"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "il cesse son activité professionnelle définitivement"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q09-df7e60ee",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Quels types de personnalités peuvent être associées avec voix consultative aux travaux des membres de la commission locale des T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un collège de représentants des professionnels (syndicats, organisations professionnelles)"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Les représentants des organisations professionnelles des centrales de réservation des transports publics particuliers de personnes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Un collège de représentants de l'État (ex : préfet ou son représentant, DDPP, représentant de la gendarmerie/police nationale, ….)"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q10-c3de9d58",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Quelles sont les deux assurances obligatoires qu'un conducteur de T3P doit souscrire ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Responsabilité civile circulation (RCC).\nResponsabilité civile professionnelle du conducteur (RCP).",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q11-59f68ab9",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 11,
+    "stem": "Quelles sont les sanctions administratives encourues par un conducteur de T3P en cas de violation de la réglementation de la profession ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Retrait temporaire/suspension de la carte professionnelle, retrait définitif de la carte\nprofessionnelle, avertissement.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q12-d0682d45",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 12,
+    "stem": "Qu'est-ce que l'honorabilité dans votre profession ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le casier judiciaire B2 vierge",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q13-1e2b58e4",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 13,
+    "stem": "Pour accéder à la profession de conducteur de T3P, il faut obligatoirement :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Avoir une expérience professionnelle de conducteur de véhicule léger dans les 5 ans précédant la demande de carte professionnelle."
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Suivre une formation"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Réussir à un examen"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q14-9cbb981d",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 14,
+    "stem": "Un client se plaint de la tarification de la course. Quelle est l'autorité compétente pour le traiter ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "les Prudhommes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le tribunal de commerce"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "le juge de proximité"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la préfecture"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q15-5f99467b",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 15,
+    "stem": "Le stage de formation continue dispensé aux conducteurs de transport public particulier de personnes permet d'obtenir une attestation valable :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "5 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "2 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 an"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "10 ans"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q01-38e2d57d",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "Bilan et compte de résultat sont obligatoires pour toutes structures exploitées :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "sous statut fiscal de réel simplifié"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "sous régime de micro-entrepreneur"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "sous statut fiscal de réel normal"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-B: n° d'examen capturé; stem nettoyé; alias 2022-B-q58145-11c4c132."
+    ],
+    "legacyIds": [
+      "2022-B-q58145-11c4c132"
+    ]
+  },
+  {
+    "id": "2022-B-q02-97ac5d47",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "Mme Sophie achète et met en service un véhicule le 1er mars 2023 pour une valeur de 24 000 € HT, amortissable de façon linéaire sur 5 ans. Ses comptes sont clôturés traditionnellement le 31 décembre de chaque année. Quelle sera la valeur comptable nette du véhicule au 31 décembre 2026 ? Détaillez vos calculs.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "24 000 / 5 = 4 800 €\n1er année = 4 800 x 10 / 12 = 4000 €\n2ème, 3ème et 4ème année = 4 800 € chacune\nTotal amortissement au 31 décembre 2026 = 18 400 €\nValeur comptable nette au 31 décembre 2026 = 24 000 - 18 400 = 5 600 €",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-B-q03-b6c22a7a",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "Parmi ces propositions, laquelle (lesquelles) se trouve(nt) à l'actif du bilan :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le prêt bancaire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la banque"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "le véhicule"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "le capital"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q04-f9e501de",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Une entreprise individuelle :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "doit changer de statut juridique pour embaucher un salarié"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "peut embaucher des salariés"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "ne peut embaucher qu'un apprenti"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q05-547ee3f2",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Le résultat d'une entreprise est obtenu par :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la différence entre produits et charges"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la différence entre actif et passif"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "stock + créances clients - dettes fournisseurs"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q06-2c348126",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "Dans un bilan comptable, un amortissement fait baisser :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "les charges"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le bénéfice"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "l'imposition"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q07-8ffbc43f",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "L'assujettissement du bénéfice de l'entreprise à l'impôt sur les sociétés est possible dans le cadre :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'une SARL"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "d'une SARL à associé unique (anciennement EURL)"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "d'une micro-entreprise"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q08-0936b587",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Les montants figurant dans le compte de résultat sont :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "HT"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "TTC"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "TVA"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q09-ffafbfec",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Qu'est-ce qu'une créance client ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une facture en attente de création"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une facture impayée par un client"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une facture réglée par un client"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "une facture due à un fournisseur"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q10-dbd5487a",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Lequel de ces documents n'est pas demandé à un artisan pour s'inscrire au Répertoire des Métiers ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "extrait du casier judiciaire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "justificatif de domicile"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "carte de sécurité sociale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 3,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q11-1b2ac6f3",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 11,
+    "stem": "Vous créez seul(e) une activité de transport de personnes. Quels sont les statuts juridiques possibles ? (citez-en trois)",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Entreprise Individuelle (EI)\nSARL à associé unique (anciennement EURL)\nSASU",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-B-q12-60df750e",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 12,
+    "stem": "Le Président de la Chambre de Métiers et de l'Artisanat est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un(e) salarié(e) de la fonction publique"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un(e) artisan(e) en exercice"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une personne nommée par le Préfet de région"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q13-13a70018",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 13,
+    "stem": "Qu'est-ce qu'un chiffre d'affaires ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'argent qui reste en banque après avoir payé toutes les charges"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la différence entre les produits et les charges"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "l'ensemble des commandes ou devis"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "l'ensemble des sommes facturées aux clients"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q14-4a7e3296",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 14,
+    "stem": "Lors de la création d'une société, la publication d'une annonce légale est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "obligatoire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "nécessaire pour faire de la publicité"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "facultative"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q15-217e65b8",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 15,
+    "stem": "Un artisan exerçant en entreprise individuelle est imposé de plein droit à :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'impôt sur les sociétés et l'impôt sur le revenu des personnes physiques"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "l'impôt sur le revenu des personnes physiques"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "l'impôt sur les sociétés"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q16-f6a63a8b",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 16,
+    "stem": "Quel est le taux de TVA applicable sur le transport de personnes ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "7 %"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "10 %"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "20%"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "5,5 %"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q17-85fc4ab6",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 17,
+    "stem": "Quel est le code qui permet de déterminer l'activité réalisée par une entreprise ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "SIRET"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "SIREN"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "APE"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-B-q18-6826e76b",
+    "subject": "B",
+    "scope": "common",
+    "year": 2022,
+    "number": 18,
+    "stem": "Les emprunts sont intégrés dans :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "les créances sur client"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "les dettes à long terme"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "les capitaux permanents"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "les immobilisations"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - B - Gestion",
+    "pdfPage": 4,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q01-28d0b79a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "Je peux suivre un stage de sensibilisation à la sécurité routière :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une fois tous les 2 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "trois fois par an"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une fois par an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-C: n° d'examen capturé; stem nettoyé; alias 2022-C-q58134-8dae64fa."
+    ],
+    "legacyIds": [
+      "2022-C-q58134-8dae64fa"
+    ]
+  },
+  {
+    "id": "2022-C-q02-fc740260",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "A 90 km/h la distance d'arrêt est approximativement de:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "80 m"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "70 m"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "50 m"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-C-q11-fc740260 (original conservé)."
+    ],
+    "duplicateOf": "2021-C-q11-fc740260"
+  },
+  {
+    "id": "2022-C-q03-48fcec06",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "Donnez au moins deux effets de la fatigue.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le temps de réaction est plus rapide"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Les gestes sont moins rapides"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Les réflexes sont plus lents"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Une diminution de la distance parcourue pendant le temps de réaction"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q04-17ef6092",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Par temps de brouillard, lorsque la visibilité est inférieure à 50 mètres, je roule à :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "30 km à l'heure"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "50 km à l'heure"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "70 km à l'heure"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q05-5690af9c",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Sur les routes à sens unique, à deux voies ou lors d'un accès sur un rond point, vous pouvez circuler sur la voie de gauche :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "pour préparer un changement de direction à gauche"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "il n'y a pas de règle le précisant"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "lorsque vous êtes seul (e) sur la route et que vous ne gênez personne"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q06-72aa2a3a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "Quel type d'arrêt ou de stationnement sont considérés comme gênant la circulation publique dans le code de la route ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "arrêt ou stationnement sur les trottoirs, les passages ou accotements réservés à la circulation des piétons"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "il n'y a pas d'arrêt ou de stationnement gênant pour les véhicules T3P"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "arrêt ou stationnement sur une place de parking"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "arrêt ou stationnement au droit des bouches d'incendie et des accès à des installations souterraines"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q07-bc9d87e4",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "Puis-je rajouter moi-même du liquide de refroidissement?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "non, cela doit attendre la prochaine révision"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "non, il faut aller chez le garagiste"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "oui, mais avec le moteur chaud"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "oui, mais avec le moteur froid"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q08-c75d0715",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Quelles sont les actions à mettre en œuvre en présence d'un blessé :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "retirer son casque"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "donner à boire de l'eau"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "couvrir la victime"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "parler à la victime"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q09-f9e9e0e2",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Au volant de mon véhicule léger, je me dirige vers le sommet d'une montagne (véhicule montant). Un véhicule de transport en commun arrive en sens inverse (véhicule descendant). Le croisement s'avère difficile :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "c'est au transport en commun de s'arrêter pour me laisser passer"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "je dois m'arrêter pour faciliter le passage du transport en commun"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il n'y a pas de règle, c'est une question de courtoisie"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q10-78ee974d",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Quelles sont les précautions nécessaires pour vérifier le niveau d'huile?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Moteur allumé"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Terrain plat"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Moteur chaud"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Moteur froid"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q11-b3fb4036",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 11,
+    "stem": "Pourquoi faut-il rédiger un constat amiable?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "pour calculer les indemnisations de chacune des personnes impliquées"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "pour déterminer les responsabilités de chacune des personnes impliquées"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "pour déterminer la sanction encourue par l'auteur"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "pour que le garagiste puisse établir un devis des réparations"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q12-13982f8e",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 12,
+    "stem": "Conduisant durant une période de suspension du permis de conduire :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "je risque un retrait de 6 points de mon permis de conduire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "je commets un délit"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il ne peut pas y avoir de retrait de points"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q13-4bcab890",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 13,
+    "stem": "Sur les routes à 2x2 voies séparées par une ligne continue, la vitesse est limitée à :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "110 km/h"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "130 km/h"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "90 km/h"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q14-79eaf786",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 14,
+    "stem": "Contrôlé avec un taux d'alcool de 0,7 gramme par litre de sang, je risque:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une peine de prison"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un retrait de 4 points sur mon permis de conduire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une amende"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un retrait de 6 points sur mon permis de conduire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q15-25a897de",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 15,
+    "stem": "Dans quel cas exceptionnel devez-vous dépasser un véhicule par la droite ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "lorsque le conducteur du véhicule qui me précède a signalé qu'il allait changer de direction vers la droite"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "lorsque le conducteur du véhicule qui me précède a signalé qu'il allait changer de direction vers la gauche"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "lorsque le conducteur du véhicule qui me suit a signalé qu'il allait changer de direction vers la gauche"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "il est toujours autorisé de dépasser un véhicule par la droite"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q16-75fc58b2",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 16,
+    "stem": "Je dois augmenter la pression des pneus:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "si mon véhicule est très chargé"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "lorsque la route est mouillée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "si je circule longtemps sur autoroute"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "sur la neige"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q17-3b08df0d",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 17,
+    "stem": "Ce pictogramme, qui figure sur des boîtes de médicaments, signifie :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "soyez prudent. Ne pas conduire sans avoir lu la notice"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "soyez très prudent. Ne pas conduire sans l'avis d'un professionnel de santé"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "attention, danger : ne pas conduire. Pour la reprise de la conduite, demandez l'avis d'un médecin"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Pictogramme médicaments non extrait du PDF — illustration manquante."
+    ],
+    "legacyIds": [
+      "ILLUS-MISSING-2022-C-q17"
+    ]
+  },
+  {
+    "id": "2022-C-q18-ab728d1e",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 18,
+    "stem": "Lorsque le permis a été invalidé en raison d'une perte totale de points, le nouveau permis obtenu est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un permis probatoire doté d'un capital de 6 points"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un permis non probatoire doté d'un capital de 12 points"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un permis probatoire doté d'un capital de 12 points"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Dissocie 2022-p8.png (pictogramme pollution NIVEAU 3) — image orpheline, non liée à C Q18."
+    ],
+    "legacyIds": [
+      "ILLUS-CLEAR-2022-C-q18"
+    ]
+  },
+  {
+    "id": "2022-C-q19-e5e6e81f",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 19,
+    "stem": "Sont considérés comme véhicules d'intervention d'urgence prioritaire les :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "véhicules des services pénitenciers"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "véhicules du SAMU"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "véhicules de secours d'électricité"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "véhicules de service hivernal"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Dissocie 2022-p8.png — non liée à C Q19."
+    ],
+    "legacyIds": [
+      "ILLUS-CLEAR-2022-C-q19"
+    ]
+  },
+  {
+    "id": "2022-C-q20-c1dacc26",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 20,
+    "stem": "Un conducteur qui commet un excès de vitesse de 40 km/h au-dessus de la vitesse autorisée risque :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une peine d'emprisonnement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la réduction de quatre points du permis de conduire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la réduction de six points du permis de conduire"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la suspension de son permis de conduire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Dissocie 2022-p8.png — non liée à C Q20."
+    ],
+    "legacyIds": [
+      "ILLUS-CLEAR-2022-C-q20"
+    ]
+  },
+  {
+    "id": "2022-D-q01-f5bb21f0",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "Quelle place pour le vélo en France ? Le gouvernement a récemment annoncé un « Plan vélo » doté d'une enveloppe de 350 millions d'euros. Son ambition : développer une véritable culture du vélo. Son objectif : tripler les déplacements quotidiens des Français à vélo d'ici à 2024. Écolo, simple, silencieux, bon pour la santé… Il a tout pour plaire. Pourtant, les Français résistent toujours au vélo comme moyen de transport du quotidien. Le dernier recensement de l'Insee révèle cette réalité cruelle : 1,9 % des Français seulement se rendent à leur travail à vélo lorsqu'ils sont près de 71 % à utiliser la voiture, et ce quelle que soit la longueur du trajet. Le recours à la bicyclette reste timide, et cantonné à des petits trajets inférieurs à 4 kilomètres. D'après un dernier sondage, plus de la moitié des Français déclarent utiliser très rarement le vélo. Parmi les sondés, ils ne sont que 2 % à l'enfourcher chaque jour. Cette part grimpe à 14 % lorsqu'il s'agit de l'utiliser plus d'une fois par semaine. Les convaincus, ceux dont la pratique du vélo est supérieure à la moyenne, sont plutôt des hommes diplômés, âgés de moins de 35 ans et vivant en zone urbaine. On retrouve ici le dernier profil des adeptes du vélo dressé par l'Insee : \"Diplômés, citadins et cadres supérieurs\". Le gouvernement vient de mettre sur la table 25 mesures incitatives destinées à faire décoller les déplacements à vélo. Parmi les leviers choisis : plus de zones cyclables, et de meilleure qualité, la sécurisation des trajets ou bien la mise en place d'une indemnité kilométrique vélo. Mais le \"Plan vélo\" suscite encore beaucoup d'interrogations. Plus de huit sondés sur 10 (84 %) sont sceptiques quant à ses chances de réussite d'ici à 2024. Sans surprise, les sondés \"cyclistes\" se montrent plus positifs. En effet, 32 % d'entre eux pensent que l'objectif du gouvernement sera facile à atteindre. Dans leur ensemble, les personnes interrogées jugent prioritaires la sécurité, le comportement plus attentif de la part des conducteurs de voiture et de meilleures infrastructures. Ils mettent aussi l'accent sur l'importance d'avoir un vélo bien entretenu juste avant la mise en place de stationnements sécurisés. https:/www.lefigaro.fr/actualite-france/2018/11/30/01016-20181130ARTFIG00197-quelle-place-pour-le-velo-en-france.php ____________________ Que signifie le mot « recensement » ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Enquête"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Recueil d'informations"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Traitement de statistiques"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Dénombrement détaillé"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-D: n° d'examen capturé; stem nettoyé; alias 2022-D-q58142-21c4a29d."
+    ],
+    "legacyIds": [
+      "2022-D-q58142-21c4a29d"
+    ]
+  },
+  {
+    "id": "2022-D-q02-4dd80e96",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "Combien de Français utilisent le vélo au quotidien ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "2%"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "4 %"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "14%"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q03-fda237e9",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "Le mot « cadre » définit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un statut"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Un classement administratif"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Une grille de rémunération"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q04-d1563af2",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Qu'est-ce que l'INSEE ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Une agence de publicité"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Un institut de suivi de l'économie européenne"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Une administration"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Un institut d'études statistiques et économiques"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q05-31812f95",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Qu'est-ce qu'une mesure incitative ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "C'est une mesure obligatoire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "C'est une mesure conseillée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "C'est une mesure qui donne envie"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q06-1e8a2f0a",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "Qu'est-ce qu'une indemnité ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Une récompense"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le remboursement de frais"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Une taxe sur les transports"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q07-c1f89b64",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quels éléments les sondés jugent prioritaires dans le plan vélo ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La sécurité"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "De meilleures infrastructures"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La mise en place d'une indemnité kilométrique vélo"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q08-99b6e234",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Pourquoi l'État veut-il lancer un plan vélo et quel est son objectif ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Son ambition : développer une véritable culture du vélo. Son objectif : tripler les\ndéplacements quotidiens des Français à vélo d'ici à 2024.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 10,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-D-q09-b2af7606",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Que signifie l'expression « remporter la palme » ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Supériorité absolue dans un domaine quelconque, être le meilleur",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 10,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-D-q10-466c8ec3",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Selon le sondage, quel est le profil des cyclistes convaincus par la pratique du vélo ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Plutôt des hommes diplômés, âgés de moins de 35 ans et vivant en zone urbaine.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 10,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-E-q01-895d1812",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "I need a taxi for tomorrow afternoon :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "J'ai besoin d'un taxi pour demain après-midi"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "J'ai besoin d'un taxi pour demain"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "J'ai besoin d'un taxi pour cet après-midi"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-E: n° d'examen capturé; stem nettoyé; alias 2022-E-q58136-cbf26286."
+    ],
+    "legacyIds": [
+      "2022-E-q58136-cbf26286"
+    ]
+  },
+  {
+    "id": "2022-E-q02-d48a9ff9",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "Est-ce qu'il y a un musée dans votre ville ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "is there museum on your town ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "whats a museum in your town ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "is there a museum in your town ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q03-f86a21bb",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "Pouvez-vous attendre quelques minutes ? Mon ami arrive.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Could you wait a couple of minutes ? My friend would arrive"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Could you wait a couple of minutes ? My friend is coming"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Are you waiting a couple of minutes ? My friend is coming"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q04-38f358a9",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Souhaitez-vous un reçu ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "do you want a ticket?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "would you like a receipt?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "did you want a bill?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-E-q08-38f358a9 (original conservé)."
+    ],
+    "duplicateOf": "2021-E-q08-38f358a9"
+  },
+  {
+    "id": "2022-E-q05-5b354581",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Ma voiture ne démarre pas :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "my car shouldn't start"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "my car didn't start"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "my car doesn't start"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q06-2046240d",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "What is the translation of « driving »?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Conduire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Partir"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Construire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q07-81233fea",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quelle est la marque de votre voiture ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "What brand is your car?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "How is your car?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Is that your car?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q08-49f6e33f",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Are you free?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Êtes-vous disponible ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Êtes-vous prêt ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Êtes-vous gratuit ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q09-19946e95",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Mettez votre ceinture de sécurité :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Fasten your seat belt"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Sit on your seat belt"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Unfasten your seat belt"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q10-8cf70600",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Can you take us to the airport before 4 pm?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Pouvez-vous nous conduire à l'aéroport avant 4h de l'après midi ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Pouvez-vous aller à l'aéroport à 4h de l'après midi ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Peux-tu nous prendre à l'aéroport à 4h ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q11-727a8872",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 11,
+    "stem": "I am so sorry, I lost my wallet. What can we do ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Je suis désolé, j'ai perdu mon sac à main. Que pouvons-nous faire ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Je suis désolé, j'ai perdu mon portefeuille. Que pouvons-nous faire ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Je suis désolé, j'ai perdu mon portefeuille. Que pouvez-vous faire ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q12-2199ac4e",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 12,
+    "stem": "Do you have a business card?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Avez-vous une carte professionnelle?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Avez-vous une carte des entreprises ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Avez-vous une carte de visite ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q13-adbcdab4",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 13,
+    "stem": "I can't go through, the road is blocked.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Je peux traverser, la circulation n'est pas bloquée"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Je ne peux pas y aller, la route est bloquée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Je peux y aller, la route n'est pas bloquée"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q14-5ac0ee6e",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 14,
+    "stem": "There seems to be traffic jams on the motorway, do you know another way ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Il semble que les routes soient bloquées, pouvez-vous prendre l'autoroute ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Il semblerait qu'il faille prendre l'autoroute pour éviter les bouchons ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Apparemment, il y a des bouchons sur l'autoroute, connaissez-vous une autre route ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q15-6bfdaebf",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 15,
+    "stem": "Will we be on time for my train?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Est-ce que le train sera à l'heure ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Serons-nous à l'heure pour mon train ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "A quelle heure est mon train ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q16-2fc069f2",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 16,
+    "stem": "Taking the bus is cheaper than taking the train:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Prendre le bus coûte plus cher que prendre le train"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Prendre le bus coûte moins cher que prendre le train"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Prendre le bus est plus long que prendre le train"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q17-10343275",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 17,
+    "stem": "We booked a guest house in Lamentin:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Nous avons réservé dans une maison d'hôtes au Lamentin"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Vous livrez les invités au Lamentin"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Nous avons un livre d'invités au Lamentin"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q18-bc0cad2b",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 18,
+    "stem": "I have a commute at the station at 4.15 pm.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "J'ai une correspondance à la gare à 16h15"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "J'ai une correspondance à l'aéroport à 16h15"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "J'ai une correspondance à la gare à 4h15 du matin"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q19-e809d79b",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 19,
+    "stem": "I would like to visit the south of France, have you already been there?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "J'aimerais visiter le sud de la France, y êtes-vous déjà allé ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Je veux visiter le sud de la France, y êtes-vous déjà allé ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Je veux visiter le sud de la France, êtes-vous déjà descendu là-bas ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-E-q20-c046f48f",
+    "subject": "E",
+    "scope": "common",
+    "year": 2022,
+    "number": 20,
+    "stem": "Do you have change on ten euros?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Pouvez-vous me donner dix euros ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Connaissez-vous un bureau de change pour des euros ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Avez-vous la monnaie sur dix euros ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - E - Anglais",
+    "pdfPage": 12,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q01-4c4b00c9",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 1,
+    "stem": "Sur route mouillée la distance de freinage est multipliée par :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "4"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-FM-q05-4c4b00c9 (original conservé).",
+      "Correctif Q1 2022-FM: n° d'examen capturé; stem nettoyé; alias 2022-FM-q58140-3b41903f."
+    ],
+    "duplicateOf": "2021-FM-q05-4c4b00c9",
+    "legacyIds": [
+      "2022-FM-q58140-3b41903f"
+    ]
+  },
+  {
+    "id": "2022-FM-q02-f6e20d97",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 2,
+    "stem": "Je suis titulaire du permis A2 depuis deux ans puis du permis A depuis un an, dans combien d'années pourrais-je pratiquer la profession de chauffeur VMDTR ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "tout de suite"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "3 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "2 ans"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "1 an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q03-7b0be597",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 3,
+    "stem": "A plus d'une heure de ma prise en charge j'ai le droit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'aller boire un café"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "de rechercher un client avant le suivant"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "de stationner devant la gare SNCF"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "de stationner dans un parking privé"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q04-a8cf114b",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 4,
+    "stem": "Un rythme circadien :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "est un rythme biologique intégré prenant la forme d'un cycle d'environ 12 heures"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "est un rythme biologique intégré prenant la forme d'un cycle d'environ 24 heures"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "est une alternance entre la phase d'éveil et la phase de sommeil"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "est la vitesse à laquelle vous circulez dans un rondpoint"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q05-1debfd71",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 5,
+    "stem": "Citez 2 facteurs qui peuvent avoir une influence sur l'effet gyroscopique.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "1. Le transport d'un passager\n2. Le transport de bagages\n3. Les virages\n4. Le vent de côté/latéral\n5. Poids de chargement.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-FM-q06-a0a1dd80",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 6,
+    "stem": "L'énergie absorbée par le corps en cas de choc est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "toujours la même quelle que soit la vitesse"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "d'autant moins importante que la vitesse est élevée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "d'autant plus importante que la vitesse est élevée"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-FM-q10-a0a1dd80 (original conservé)."
+    ],
+    "duplicateOf": "2021-FM-q10-a0a1dd80"
+  },
+  {
+    "id": "2022-FM-q07-2661353c",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quelle est la puissance minimale d'une motocyclette utilisée pour le transport de T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "35 kW"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "aucun si elle est hybride ou électrique"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "40 kW"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q08-d768bf32",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 8,
+    "stem": "Avec lequel ou lesquels de ces véhicules je n'ai pas le droit de réaliser du transport de personne à titre onéreux ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un quadro"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Une moto side-car de 45kW"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Un 3 roues permis B"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Une moto de 1800 cm3"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q09-04399973",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 9,
+    "stem": "Où se situent les lésions le plus souvent constatées chez les motards ? Citez-en au moins 2.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Tête, membres supérieurs et inférieurs et colonne vertébrale (sera accepté l'énoncé de membre type pied, doigt,\nmain…)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Doublon potentiel de 2021-FM-q04-04399973 (original conservé)."
+    ],
+    "duplicateOf": "2021-FM-q04-04399973"
+  },
+  {
+    "id": "2022-FM-q10-09a61ad9",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 10,
+    "stem": "Quels sont le ou les éléments qui font partie du savoir-être d'un chauffeur ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Ponctualité"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Développement de son activité"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Discrétion"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Connaissance de la règlementation"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q11-4959f952",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 11,
+    "stem": "Tout casque utilisé en France doit posséder :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "4 bandes réfléchissantes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "5 bandes réfléchissantes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "3 bandes réfléchissantes"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q12-1bf228dc",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 12,
+    "stem": "Quelle est la largeur pour rouler en inter-file ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1,05 m"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1,50 m"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "80 cm"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "1 m maximum"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FM-q13-c7e42368",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 13,
+    "stem": "De quelle couleur est la signalétique spécifique à l'activité de conducteur de véhicules motorisés à deux ou trois roues ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "rouge"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "verte"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "bleue"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-FM-q11-c7e42368 (original conservé)."
+    ],
+    "duplicateOf": "2021-FM-q11-c7e42368"
+  },
+  {
+    "id": "2022-FM-q14-643fdd7e",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 14,
+    "stem": "Citez 4 facteurs de risque d'accident en moto.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "1 - l'alcool\n2 - les drogues\n3 - le duo alcool/drogues\n4 - la vitesse excessive\n5 - la fatigue\n6 - l'illusion d'être visible\n7 - l'inexpérience\n8 - l'excès de confiance.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Doublon potentiel de 2021-FM-q15-643fdd7e (original conservé)."
+    ],
+    "duplicateOf": "2021-FM-q15-643fdd7e"
+  },
+  {
+    "id": "2022-FM-q15-322e531b",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 15,
+    "stem": "Citez 5 mentions figurant sur l'attestation d'entretien.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "1. Marque\n2. Modèle\n3. Immatriculation\n4. Numéro d'identification du véhicule\n5. Date de première immatriculation\n6. Date de délivrance et d'expiration de l'attestation\n7. Entreprise délivrant l'attestation\n8. Nom du professionnel assurant l'entretien du véhicule et mention de son diplôme.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-FM-q16-ccb245c9",
+    "subject": "FM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 16,
+    "stem": "Quelle est la durée de validité de l'attestation d'entretien du véhicule ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "2 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "4 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FM",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q01-4e149c1b",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 1,
+    "stem": "Le prix psychologique correspond :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "au prix dont se souvient le consommateur"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "au prix que le consommateur est prêt à payer pour acheter le produit/la prestation"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "au prix de référence pour une catégorie de produits/prestations"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "au prix perçu par le consommateur"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-FV: n° d'examen capturé; stem nettoyé; alias 2022-FV-q58137-f66bd0d2."
+    ],
+    "legacyIds": [
+      "2022-FV-q58137-f66bd0d2"
+    ]
+  },
+  {
+    "id": "2022-FV-q02-48c2649e",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 2,
+    "stem": "Quelle affirmation est vraie ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Lorsque la demande est supérieure à l'offre, les prix augmentent"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Lorsque la demande est supérieure à l'offre, les prix baissent"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Lorsque la demande est inférieure à l'offre, les prix augmentent"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q03-2547c52f",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 3,
+    "stem": "De manière générale, quelle est l'attitude à adopter lors de l'approche du lieu de destination?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Informer le client de votre arrivée prochaine"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Préparer la mission suivante"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Demander à votre client de rassembler ses effets personnels"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q04-f57c39cd",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 4,
+    "stem": "Avant de démarrer votre activité, vous allez devoir convaincre votre banquier afin de lui \"vendre\" votre projet. Quels sont dans l'idéal les deux éléments à lui présenter le jour du rendez-vous ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Carte de visite"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Étude de marché"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Business plan"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Carte grise du véhicule"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q05-acbf7822",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 5,
+    "stem": "En tant qu'exploitant, je ne peux pas:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "fixer librement les prix sans tenir compte de mes éléments de coûts"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "fixer librement les prix, sous réserve d'être en dessous du prix de revient"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "fixer librement les prix sans m'assurer que je ne travaille pas à perte"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q06-dd5294c3",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 6,
+    "stem": "Pour prendre en charge un client dans un hôtel, il convient de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "klaxonner pour informer de l'arrivée du véhicule"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "l'attendre devant la porte d'entrée de l'hôtel"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "se faire annoncer auprès de la réception de l'hôtel"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q07-57b8d49d",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quelle est la première étape d'une stratégie commerciale d'un chauffeur VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le marketing mix"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le plan d'action"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "L'étude de marché"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q08-9e968eb9",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 8,
+    "stem": "Votre client oublie son portefeuille dans votre véhicule. Que faites-vous ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le contacter le plus rapidement possible pour le rassurer, lui proposer de récupérer son bien\nle plus surement et rapidement possible",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-FV-q09-9bbed938",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 9,
+    "stem": "Le devis:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "est une proposition modifiable jusqu'à acceptation du client"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "est postérieur à la prestation"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "a une date de validité maximale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q10-c6adc1a7",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 10,
+    "stem": "Diriez-vous que vos futurs clients VTC, que vous cherchez à conquérir sont :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Vos adeptes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Vos objectifs"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Votre marché"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q11-1c1fcc24",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 11,
+    "stem": "Citez quatre des mentions devant obligatoirement figurer sur un devis.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le devis doit mentionner les éléments suivants :\n-date du devis et durée de validité de l'offre ;\n-date, heure et lieu de prise en charge;\n-lieu de destination;\n-nom, raison sociale et adresse de l'entreprise (n° de téléphone et adresse électronique) ;\n-statut et forme juridique de l'entreprise ;\n-pour un commerçant : numéro RCS suivi du nom de la ville où se trouve le greffe d'immatriculation ;\npour un artisan : numéro au Répertoire des métiers (n° Siren + RM + n° du département d'immatriculation) ;\n-numéro individuel d'identification à la TVA,\n-nom et adresse du client ;\n-date de début et durée estimée des travaux ou de la prestation ;\n-décompte détaillé (et description) de chaque prestation, en quantité et en prix unitaire ;\n-prix horaire ou forfaitaire de main d'œuvre ;\n-frais de déplacement, éventuellement ;\n-modalités de paiement, de livraison et d'exécution du contrat ;\n-modalités des réclamations et conditions du service après-vente (garantie notamment) ;\n-somme globale à payer HT et TTC, en précisant les taux de TVA applicables.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 15,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-FV-q12-772e340b",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 12,
+    "stem": "Quelles sont les méthodes de prospection existantes ? Citez un exemple de chaque.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Prospection traditionnelle (porte à porte, téléphone) ou prospection numérique (site web,\nmailing, réseaux sociaux, centrales de réservations)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Doublon potentiel de 2021-FV-q04-772e340b (original conservé)."
+    ],
+    "duplicateOf": "2021-FV-q04-772e340b"
+  },
+  {
+    "id": "2022-FV-q13-abeafd19",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 13,
+    "stem": "Dans la formule monôme, l'élément pris en compte pour le calcul du coût de revient est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un terme journalier fixe"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Un terme horaire de conducteur"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Un terme kilométrique"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q14-15a9cb61",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 14,
+    "stem": "Dans l'activité de VTC, les conditions générales de vente sont :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "ne doivent pas être fournies à un professionnel qui en fait la demande"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "indispensables en relation B to C"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "facultatives en relation B to B"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "conformes à la loi Hamon du 17 mars 2014"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-FV-q11-15a9cb61 (original conservé)."
+    ],
+    "duplicateOf": "2021-FV-q11-15a9cb61"
+  },
+  {
+    "id": "2022-FV-q15-d0543d7a",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 15,
+    "stem": "Parmi ces affirmations, la ou lesquelles sont vraie(s) ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "lors du management, je dois prendre les réservations clients quoiqu'il en coute"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "lors du suivi client, je dois mémoriser les personnes et les habitudes des clients"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "lors de la gestion de la mission, je dois déposer mon client le plus rapidement possible"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "lors de l'accueil client, je dois savoir contrôler ma tenue et mon véhicule"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-FV-q16-81ea4527",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 16,
+    "stem": "Vous avez réussi votre examen avec succès et décidez d'acheter un véhicule pour réaliser votre activité. Sur quels points allez-vous être attentifs concernant l'achat de celui-ci ? Citez-en 3.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "- Source énergétique (véhicule électrique, hybride, essence, diesel)\n- Prix du véhicule à négocier\n- Standing du véhicule\n- Confort du véhicule\n- Coût du crédit / amortissement\n- Entretient courant\n\n- Assurances",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - FV",
+    "pdfPage": 16,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-GT-q01-fbec9865",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 1,
+    "stem": "Quelle est l'autorité compétente qui fixe le taux d'augmentation annuel des tarifs ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le ministre de l'économie",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Correctif Q1 2022-GT: n° d'examen capturé; stem nettoyé; alias 2022-GT-q58138-7cf99076."
+    ],
+    "legacyIds": [
+      "2022-GT-q58138-7cf99076"
+    ]
+  },
+  {
+    "id": "2022-GT-q02-634a0bbd",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 2,
+    "stem": "Quelle(s) mention(s) ne figure(nt) pas sur le registre des transactions (registre des transferts) lorsque le titulaire d'une autorisation de stationnement présente un successeur à titre onéreux ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La marque de la voiture."
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le nom ou la raison sociale du successeur ou du vendeur."
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Le montant de la transaction."
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Le numéro d'inscription à la chambre de commerce ou des métiers des deux parties."
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q03-7647658d",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 3,
+    "stem": "La carte professionnelle du conducteur de taxi comporte :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la date de fin de validité de la carte professionnelle"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "l'adresse du conducteur"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la date de fin de validité de la visite médicale du conducteur"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la date et lieu de naissance"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q04-bd935f35",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 4,
+    "stem": "Citez les trois éléments constitutifs du montant affiché sur le compteur horokilométrique.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "- Tarif appliqué\n- Prise en charge\n- Suppléments",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Doublon potentiel de 2021-GT-q04-bd935f35 (original conservé)."
+    ],
+    "duplicateOf": "2021-GT-q04-bd935f35"
+  },
+  {
+    "id": "2022-GT-q05-27dccb28",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 5,
+    "stem": "Quel est l'organisme compétent pour l'enregistrement des transactions d'ADS ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La DREETS"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "La mairie"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La recette des impôts"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La Préfecture"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q06-32d5a5d2",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 6,
+    "stem": "Je veux faire du transport scolaire avec mon véhicule taxi, que dois-je faire ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "afficher une pancarte transport d'enfants"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "avoir un accompagnateur"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "respecter les conditions normales d'exercice"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "recouvrir le lumineux d'une gaine opaque"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q07-f10dcf2f",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quelle est la durée de la convention nationale CPAM dans le cadre du TAP ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "5 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "2 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "3 ans"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q08-0ec4dcd5",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 8,
+    "stem": "Lorsque le conducteur taxi est en service :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "il a interdiction d'éclairer le dispositif lumineux en rouge s'il n'est pas occupé ou retenu"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "il peut éclairer le dispositif lumineux en rouge lorsque celui-ci est en charge ou réservé."
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il doit éclairer le dispositif lumineux en rouge lorsque celui-ci est en charge ou réservé."
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-GT-q09-0ec4dcd5 (original conservé)."
+    ],
+    "duplicateOf": "2021-GT-q09-0ec4dcd5"
+  },
+  {
+    "id": "2022-GT-q09-918b6883",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 9,
+    "stem": "Parmi les propositions suivantes, qu'est-ce qui est obligatoirement compris dans le prix de la location ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le véhicule taxi"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le carburant"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Le nettoyage du véhicule"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "L'assurance"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q10-036cdcf4",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 10,
+    "stem": "Qui peut faire une demande de remboursement de TICPE ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le loueur de l'ADS"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le salarié"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Le titulaire de l'ADS"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Le locataire gérant"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 18,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q11-9ccf5818",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 11,
+    "stem": "Un client vous demande un reçu pour son remboursement des frais, vous devez lui fournir :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une copie du ticket de l'imprimante"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une facture et une copie du ticket de l'imprimante"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "l'original du ticket de l'imprimante"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 19,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q12-f8557a62",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 12,
+    "stem": "Lors du transfert des ADS, quel délai a le nouveau titulaire pour déclarer la transaction à la recette des impôts compétente ? :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1 mois à partir de la signature de la promesse de vente"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1 mois à partir du début d'activité"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 mois à partir de la date de conclusion"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 19,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q13-f47eb751",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 13,
+    "stem": "Qu'est qu'un véhicule de remplacement (relais) et dans quelles conditions peut-il être utilisé ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Lorsque mon véhicule principal est en cas d'immobilisation d'origine mécanique, vol du\nvéhicule taxi ou vol des équipements spéciaux\n(Réponses « panne » et « accident » également acceptée)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 19,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-GT-q14-3ba5e629",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 14,
+    "stem": "Lorsqu'il est en service, le conducteur taxi peut :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "solliciter un client par le geste ou la parole dans une station taxi"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "prendre en charge un client en dehors de son ressort géographique s'il justifie d'une réservation préalable"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "refuser une destination en dehors du ressort géographique de l'ADS"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "solliciter un pourboire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 19,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GT-q15-617be170",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 15,
+    "stem": "Citez deux cas dans lesquels on peut céder à titre onéreux une autorisation de stationnement avant le temps minimal d'exploitation exigé.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "En cas de liquidation judiciaire, fusion/scission avec une entreprise analogue, décès du\ntitulaire, inaptitude physique entrainant le retrait définitif du permis de conduire.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 19,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-GT-q16-8241f2d2",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2022,
+    "number": 16,
+    "stem": "Quel est l'emplacement du taximètre ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "à l'extérieur du véhicule, sur l'aile droite et fixé par de vis"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "sur le toit à l'extérieur du véhicule"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "à l'intérieur à l'avant du véhicule, à la portée du conducteur et visible des clients"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "à l'intérieur du véhicule, sur le pare-brise arrière côté droit"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GT",
+    "pdfPage": 19,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q01-ce85df46",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 1,
+    "stem": "Que faut-il faire pour être compétitif ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vendre à perte"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le prix de vente correspond au prix psychologique"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "avoir une offre adaptée au marché"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "avoir un coût de revient supérieure au prix de la prestation"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-GM: n° d'examen capturé; stem nettoyé; alias 2022-GM-q58141-431dd640."
+    ],
+    "legacyIds": [
+      "2022-GM-q58141-431dd640"
+    ]
+  },
+  {
+    "id": "2022-GM-q02-cc447b3d",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 2,
+    "stem": "Vous facturez une prestation de transport de 50 €. Vous accordez une remise de 8% au client. Il payera :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "45,50 €"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "42 €"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "46 €"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "40 €"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q03-ceb9ad91",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 3,
+    "stem": "Pour assurer une qualité de service et de sécurité optimum aux clients, je dispose des équipements obligatoires suivantes :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "au moins 2 casques homologués de tailles différentes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une paire de gants et un casque"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "au moins 2 paires de gants homologués de tailles différentes"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un gilet airbag"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q04-4d93e953",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 4,
+    "stem": "Quels éléments sont importants afin de fidéliser les clients ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La couleur de la moto"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "La qualité conduite"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La puissance de la moto"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La ponctualité"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q05-4a327dfc",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 5,
+    "stem": "Que faire lorsqu'un client refuse de mettre la veste ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "On le refuse"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "On le prend en charge"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "On lui conseille de la mettre"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q06-c52b8deb",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 6,
+    "stem": "Citez 4 étapes de prise en charge d'un passager.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "accueillir, vérifier son identité, proposer du gel hydroalcoolique, équiper (gant, casque,\nblouson), charger les bagages, installer le passager sur la moto, vérifier la destination, rappeler les consignes de\nsécurité",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-GM-q07-b9f5070a",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 7,
+    "stem": "Qu'est-ce qu'un prospect ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'ensemble des clients non facturés uniquement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une publicité permettant au conducteur de VMDTR de se faire connaître"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une brochure publicitaire référençant l'ensemble d'un catalogue de prestation"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un client potentiel"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q08-8eecc67e",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 8,
+    "stem": "Qu'est-ce qu'une relation B to B et une relation B to C ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Business to business et business to customer\nEntreprise à entreprise et entreprise à client",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-GV-q01-f85bf443",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 1,
+    "stem": "Le portail REVTC ou registre des exploitants de VTC est utilisé pour :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "créer un dossier d'exploitant (inscription) ou le mettre à jour"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "mettre en relation des exploitants de VTC et des clients par les plateformes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "obtenir la carte professionnelle"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-GV: n° d'examen capturé; stem nettoyé; alias 2022-GV-q58139-b509c748."
+    ],
+    "legacyIds": [
+      "2022-GV-q58139-b509c748"
+    ]
+  },
+  {
+    "id": "2022-GV-q02-cad6a6f0",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 2,
+    "stem": "Puis-je utiliser un véhicule acheté en janvier 2012 pour exercer la profession de VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "oui, à la condition qu'il respecte les critères de puissance et de dimensions"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "oui, si c'est un véhicule hybride ou électrique"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "non si c'est un véhicule thermique"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q03-715b285f",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 3,
+    "stem": "Vous exploitez un véhicule avec lunette arrière surteintée. Est-il obligatoire d'apposer le macaron EVTC?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Non, car il ne serait pas visible"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Oui"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Non, sous réserve d'une dérogation délivrée par le Ministère chargé des transports"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q04-02e78386",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 4,
+    "stem": "Pour chaque véhicule exploité comme VTC, une capacité financière est exigée. Quel est son montant ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "100 €"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1500 €"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "900 €"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q05-8f3f5221",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 5,
+    "stem": "A la fin d'une course, après le départ du client, que doit faire le conducteur d'un VTC (en excluant les opérations de vérification et de nettoyage) ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Retourner à la base ou se garer hors de la voie publique.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-GV-q06-99c135c8",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 6,
+    "stem": "Je suis conducteur d'un véhicule de transport avec chauffeur, je peux :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "éviter de rentrer à mon siège social sous conditions"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "prendre à bord un client qui me hèle en sortant de chez lui à condition de remplir un bon de réservation pendant la course"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "prendre un client qui lève la main dans la rue car il n'y a pas de taxis à proximité"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "rouler à petite vitesse dans les zones commerciales, d'affaires ou de loisirs à la recherche de clients"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q07-6b27e3f0",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quelle est la sanction encourue pour exercice de l'activité de conducteur de VTC sans inscription au registre des exploitants VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "six mois d'emprisonnement et 5 000 € d'amende"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un an d'emprisonnement et 15 000 € d'amende"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "six mois d'emprisonnement et 10 000 € d'amende"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un an d'emprisonnement et 20 000 € d'amende"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q08-17485ba7",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 8,
+    "stem": "Proposez 4 situations entraînant une mise à jour des dossiers sur le registre des exploitants VTC.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "- Remplacement d'un véhicule (achat ou location de voiture)\n- Nouveau conducteur\n- Nouvel assureur\n- Changement de dirigeant ou d'adresse sociale\n- Changement de statut de la société (modification du Kbis)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  }
+]

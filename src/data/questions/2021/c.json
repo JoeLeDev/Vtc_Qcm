@@ -1,0 +1,805 @@
+[
+  {
+    "id": "2021-C-q01-a8bb3e17",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Sur un trajet de 100 km sur autoroute, si je roule à 130 km/h au lieu de 120 km/h, je « gagne » environ :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "4 minutes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "10 minutes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "15 minutes"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "8 minutes"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-C: n° d'examen capturé; stem nettoyé; alias 2021-C-q49955-efe6e7d1."
+    ],
+    "legacyIds": [
+      "2021-C-q49955-efe6e7d1"
+    ]
+  },
+  {
+    "id": "2021-C-q02-4e9aec96",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "Par temps de pluie, est allongé(e) :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le temps de réaction"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la distance de freinage"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la distance d'arrêt"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "l'adhérence sur la route"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q03-23bb0d60",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Vous êtes au volant de votre véhicule et recevez un appel sur votre téléphone portable. Vous prenez le téléphone en main, vous encourez :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un retrait d'un point"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un retrait de deux points"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un retrait de trois points"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q04-3f61e04a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Quelles sont les obligations expressément prévues par le code de la route, pour tout conducteur impliqué dans un accident de la circulation qui n'a provoqué que des dégâts matériels ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "avertir ou faire avertir la police"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "avertir ou faire avertir la gendarmerie"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "s'arrêter aussitôt que cela lui est possible, sans créer de danger pour la circulation"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "communiquer son identité et son adresse à toute personne impliquée dans l'accident"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "C 2021 Q4: « Quelles sont les obligations » → multiple (énoncé pluriel)."
+    ],
+    "legacyIds": [
+      "TYPEFIX-2021-C-q4"
+    ]
+  },
+  {
+    "id": "2021-C-q05-d84d0b34",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Les piétons qui s'engagent dans la traversée d'une chaussée :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Doivent traverser la chaussée en tenant compte de la visibilité ainsi que de la distance et de la vitesse des véhicules"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Ont le droit de s'engager quelle que soit la vitesse et la distance des véhicules"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "N'ont pas le droit de s'engager dans la traversée d'une chaussée hors d'un passage piéton, même s'il n'en n'existe pas à moins de 50 mètres"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Sont tenus d'utiliser, lorsqu'il en existe à moins de 50 mètres, les passages prévus à leur intention"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q06-a4235dde",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "En cas de récidive d'une conduite sous l'influence de substances ou de plantes classées comme stupéfiants, vous encourez :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'annulation de votre permis de conduire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la suspension de votre permis de conduire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la confiscation/immobilisation de votre véhicule"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q07-3fcdd133",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Mon voyant d'essence vient de s'allumer :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "je réduis mon allure afin de diminuer ma consommation de carburant"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "je continue ma route jusqu'à une prochaine station"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "j'allume mes feux de détresse"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "je m'arrête sur ma droite"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q08-4bea5117",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "Le décret n° 2016-448 du 13 avril 2016 modifiant certaines dispositions du code de la route relatives aux véhicules interdit les « vitres surteintées ». A cette fin, il impose :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un taux minimal de transparence de 70% sur les vitres avant et le pare-prise"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un taux minimal de transparence de 80% sur les vitres arrières et lunettes-arrières"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un taux minimal de transparence de 70% sur les vitres avant, le pare-prise et les vitres arrières"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un taux minimal de transparence de 80% sur les vitres avant, le pare-prise et les vitres arrières"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q09-b9b5e399",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "En cas de panne de votre véhicule, à quelle distance placez-vous le triangle de pré signalisation ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "50 mètres au moins de votre véhicule"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "10 mètres au moins de votre véhicule"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "30 mètres au moins de votre véhicule"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 5,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q10-f7267642",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "En agglomération, l'usage de l'avertisseur sonore est autorisé :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "pour donner les avertissements nécessaires aux autres usagers de la route"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "en cas de danger immédiat"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "pour saluer un collègue conducteur"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q11-fc740260",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 11,
+    "stem": "A 90 km/h la distance d'arrêt est approximativement de:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "50 m"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "70 m"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "80 m"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q12-f07ecf95",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 12,
+    "stem": "Lorsque les pneus sont sous-gonflés cela entraîne:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un risque accru d'éclatement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une augmentation de la consommation de carburant"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une meilleure adhérence à la route"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q13-7ea243f3",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 13,
+    "stem": "Que risque un conducteur en cas de dépassement de la vitesse maximale autorisée compris entre 40 km/h et moins de 50 km/h ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Une contravention de première classe"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Une contravention de quatrième classe"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La perte de deux points du permis de conduire"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La perte de quatre points du permis de conduire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q14-852e0c0a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 14,
+    "stem": "La durée du temps de réaction est d'environ:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1/2 seconde"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1/10 ième de seconde"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 seconde"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q15-c89e171e",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 15,
+    "stem": "Dans quel cas l'arrêt est-il autorisé sur la bande d'arrêt d'urgence de l'autoroute ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "jamais"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "en cas de panne ou d'accident"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "dans tous les cas"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "pour téléphoner"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q16-80203912",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 16,
+    "stem": "Combien de points perdez-vous en cas de chevauchement d'une ligne continue ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "3 points"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "2 points"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 point"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q17-c5d4be87",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 17,
+    "stem": "Les feux de route éclairent à une distance minimale de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "100 mètres"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "50 mètres"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "150 mètres"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "200 mètres"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q18-4f2ae029",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 18,
+    "stem": "Titulaire d'un permis probatoire, dans quel cas, devrais-je suivre obligatoirement un stage de sensibilisation à la sécurité routière :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "en cas de perte en une seule fois de 2 points"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "en cas de perte en une seule fois de 3 points"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "en cas de perte en une seule fois de 4 points"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q19-3bb46d83",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 19,
+    "stem": "En agglomération, lorsque vous dépassez latéralement, un piéton ou un cycliste, vous devez laisser un espace d'au moins :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "3 mètres"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1 mètre"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "0,50 mètre"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "1,50 mètres"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-C-q20-a2677f4a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2021,
+    "number": 20,
+    "stem": "Ce panneau signale :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un cassis ou dos d'âne"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un ralentisseur de type dos d'âne"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un ralentisseur"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p8.png",
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Panneau A1a (cassis/dos-d'âne) extrait page 8 — associé à C 2021 Q20, pas aux questions D."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-C-q20"
+    ]
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "id": "2021-GM-q01-778b39be",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 1,
+    "stem": "Un client se présente fortement alcoolisé, il est préférable de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'attendre 10 minutes avant de partir"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le prendre en charge en dépit de son état"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "le refuser pour des raisons de sécurité"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-GM: n° d'examen capturé; stem nettoyé; alias 2021-GM-q49962-f6974b9e."
+    ],
+    "legacyIds": [
+      "2021-GM-q49962-f6974b9e"
+    ]
+  },
+  {
+    "id": "2021-GM-q02-60fb073e",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 2,
+    "stem": "Pour assurer une bonne qualité de service aux clients, je dispose de :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une selle réfrigérée"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une selle confort"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une paire de gants"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "deux paires de gants de deux tailles différentes"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GM-q03-dcb21fc3",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 3,
+    "stem": "Votre client est très pressé, il vous demande de rouler plus vite :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous lui expliquez que vous allez faire au mieux en respectant les règles de sécurité"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous acceptez immédiatement"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous refusez la course"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GM-q04-888c4b0b",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 4,
+    "stem": "A quel moment assure-t-on la prise en charge des bagages par temps sec ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Avant d'avoir équipé le passager",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GM-q05-f5bff0c2",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 5,
+    "stem": "Que faire lorsqu'un client refuse de mettre les gants ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "On le prend en charge en lui expliquant qu'il s'expose à une contravention"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "On le refuse"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "On range les gants dans le top case"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "On lui demande de les garder avec lui"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GM-q06-3952493e",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 6,
+    "stem": "Donnez trois conseils à un client qui monte pour la première fois sur une moto.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Expliquer que la moto penche dans les virages, bien s'installer au fond du fauteuil et de ne\npas bouger, ne pas sortir les bras, ne pas se pencher dans le sens opposé dans un virage, ne pas hésiter à dire si la\npersonne a peur en roulant, utiliser l'intercom pour communiquer avec le chauffeur",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GM-q07-706428de",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 7,
+    "stem": "Un client arrive avec trop de bagages :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous le refusez"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous lui mettez la valise sur les genoux"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous chargez les bagages les uns sur les autres"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GM-q08-f3ac2321",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2021,
+    "number": 8,
+    "stem": "Vous attendez un client à l'aéroport dont le vol a 30 minutes de retard lorsqu'une personne vous sollicite :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous lui expliquez que vous êtes réservé et lui laissez votre carte avec vos coordonnées"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous prenez en charge cette personne immédiatement, vous serez de retour à temps pour votre client"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous la prenez en charge et vous appelez un collègue pour le client retardataire"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "vous refusez car il est strictement interdit de prendre en charge un client sans réservation préalable"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "28 octobre - après-midi - G(M) - Prise en charge du passager et\ndéveloppement commercial",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

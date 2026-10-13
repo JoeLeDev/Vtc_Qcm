@@ -1,0 +1,282 @@
+[
+  {
+    "id": "2022-GV-q01-f85bf443",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 1,
+    "stem": "Le portail REVTC ou registre des exploitants de VTC est utilisé pour :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "créer un dossier d'exploitant (inscription) ou le mettre à jour"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "mettre en relation des exploitants de VTC et des clients par les plateformes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "obtenir la carte professionnelle"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-GV: n° d'examen capturé; stem nettoyé; alias 2022-GV-q58139-b509c748."
+    ],
+    "legacyIds": [
+      "2022-GV-q58139-b509c748"
+    ]
+  },
+  {
+    "id": "2022-GV-q02-cad6a6f0",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 2,
+    "stem": "Puis-je utiliser un véhicule acheté en janvier 2012 pour exercer la profession de VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "oui, à la condition qu'il respecte les critères de puissance et de dimensions"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "oui, si c'est un véhicule hybride ou électrique"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "non si c'est un véhicule thermique"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q03-715b285f",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 3,
+    "stem": "Vous exploitez un véhicule avec lunette arrière surteintée. Est-il obligatoire d'apposer le macaron EVTC?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Non, car il ne serait pas visible"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Oui"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Non, sous réserve d'une dérogation délivrée par le Ministère chargé des transports"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q04-02e78386",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 4,
+    "stem": "Pour chaque véhicule exploité comme VTC, une capacité financière est exigée. Quel est son montant ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "100 €"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1500 €"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "900 €"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q05-8f3f5221",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 5,
+    "stem": "A la fin d'une course, après le départ du client, que doit faire le conducteur d'un VTC (en excluant les opérations de vérification et de nettoyage) ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Retourner à la base ou se garer hors de la voie publique.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-GV-q06-99c135c8",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 6,
+    "stem": "Je suis conducteur d'un véhicule de transport avec chauffeur, je peux :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "éviter de rentrer à mon siège social sous conditions"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "prendre à bord un client qui me hèle en sortant de chez lui à condition de remplir un bon de réservation pendant la course"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "prendre un client qui lève la main dans la rue car il n'y a pas de taxis à proximité"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "rouler à petite vitesse dans les zones commerciales, d'affaires ou de loisirs à la recherche de clients"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q07-6b27e3f0",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quelle est la sanction encourue pour exercice de l'activité de conducteur de VTC sans inscription au registre des exploitants VTC ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "six mois d'emprisonnement et 5 000 € d'amende"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un an d'emprisonnement et 15 000 € d'amende"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "six mois d'emprisonnement et 10 000 € d'amende"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un an d'emprisonnement et 20 000 € d'amende"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GV-q08-17485ba7",
+    "subject": "GV",
+    "scope": "vtc",
+    "year": 2022,
+    "number": 8,
+    "stem": "Proposez 4 situations entraînant une mise à jour des dossiers sur le registre des exploitants VTC.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "- Remplacement d'un véhicule (achat ou location de voiture)\n- Nouveau conducteur\n- Nouvel assureur\n- Changement de dirigeant ou d'adresse sociale\n- Changement de statut de la société (modification du Kbis)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GV",
+    "pdfPage": 21,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  }
+]

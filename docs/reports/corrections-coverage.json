@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-10-13T14:34:17.672Z",
+  "scope": "VTC (common + FV/GV)",
+  "total": 214,
+  "totals": {
+    "qcm": 182,
+    "qrc": 32,
+    "unverified": 182,
+    "needs_review": 32,
+    "verified": 0,
+    "withIndicativeAnswerFromPdf": 32,
+    "withoutAnyCorrection": 182,
+    "possiblyObsolete": 214,
+    "withIllustration": 11,
+    "needingRegulatoryCheck": 214,
+    "duplicatesMarked": 4,
+    "lotSuggestions": 88,
+    "orphanLotSuggestions": 0
+  },
+  "suggestionsByLot": {
+    "lot-A-01-suggestions.json": 15,
+    "lot-A-02-suggestions.json": 15,
+    "lot-B-01-suggestions.json": 10,
+    "lot-C-01-suggestions.json": 10,
+    "lot-D-01-suggestions.json": 10,
+    "lot-E-01-suggestions.json": 10,
+    "lot-FV-01-suggestions.json": 10,
+    "lot-GV-01-suggestions.json": 8
+  },
+  "bySubject": {
+    "A": {
+      "total": 30,
+      "qcm": 20,
+      "qrc": 10,
+      "unverified": 20,
+      "needs_review": 10,
+      "verified": 0,
+      "withIndicativeAnswer": 10,
+      "possiblyObsolete": 30,
+      "withIllustration": 0,
+      "withLotSuggestion": 30
+    },
+    "B": {
+      "total": 36,
+      "qcm": 32,
+      "qrc": 4,
+      "unverified": 32,
+      "needs_review": 4,
+      "verified": 0,
+      "withIndicativeAnswer": 4,
+      "possiblyObsolete": 36,
+      "withIllustration": 0,
+      "withLotSuggestion": 10
+    },
+    "C": {
+      "total": 40,
+      "qcm": 40,
+      "qrc": 0,
+      "unverified": 40,
+      "needs_review": 0,
+      "verified": 0,
+      "withIndicativeAnswer": 0,
+      "possiblyObsolete": 40,
+      "withIllustration": 1,
+      "withLotSuggestion": 10
+    },
+    "D": {
+      "total": 20,
+      "qcm": 14,
+      "qrc": 6,
+      "unverified": 14,
+      "needs_review": 6,
+      "verified": 0,
+      "withIndicativeAnswer": 6,
+      "possiblyObsolete": 20,
+      "withIllustration": 10,
+      "withLotSuggestion": 10
+    },
+    "E": {
+      "total": 40,
+      "qcm": 40,
+      "qrc": 0,
+      "unverified": 40,
+      "needs_review": 0,
+      "verified": 0,
+      "withIndicativeAnswer": 0,
+      "possiblyObsolete": 40,
+      "withIllustration": 0,
+      "withLotSuggestion": 10
+    },
+    "FV": {
+      "total": 32,
+      "qcm": 24,
+      "qrc": 8,
+      "unverified": 24,
+      "needs_review": 8,
+      "verified": 0,
+      "withIndicativeAnswer": 8,
+      "possiblyObsolete": 32,
+      "withIllustration": 0,
+      "withLotSuggestion": 10
+    },
+    "GV": {
+      "total": 16,
+      "qcm": 12,
+      "qrc": 4,
+      "unverified": 12,
+      "needs_review": 4,
+      "verified": 0,
+      "withIndicativeAnswer": 4,
+      "possiblyObsolete": 16,
+      "withIllustration": 0,
+      "withLotSuggestion": 8
+    }
+  },
+  "notes": [
+    "Audit en lecture seule : aucune réponse modifiée.",
+    "Les Indication/Right answer des PDF sont en needs_review, pas verified.",
+    "Les lots docs/corrections/lot-*-suggestions.json restent au statut suggested (jamais verified auto).",
+    "Illustrations : associations via extraction-patches.json (plus d’auto-lien page→toutes questions)."
+  ]
+}

@@ -1,0 +1,531 @@
+[
+  {
+    "id": "2021-A-q01-6f0023fa",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Quels agents sont habilités à effectuer un contrôle routier de conducteur de T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Les gendarmes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le juge du tribunal judiciaire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Les agents représentant la SNCF"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Les policiers"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-A: n° examen capturé; type multiple (interrogatif pluriel Quels)."
+    ],
+    "legacyIds": [
+      "2021-A-q49953-942e405b"
+    ]
+  },
+  {
+    "id": "2021-A-q02-f1d3d2e2",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "Un conducteur sanctionné par le tribunal correctionnel pour délit de fuite peut saisir :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le tribunal judiciaire pour une condamnation inférieure à 4 000 €"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la cour d'appel"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la cour de cassation"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "le tribunal correctionnel qui jugera à nouveau l'affaire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q03-f89927f8",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Quelle est la taille minimum de la commune dans laquelle peut s'exercer une activité du T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "11000 habitants"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "1500 habitants"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Il n'y a pas de taille minimum"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "20000 habitants"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q04-21f97d5d",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Qui agrée les organismes de formation continue des conducteurs de T3P ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Les préfectures.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q05-ffc0ef7b",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Quelle est l'autorité qui effectue la vérification du casier judiciaire d'un candidat à la carte professionnelle de conducteur de véhicules T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le préfet de police ou le préfet"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le préfet de région"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "les forces de l'ordre"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "le ministère chargé des transports"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q06-94ae2b9a",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "Quelle est l'ancienneté maximum pour un véhicule hybride ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "6 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "aucune"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "7 ans"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "2 ans"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q07-61c19a41",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Comment se présente une réservation préalable ? Citez 2 mentions qui doivent figurer obligatoirement sur celle-ci.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Comment se présente une réservation préalable ?\nSupport papier ou électronique\nCitez 2 mentions qui doivent figurer obligatoirement sur celle-ci (deux réponses au choix du candidat)\n- Nom, dénomination sociale de l'entreprise\n- Coordonnées de l'entreprise, N°= SIREN/ SIRET\n- Nom et coordonnées téléphoniques du client,\n- lieu de prise en charge souhaité par le client\n- Date et heure de la réservation par le client,\ndate et heure de la prise en charge souhaitée par le client",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q08-2de1b526",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "Que devez-vous présenter aux agents susceptibles d'effectuer des contrôles pour justifier d'une réservation préalable ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Un document écrit sur support papier ou électronique.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q09-080e6ea7",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "Le retrait de la carte professionnelle est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une sanction administrative prise par un préfet"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une sanction administrative prise par un juge"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "consécutif à la décision d'un juge de l'ordre administratif sous certaines conditions"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "consécutif à la décision d'un juge de l'ordre pénal sous certaines conditions"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q10-ac166b31",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "Quelles assurances doit souscrire un professionnel effectuant du T3P ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Un contrat pour le véhicule couvrant les dommages corporels et matériels pour le transport\nde personnes à titre onéreux appelé aussi responsabilité civile circulation.\nUn contrat de responsabilité civile professionnelle couvrant les dommages corporels, matériels et immatériels.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q11-01fdc9ac",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 11,
+    "stem": "La réglementation du T3P se trouve dans le :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Code préfectoral"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Code pénal"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Code du travail"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Code des transports"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q12-adcd7c27",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 12,
+    "stem": "Pour être exploitable en activité de transport public particulier de personnes, un véhicule électrique doit être :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "de couleur noire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "équipé d'un pack confort (boite automatique, climatisation, connectique…)"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "soumis à des contraintes particulières"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "sans contraintes particulières"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q13-ce3e9c73",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 13,
+    "stem": "Vous êtes chauffeur de transport public particulier de personnes né le 12 mai 1950. Quelle est la périodicité de l'examen médical d'aptitude physique auquel vous devez vous soumettre ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "5 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "2 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-A-q14-00110411",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 14,
+    "stem": "Citez deux cas dans lesquels la carte professionnelle peut être retirée à un conducteur du T3P ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Annulation permis de conduire.\nDélit pénal prévu par le code des transports (délits routiers, agressions sexuelles, cf code des transports, …)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-A-q15-bfd027be",
+    "subject": "A",
+    "scope": "common",
+    "year": 2021,
+    "number": 15,
+    "stem": "Quel kilométrage maximum un conducteur de T3P peut-il réaliser pour sa course ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "1000 km"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "500 km"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "300 km"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "pas de limitation"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - A - Règlementation du T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

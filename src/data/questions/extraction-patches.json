@@ -1,0 +1,430 @@
+[
+  {
+    "questionId": "2021-A-q49953-942e405b",
+    "newId": "2021-A-q01-6f0023fa",
+    "number": 1,
+    "stem": "Quels agents sont habilités à effectuer un contrôle routier de conducteur de T3P ?",
+    "type": "multiple",
+    "year": 2021,
+    "subject": "A",
+    "legacyIds": [
+      "2021-A-q49953-942e405b"
+    ],
+    "note": "Correctif Q1 2021-A: n° examen capturé; type multiple (interrogatif pluriel Quels)."
+  },
+  {
+    "questionId": "2022-A-q58132-e3694fd5",
+    "newId": "2022-A-q01-34dc9cf1",
+    "number": 1,
+    "stem": "Quel service délivre la carte professionnelle de conducteur de T3P ?",
+    "type": "single",
+    "year": 2022,
+    "subject": "A",
+    "legacyIds": [
+      "2022-A-q58132-e3694fd5"
+    ],
+    "note": "Correctif Q1 2022-A: n° examen capturé."
+  },
+  {
+    "questionId": "2021-B-q49954-010db5b5",
+    "newId": "2021-B-q01-f4004dbb",
+    "number": 1,
+    "stem": "Parmi ces propositions, qu'est-ce qui constitue une charge déductible pour un entrepreneur individuel ?",
+    "type": "single",
+    "year": 2021,
+    "subject": "B",
+    "legacyIds": [
+      "2021-B-q49954-010db5b5"
+    ],
+    "note": "Correctif Q1 2021-B: n° d'examen capturé; stem nettoyé; alias 2021-B-q49954-010db5b5."
+  },
+  {
+    "questionId": "2021-C-q49955-efe6e7d1",
+    "newId": "2021-C-q01-a8bb3e17",
+    "number": 1,
+    "stem": "Sur un trajet de 100 km sur autoroute, si je roule à 130 km/h au lieu de 120 km/h, je « gagne » environ :",
+    "type": "single",
+    "year": 2021,
+    "subject": "C",
+    "legacyIds": [
+      "2021-C-q49955-efe6e7d1"
+    ],
+    "note": "Correctif Q1 2021-C: n° d'examen capturé; stem nettoyé; alias 2021-C-q49955-efe6e7d1."
+  },
+  {
+    "questionId": "2021-D-q49956-f8a72138",
+    "newId": "2021-D-q01-5033fa43",
+    "number": 1,
+    "stem": "Quel pick-up est le plus apprécié aux États-Unis depuis longtemps ?",
+    "type": "single",
+    "year": 2021,
+    "subject": "D",
+    "legacyIds": [
+      "2021-D-q49956-f8a72138"
+    ],
+    "note": "Correctif Q1 2021-D: n° d'examen capturé; stem nettoyé; alias 2021-D-q49956-f8a72138."
+  },
+  {
+    "questionId": "2021-E-q49957-3f5e75b1",
+    "newId": "2021-E-q01-838fcf42",
+    "number": 1,
+    "stem": "Savez-vous de quand date ce bâtiment historique ?",
+    "type": "single",
+    "year": 2021,
+    "subject": "E",
+    "legacyIds": [
+      "2021-E-q49957-3f5e75b1"
+    ],
+    "note": "Correctif Q1 2021-E: n° d'examen capturé; stem nettoyé; alias 2021-E-q49957-3f5e75b1."
+  },
+  {
+    "questionId": "2021-FV-q49958-9c8d74b4",
+    "newId": "2021-FV-q01-715e2d6a",
+    "number": 1,
+    "stem": "Vous connaissez un VTC qui va démarrer son activité avec des prix très bas afin d'attirer un maximum de clients. Que pensez-vous de cette politique tarifaire ?",
+    "type": "open",
+    "year": 2021,
+    "subject": "FV",
+    "legacyIds": [
+      "2021-FV-q49958-9c8d74b4"
+    ],
+    "note": "Correctif Q1 2021-FV: n° d'examen capturé; stem nettoyé; alias 2021-FV-q49958-9c8d74b4."
+  },
+  {
+    "questionId": "2021-GV-q49959-a8f8c61f",
+    "newId": "2021-GV-q01-804dd097",
+    "number": 1,
+    "stem": "Quelle sont les dimensions minimum d'une voiture pour être utilisée comme VTC ?",
+    "type": "single",
+    "year": 2021,
+    "subject": "GV",
+    "legacyIds": [
+      "2021-GV-q49959-a8f8c61f"
+    ],
+    "note": "Correctif Q1 2021-GV: n° d'examen capturé; stem nettoyé; alias 2021-GV-q49959-a8f8c61f."
+  },
+  {
+    "questionId": "2021-GT-q49960-da810b4c",
+    "newId": "2021-GT-q01-227225f4",
+    "number": 1,
+    "stem": "Quelle est la définition du véhicule taxi ?",
+    "type": "open",
+    "year": 2021,
+    "subject": "GT",
+    "legacyIds": [
+      "2021-GT-q49960-da810b4c"
+    ],
+    "note": "Correctif Q1 2021-GT: n° d'examen capturé; stem nettoyé; alias 2021-GT-q49960-da810b4c."
+  },
+  {
+    "questionId": "2021-FM-q49961-446e50cb",
+    "newId": "2021-FM-q01-1ebec5c5",
+    "number": 1,
+    "stem": "Le fait d'exercer l'activité de T3P à titre onéreux avec un véhicule non conforme aux caractéristiques prévues au R3123-3 est puni :",
+    "type": "single",
+    "year": 2021,
+    "subject": "FM",
+    "legacyIds": [
+      "2021-FM-q49961-446e50cb"
+    ],
+    "note": "Correctif Q1 2021-FM: n° d'examen capturé; stem nettoyé; alias 2021-FM-q49961-446e50cb."
+  },
+  {
+    "questionId": "2021-GM-q49962-f6974b9e",
+    "newId": "2021-GM-q01-778b39be",
+    "number": 1,
+    "stem": "Un client se présente fortement alcoolisé, il est préférable de :",
+    "type": "single",
+    "year": 2021,
+    "subject": "GM",
+    "legacyIds": [
+      "2021-GM-q49962-f6974b9e"
+    ],
+    "note": "Correctif Q1 2021-GM: n° d'examen capturé; stem nettoyé; alias 2021-GM-q49962-f6974b9e."
+  },
+  {
+    "questionId": "2022-B-q58145-11c4c132",
+    "newId": "2022-B-q01-38e2d57d",
+    "number": 1,
+    "stem": "Bilan et compte de résultat sont obligatoires pour toutes structures exploitées :",
+    "type": "single",
+    "year": 2022,
+    "subject": "B",
+    "legacyIds": [
+      "2022-B-q58145-11c4c132"
+    ],
+    "note": "Correctif Q1 2022-B: n° d'examen capturé; stem nettoyé; alias 2022-B-q58145-11c4c132."
+  },
+  {
+    "questionId": "2022-C-q58134-8dae64fa",
+    "newId": "2022-C-q01-28d0b79a",
+    "number": 1,
+    "stem": "Je peux suivre un stage de sensibilisation à la sécurité routière :",
+    "type": "single",
+    "year": 2022,
+    "subject": "C",
+    "legacyIds": [
+      "2022-C-q58134-8dae64fa"
+    ],
+    "note": "Correctif Q1 2022-C: n° d'examen capturé; stem nettoyé; alias 2022-C-q58134-8dae64fa."
+  },
+  {
+    "questionId": "2022-D-q58142-21c4a29d",
+    "newId": "2022-D-q01-f5bb21f0",
+    "number": 1,
+    "stem": "Quelle place pour le vélo en France ? Le gouvernement a récemment annoncé un « Plan vélo » doté d'une enveloppe de 350 millions d'euros. Son ambition : développer une véritable culture du vélo. Son objectif : tripler les déplacements quotidiens des Français à vélo d'ici à 2024. Écolo, simple, silencieux, bon pour la santé… Il a tout pour plaire. Pourtant, les Français résistent toujours au vélo comme moyen de transport du quotidien. Le dernier recensement de l'Insee révèle cette réalité cruelle : 1,9 % des Français seulement se rendent à leur travail à vélo lorsqu'ils sont près de 71 % à utiliser la voiture, et ce quelle que soit la longueur du trajet. Le recours à la bicyclette reste timide, et cantonné à des petits trajets inférieurs à 4 kilomètres. D'après un dernier sondage, plus de la moitié des Français déclarent utiliser très rarement le vélo. Parmi les sondés, ils ne sont que 2 % à l'enfourcher chaque jour. Cette part grimpe à 14 % lorsqu'il s'agit de l'utiliser plus d'une fois par semaine. Les convaincus, ceux dont la pratique du vélo est supérieure à la moyenne, sont plutôt des hommes diplômés, âgés de moins de 35 ans et vivant en zone urbaine. On retrouve ici le dernier profil des adeptes du vélo dressé par l'Insee : \"Diplômés, citadins et cadres supérieurs\". Le gouvernement vient de mettre sur la table 25 mesures incitatives destinées à faire décoller les déplacements à vélo. Parmi les leviers choisis : plus de zones cyclables, et de meilleure qualité, la sécurisation des trajets ou bien la mise en place d'une indemnité kilométrique vélo. Mais le \"Plan vélo\" suscite encore beaucoup d'interrogations. Plus de huit sondés sur 10 (84 %) sont sceptiques quant à ses chances de réussite d'ici à 2024. Sans surprise, les sondés \"cyclistes\" se montrent plus positifs. En effet, 32 % d'entre eux pensent que l'objectif du gouvernement sera facile à atteindre. Dans leur ensemble, les personnes interrogées jugent prioritaires la sécurité, le comportement plus attentif de la part des conducteurs de voiture et de meilleures infrastructures. Ils mettent aussi l'accent sur l'importance d'avoir un vélo bien entretenu juste avant la mise en place de stationnements sécurisés. https:/www.lefigaro.fr/actualite-france/2018/11/30/01016-20181130ARTFIG00197-quelle-place-pour-le-velo-en-france.php ____________________ Que signifie le mot « recensement » ?",
+    "type": "single",
+    "year": 2022,
+    "subject": "D",
+    "legacyIds": [
+      "2022-D-q58142-21c4a29d"
+    ],
+    "note": "Correctif Q1 2022-D: n° d'examen capturé; stem nettoyé; alias 2022-D-q58142-21c4a29d."
+  },
+  {
+    "questionId": "2022-E-q58136-cbf26286",
+    "newId": "2022-E-q01-895d1812",
+    "number": 1,
+    "stem": "I need a taxi for tomorrow afternoon :",
+    "type": "single",
+    "year": 2022,
+    "subject": "E",
+    "legacyIds": [
+      "2022-E-q58136-cbf26286"
+    ],
+    "note": "Correctif Q1 2022-E: n° d'examen capturé; stem nettoyé; alias 2022-E-q58136-cbf26286."
+  },
+  {
+    "questionId": "2022-FM-q58140-3b41903f",
+    "newId": "2022-FM-q01-4c4b00c9",
+    "number": 1,
+    "stem": "Sur route mouillée la distance de freinage est multipliée par :",
+    "type": "single",
+    "year": 2022,
+    "subject": "FM",
+    "legacyIds": [
+      "2022-FM-q58140-3b41903f"
+    ],
+    "note": "Correctif Q1 2022-FM: n° d'examen capturé; stem nettoyé; alias 2022-FM-q58140-3b41903f."
+  },
+  {
+    "questionId": "2022-FV-q58137-f66bd0d2",
+    "newId": "2022-FV-q01-4e149c1b",
+    "number": 1,
+    "stem": "Le prix psychologique correspond :",
+    "type": "single",
+    "year": 2022,
+    "subject": "FV",
+    "legacyIds": [
+      "2022-FV-q58137-f66bd0d2"
+    ],
+    "note": "Correctif Q1 2022-FV: n° d'examen capturé; stem nettoyé; alias 2022-FV-q58137-f66bd0d2."
+  },
+  {
+    "questionId": "2022-GT-q58138-7cf99076",
+    "newId": "2022-GT-q01-fbec9865",
+    "number": 1,
+    "stem": "Quelle est l'autorité compétente qui fixe le taux d'augmentation annuel des tarifs ?",
+    "type": "open",
+    "year": 2022,
+    "subject": "GT",
+    "legacyIds": [
+      "2022-GT-q58138-7cf99076"
+    ],
+    "note": "Correctif Q1 2022-GT: n° d'examen capturé; stem nettoyé; alias 2022-GT-q58138-7cf99076."
+  },
+  {
+    "questionId": "2022-GM-q58141-431dd640",
+    "newId": "2022-GM-q01-ce85df46",
+    "number": 1,
+    "stem": "Que faut-il faire pour être compétitif ?",
+    "type": "single",
+    "year": 2022,
+    "subject": "GM",
+    "legacyIds": [
+      "2022-GM-q58141-431dd640"
+    ],
+    "note": "Correctif Q1 2022-GM: n° d'examen capturé; stem nettoyé; alias 2022-GM-q58141-431dd640."
+  },
+  {
+    "questionId": "2022-GV-q58139-b509c748",
+    "newId": "2022-GV-q01-f85bf443",
+    "number": 1,
+    "stem": "Le portail REVTC ou registre des exploitants de VTC est utilisé pour :",
+    "type": "single",
+    "year": 2022,
+    "subject": "GV",
+    "legacyIds": [
+      "2022-GV-q58139-b509c748"
+    ],
+    "note": "Correctif Q1 2022-GV: n° d'examen capturé; stem nettoyé; alias 2022-GV-q58139-b509c748."
+  },
+  {
+    "questionId": "TYPEFIX-2021-C-q4",
+    "year": 2021,
+    "subject": "C",
+    "number": 4,
+    "type": "multiple",
+    "note": "C 2021 Q4: « Quelles sont les obligations » → multiple (énoncé pluriel)."
+  },
+  {
+    "questionId": "TYPEFIX-2021-B-q13",
+    "year": 2021,
+    "subject": "B",
+    "number": 13,
+    "type": "multiple",
+    "note": "B 2021 Q13: « Quels sont les critères » → multiple."
+  },
+  {
+    "questionId": "TYPEFIX-2021-B-q16",
+    "year": 2021,
+    "subject": "B",
+    "number": 16,
+    "type": "multiple",
+    "note": "B 2021 Q16: « la ou lesquelles » → multiple."
+  },
+  {
+    "questionId": "ILLUS-2021-C-q20",
+    "year": 2021,
+    "subject": "C",
+    "number": 20,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p8.png",
+    "note": "Panneau A1a (cassis/dos-d'âne) extrait page 8 — associé à C 2021 Q20, pas aux questions D."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q01",
+    "year": 2021,
+    "subject": "D",
+    "number": 1,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte 20 Minutes Cybertruck (p.9) requis pour la compréhension D 2021."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q02",
+    "year": 2021,
+    "subject": "D",
+    "number": 2,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte Cybertruck associé à D 2021 Q2."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q03",
+    "year": 2021,
+    "subject": "D",
+    "number": 3,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte Cybertruck associé à D 2021 Q3."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q04",
+    "year": 2021,
+    "subject": "D",
+    "number": 4,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte Cybertruck (mot « arborer ») associé à D 2021 Q4."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q05",
+    "year": 2021,
+    "subject": "D",
+    "number": 5,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte Cybertruck associé à D 2021 Q5."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q06",
+    "year": 2021,
+    "subject": "D",
+    "number": 6,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte Cybertruck associé à D 2021 Q6."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q07",
+    "year": 2021,
+    "subject": "D",
+    "number": 7,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte Cybertruck associé à D 2021 Q7."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q08",
+    "year": 2021,
+    "subject": "D",
+    "number": 8,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte Cybertruck associé à D 2021 Q8."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q09",
+    "year": 2021,
+    "subject": "D",
+    "number": 9,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte Cybertruck associé à D 2021 Q9."
+  },
+  {
+    "questionId": "ILLUS-2021-D-q10",
+    "year": 2021,
+    "subject": "D",
+    "number": 10,
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "note": "Texte Cybertruck associé à D 2021 Q10."
+  },
+  {
+    "questionId": "ILLUS-CLEAR-2022-C-q18",
+    "year": 2022,
+    "subject": "C",
+    "number": 18,
+    "hasIllustration": false,
+    "illustrationPath": "",
+    "note": "Dissocie 2022-p8.png (pictogramme pollution NIVEAU 3) — image orpheline, non liée à C Q18."
+  },
+  {
+    "questionId": "ILLUS-CLEAR-2022-C-q19",
+    "year": 2022,
+    "subject": "C",
+    "number": 19,
+    "hasIllustration": false,
+    "illustrationPath": "",
+    "note": "Dissocie 2022-p8.png — non liée à C Q19."
+  },
+  {
+    "questionId": "ILLUS-CLEAR-2022-C-q20",
+    "year": 2022,
+    "subject": "C",
+    "number": 20,
+    "hasIllustration": false,
+    "illustrationPath": "",
+    "note": "Dissocie 2022-p8.png — non liée à C Q20."
+  },
+  {
+    "questionId": "ILLUS-MISSING-2021-E-q01",
+    "year": 2021,
+    "subject": "E",
+    "number": 1,
+    "hasIllustration": false,
+    "illustrationPath": "",
+    "note": "Illustration « bâtiment historique » absente de l'extraction PDF — signalée pour revue ; la réponse linguistique ne dépend pas de l'image."
+  },
+  {
+    "questionId": "ILLUS-MISSING-2022-C-q17",
+    "year": 2022,
+    "subject": "C",
+    "number": 17,
+    "hasIllustration": false,
+    "illustrationPath": "",
+    "note": "Pictogramme médicaments non extrait du PDF — illustration manquante."
+  }
+]

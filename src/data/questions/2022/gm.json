@@ -1,0 +1,297 @@
+[
+  {
+    "id": "2022-GM-q01-ce85df46",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 1,
+    "stem": "Que faut-il faire pour être compétitif ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vendre à perte"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le prix de vente correspond au prix psychologique"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "avoir une offre adaptée au marché"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "avoir un coût de revient supérieure au prix de la prestation"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-GM: n° d'examen capturé; stem nettoyé; alias 2022-GM-q58141-431dd640."
+    ],
+    "legacyIds": [
+      "2022-GM-q58141-431dd640"
+    ]
+  },
+  {
+    "id": "2022-GM-q02-cc447b3d",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 2,
+    "stem": "Vous facturez une prestation de transport de 50 €. Vous accordez une remise de 8% au client. Il payera :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "45,50 €"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "42 €"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "46 €"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "40 €"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q03-ceb9ad91",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 3,
+    "stem": "Pour assurer une qualité de service et de sécurité optimum aux clients, je dispose des équipements obligatoires suivantes :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "au moins 2 casques homologués de tailles différentes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une paire de gants et un casque"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "au moins 2 paires de gants homologués de tailles différentes"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un gilet airbag"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q04-4d93e953",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 4,
+    "stem": "Quels éléments sont importants afin de fidéliser les clients ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La couleur de la moto"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "La qualité conduite"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La puissance de la moto"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La ponctualité"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q05-4a327dfc",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 5,
+    "stem": "Que faire lorsqu'un client refuse de mettre la veste ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "On le refuse"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "On le prend en charge"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "On lui conseille de la mettre"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q06-c52b8deb",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 6,
+    "stem": "Citez 4 étapes de prise en charge d'un passager.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "accueillir, vérifier son identité, proposer du gel hydroalcoolique, équiper (gant, casque,\nblouson), charger les bagages, installer le passager sur la moto, vérifier la destination, rappeler les consignes de\nsécurité",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-GM-q07-b9f5070a",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 7,
+    "stem": "Qu'est-ce qu'un prospect ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'ensemble des clients non facturés uniquement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "une publicité permettant au conducteur de VMDTR de se faire connaître"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une brochure publicitaire référençant l'ensemble d'un catalogue de prestation"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un client potentiel"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-GM-q08-8eecc67e",
+    "subject": "GM",
+    "scope": "vmdtr",
+    "year": 2022,
+    "number": 8,
+    "stem": "Qu'est-ce qu'une relation B to B et une relation B to C ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Business to business et business to customer\nEntreprise à entreprise et entreprise à client",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - GM",
+    "pdfPage": 20,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 4,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  }
+]

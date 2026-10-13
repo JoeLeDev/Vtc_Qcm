@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "suggestions": [
+    {
+      "questionId": "2021-GV-q01-804dd097",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Longueur hors tout minimale 4,50 m et largeur minimale 1,70 m pour un VTC thermique (arrêté du 26 mars 2015). Les véhicules hybrides et électriques sont exemptés de ces caractéristiques (et de la puissance / âge dans les conditions de l’arrêté).",
+      "documentaryRef": "Consultation 2026-10-13. Arrêté du 26 mars 2015 relatif aux caractéristiques des véhicules VTC (JO) ; code des transports R. 3122-6 / L. 3120-5. Livret préfectoral VTC 2025 (ex. Landes) confirme 4,50 × 1,70 m. Inchangé sur le fond depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-GV-q02-65dc0b6d",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "RÉPONSE D’ANNALE 2021 : prise en charge sans réservation préalable = délit (maraude), historiquement 1 an d’emprisonnement et 15 000 € d’amende (L. 3124-12 ancienne rédaction) — choix C. A est faux (pas d’exception « après dépose »). B (suspension du permis) n’est qu’une peine complémentaire possible, pas la qualification principale. RÉPONSE 2026 : les peines de L. 3124-12 ont été alourdies (jusqu’à 3 ans / 45 000 € selon la rédaction en vigueur) — conserver C comme réponse historique d’examen et signaler l’évolution.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-2 (interdiction prise en charge sans réservation) ; L. 3124-12 (sanctions). Service-Public / Sénat QE 2025 sur le renforcement des peines. Question partiellement obsolète sur le montant de la peine.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-GV-q03-50c11b46",
+      "proposedChoiceIds": ["d"],
+      "pedagogicalExplanation": "Il doit exister un contrat avec le client final, pouvant être conclu sur support papier ou électronique. Les CGV seules ne suffisent pas sans acceptation claire ; l’écrit n’est pas limité au papier.",
+      "documentaryRef": "Consultation 2026-10-13. Cadre contractuel VTC / réservation préalable (code des transports + droit de la consommation pour le B2C). Service-Public F31027 (preuve de réservation papier ou électronique). Confiance medium-high.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-GV-q04-961127c7",
+      "proposedOpenAnswer": "Aucune démarche spécifique : les véhicules électriques (et hybrides) peuvent être utilisés en VTC même s’ils ne respectent pas toutes les caractéristiques techniques imposées aux autres VTC.",
+      "pedagogicalExplanation": "Indication CMA alignée sur L. 3120-5 / arrêté caractéristiques : exemption des seuils dimension/puissance/âge pour VE/VH.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-5 ; arrêté 26/03/2015 art. 2 (non-application aux hybrides et électriques). Indication annale CMA 2021 GV Q4. Inchangé sur le principe.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-GV-q05-52d1eb2b",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "Durée maximale de stationnement aux abords / enceinte des gares et aérogares : 1 heure avant l’horaire de prise en charge réservé (D. 3120-3).",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-2 II 3° et D. 3120-3. Service-Public F31027 ; fiche thématique ministère écologie L. 3120-2. Inchangé depuis 2021.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-GV-q06-8c53e464",
+      "proposedOpenAnswer": "Retirer ou occulter la carte professionnelle et la signalétique VTC (macarons) lorsque le véhicule est utilisé à des fins privées.",
+      "pedagogicalExplanation": "Indication CMA : « Retirer la carte professionnelle ». Complément réglementaire : la signalétique doit être retirée ou occultée hors activité VTC (arrêté signalétique). Suggestion enrichie pour 2026 sans contredire l’indication.",
+      "documentaryRef": "Consultation 2026-10-13. Indication annale CMA 2021 GV Q6 ; arrêté 6 avril 2017 (signalétique) — occultation hors activité ; REVTC aide macarons. Partiellement au-delà du libellé strict de l’indication → confiance medium.",
+      "confidence": "medium"
+    },
+    {
+      "questionId": "2021-GV-q07-37418464",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "Un VTC se reconnaît à la signalétique officielle : macaron / vignette à l’avant et à l’arrière du véhicule. Pas par la seule couleur noire.",
+      "documentaryRef": "Consultation 2026-10-13. Arrêté du 6 avril 2017 relatif à la signalétique des VTC (deux vignettes avant/arrière) ; R. 3122-8 code des transports ; REVTC. Arrêté modificatif 24/07/2025 (inamovibilité) — principe avant+arrière inchangé.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-GV-q08-6a844bda",
+      "proposedChoiceIds": ["d"],
+      "pedagogicalExplanation": "L’inscription au registre des exploitants VTC donne lieu à la délivrance d’une attestation d’inscription (espace REVTC). La liste publique des exploitants existe aussi, mais le choix d’examen le plus direct est l’attestation (D). Pas de diplôme ni de BO.",
+      "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3122-3 / R. 3122-1 ; portail REVTC (attestation PDF) https://registre-vtc.developpement-durable.gouv.fr/ ; ecologie.gouv.fr registre VTC. C (publication liste) est partiellement vrai — D reste la réponse pédagogique attendue ; confiance medium-high.",
+      "confidence": "medium"
+    }
+  ]
+}

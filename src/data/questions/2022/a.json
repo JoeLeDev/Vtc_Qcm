@@ -1,0 +1,526 @@
+[
+  {
+    "id": "2022-A-q01-34dc9cf1",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "Quel service délivre la carte professionnelle de conducteur de T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La DREAL"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "La préfecture"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La DIRECCTE"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La mairie"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-A: n° examen capturé."
+    ],
+    "legacyIds": [
+      "2022-A-q58132-e3694fd5"
+    ]
+  },
+  {
+    "id": "2022-A-q02-5eca2b6a",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "Qu'est-ce qu'un service de transport régulier ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "C'est un transport collectif défini par : itinéraire, point d'arrêt, fréquence, tarif et horaire.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q03-1ce22607",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "L'examen du T3P est composé :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "d'une épreuve de préparation"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "d'une épreuve d'admission"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "d'une épreuve d'intégration"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "d'une épreuve d'admissibilité"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q04-6687ebc8",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Je me fais contrôler sur la route, quels documents communs aux trois professions dois-je présenter aux forces de l'ordre ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le permis de conduire.\nLa carte grise du véhicule.\nAssurance du véhicule.\nAssurance responsabilité civile professionnelle (RCP).\nAttestation de formation.\nCarte professionnelle en cours de validité.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q05-da1c93e8",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Quel est le délit justifiant le refus de délivrance d'une carte professionnelle ? :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Franchissement d'un feu rouge"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Non exercice régulier de la profession"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Inaptitude médicale"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Conduite après usage de stupéfiants"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q06-0f587e83",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "Quelle est la signification du terme LOTI ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Loi d'observation des taxis intramuros"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Loi d'orientation des transports intérieurs"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Loi d'organisation du tourisme intérieur"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Loi d'orientation du tourisme interne"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q07-5583c18d",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "Parmi ces affirmations, laquelle est vraie ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La carte professionnelle est délivrée par le Préfet ou le Préfet de Police"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "La carte professionnelle mentionne le résultat à l'examen"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La carte professionnelle est délivrée par la Mairie."
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "La carte professionnelle mentionne la commune dans laquelle on est autorisé à exercer."
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q08-d99af71e",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Un conducteur de transport public particulier de personnes doit restituer sa carte professionnelle lorsqu' :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une condition de validité n'est plus remplie"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "il est condamné pour délit par le juge du tribunal correctionnel."
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il est employé par un dirigeant qui ne respecte par la règlementation du transport de de voyageurs"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "il cesse son activité professionnelle définitivement"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q09-df7e60ee",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Quels types de personnalités peuvent être associées avec voix consultative aux travaux des membres de la commission locale des T3P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un collège de représentants des professionnels (syndicats, organisations professionnelles)"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Les représentants des organisations professionnelles des centrales de réservation des transports publics particuliers de personnes"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Un collège de représentants de l'État (ex : préfet ou son représentant, DDPP, représentant de la gendarmerie/police nationale, ….)"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 1,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q10-c3de9d58",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Quelles sont les deux assurances obligatoires qu'un conducteur de T3P doit souscrire ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Responsabilité civile circulation (RCC).\nResponsabilité civile professionnelle du conducteur (RCP).",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q11-59f68ab9",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 11,
+    "stem": "Quelles sont les sanctions administratives encourues par un conducteur de T3P en cas de violation de la réglementation de la profession ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Retrait temporaire/suspension de la carte professionnelle, retrait définitif de la carte\nprofessionnelle, avertissement.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q12-d0682d45",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 12,
+    "stem": "Qu'est-ce que l'honorabilité dans votre profession ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le casier judiciaire B2 vierge",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-A-q13-1e2b58e4",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 13,
+    "stem": "Pour accéder à la profession de conducteur de T3P, il faut obligatoirement :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Avoir une expérience professionnelle de conducteur de véhicule léger dans les 5 ans précédant la demande de carte professionnelle."
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Suivre une formation"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Réussir à un examen"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q14-9cbb981d",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 14,
+    "stem": "Un client se plaint de la tarification de la course. Quelle est l'autorité compétente pour le traiter ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "les Prudhommes"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le tribunal de commerce"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "le juge de proximité"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la préfecture"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-A-q15-5f99467b",
+    "subject": "A",
+    "scope": "common",
+    "year": 2022,
+    "number": 15,
+    "stem": "Le stage de formation continue dispensé aux conducteurs de transport public particulier de personnes permet d'obtenir une attestation valable :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "5 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "2 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 an"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "10 ans"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - A - T3P",
+    "pdfPage": 2,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

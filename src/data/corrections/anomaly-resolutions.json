@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-13",
+  "note": "Aucune promotion verified. Les blocages de notation ne sont levés que si l’incertitude est résolue.",
+  "resolutions": [
+    {
+      "questionId": "2021-E-q01-838fcf42",
+      "code": "missing_illustration",
+      "status": "partially_resolved",
+      "blocksScoring": true,
+      "exploitableForCurrentExam": false,
+      "recommendedAnswer": { "proposedChoiceIds": ["c"] },
+      "analysis": "PDF confirmé : traduction FR→EN. Choix C correct linguistiquement. Aucune image de bâtiment n’a été extraite (fichiers disponibles : 2021-p8 panneau, 2021-p9 Cybertruck, 2022-p8 pollution). Association d’illustration impossible sans inventer un fichier.",
+      "referencesConsulted": [
+        "docs/annales/raw-2021.txt — examen E n°49957 Q1",
+        "Inventaire public/annales/images (2026-10-13)"
+      ],
+      "humanActionNeeded": "Fournir/extraire l’illustration du PDF page E puis valider C manuellement ; ne pas lever le blocage avant."
+    },
+    {
+      "questionId": "2021-D-q09-265a781b",
+      "code": "ambiguous_answer",
+      "status": "partially_resolved",
+      "blocksScoring": true,
+      "exploitableForCurrentExam": false,
+      "recommendedAnswer": { "proposedChoiceIds": ["a"], "confidence": "medium" },
+      "analysis": "Texte (indication Q10) : « allure futuriste et cyberpunk ». Sens = apparence/aspect, pas vitesse. Style reste un quasi-synonyme : ambiguïté résiduelle Aspect vs Style. Type single confirmé dans le PDF.",
+      "referencesConsulted": [
+        "docs/annales/raw-2021.txt — D Q9/Q10",
+        "/annales/images/2021-p9.png (article 20 Minutes associé)"
+      ],
+      "humanActionNeeded": "Trancher Aspect (A) vs Style (C) après relecture du texte ; validation humaine obligatoire."
+    },
+    {
+      "questionId": "2021-FV-q02-4cc8521f",
+      "code": "ambiguous_type",
+      "status": "blocked",
+      "blocksScoring": true,
+      "exploitableForCurrentExam": false,
+      "recommendedAnswer": null,
+      "analysis": "PDF : type QCM single (pas « la ou lesquelles »). Pédagogiquement, la marge peut s’exprimer en % du CA et/ou du coût de revient. Sans barème officiel, on ne force ni type multiple ni une seule case.",
+      "referencesConsulted": [
+        "docs/annales/raw-2021.txt — FV Q2"
+      ],
+      "humanActionNeeded": "Obtenir barème CMA ou décider explicitement A et/ou C avant toute notation."
+    },
+    {
+      "questionId": "2021-FV-q07-e38fabec",
+      "code": "needs_recheck",
+      "status": "blocked",
+      "blocksScoring": true,
+      "exploitableForCurrentExam": false,
+      "recommendedAnswer": null,
+      "analysis": "Le BOFiP (BOI-BIC-AMT-10-40) ne fixe pas « 3 ans » pour l’informatique : durée = usages / durée d’utilisation ; matériel de bureau indicatif 10–20 %/an (≈5–10 ans). La suggestion « 3 ans » n’est pas suffisamment étayée par une source institutionnelle consultée.",
+      "referencesConsulted": [
+        "https://bofip.impots.gouv.fr/bofip/4686-PGP.html/identifiant=BOI-BIC-AMT-10-40-20170104 (consulté 2026-10-13)",
+        "https://bofip.impots.gouv.fr/bofip/4520-PGP.html/identifiant=BOI-BIC-AMT-10-40-30-20120912 (consulté 2026-10-13)"
+      ],
+      "humanActionNeeded": "Ne pas valider A sans barème d’annale ou usage professionnel documenté pour le cas d’examen."
+    },
+    {
+      "questionId": "2021-FV-q09-c79f89d1",
+      "code": "deferred",
+      "status": "blocked",
+      "blocksScoring": true,
+      "exploitableForCurrentExam": false,
+      "recommendedAnswer": null,
+      "analysis": "Calcul ambigu : CA 50 000 − charges sociales 10 000 = 40 000 (hors choix). Inclure cession 8 000 et/ou TVA 5 000 donne A 43 000, B 37 000 ou C 27 000 selon hypothèses. La TVA n’est en principe pas une charge de résultat ; la cession est un produit. Aucune option ne suit le raisonnement comptable standard sans hypothèse ad hoc. Pas d’Indication/Right answer dans le PDF.",
+      "referencesConsulted": [
+        "docs/annales/raw-2021.txt — FV Q9"
+      ],
+      "humanActionNeeded": "Exclure de la notation jusqu’à barème officiel ou clarification pédagogique CMA."
+    },
+    {
+      "questionId": "2021-FV-q11-15a9cb61",
+      "code": "deferred",
+      "status": "blocked",
+      "blocksScoring": true,
+      "exploitableForCurrentExam": false,
+      "recommendedAnswer": null,
+      "analysis": "PDF type single. Plusieurs assertions peuvent être vraies (B2C / loi Hamon / B2B). A est faux (CGV doivent être communiquées au pro qui les demande). Sans consigne multi ni barème, pas de réponse unique fiable.",
+      "referencesConsulted": [
+        "docs/annales/raw-2021.txt — FV Q11"
+      ],
+      "humanActionNeeded": "Validation humaine du barème ; ne pas changer le type en multiple sans consigne PDF."
+    },
+    {
+      "questionId": "2021-GV-q02-65dc0b6d",
+      "code": "historical_vs_current",
+      "status": "resolved",
+      "blocksScoring": true,
+      "exploitableForCurrentExam": false,
+      "recommendedAnswer": {
+        "proposedChoiceIds": ["c"],
+        "note": "Réponse d’annale 2021 (quantum historique). Non exploitable tel quel pour l’examen actuel."
+      },
+      "analysis": "Qualification : prise en charge sans réservation = délit (L. 3120-2 / L. 3124-12). Choix C reflète le quantum historique (1 an / 15 000 €). Depuis la loi n° 2026-534 du 25 juin 2026 (en vigueur 27/06/2026), L. 3124-12 prévoit 3 ans / 45 000 €. Le libellé « jusqu’à 15 000 € » est obsolète pour 2026. Type single confirmé. A faux ; B n’est qu’une peine complémentaire possible.",
+      "referencesConsulted": [
+        "docs/annales/raw-2021.txt — GV Q2",
+        "https://librejustice.fr/norm/fr/code-des-transports/l3124-12 (consulté 2026-10-13 — version 27/06/2026)",
+        "Sénat QE base 2025 (état antérieur 1 an / 15 000 €)"
+      ],
+      "humanActionNeeded": "Conserver hors QCM notés actuels ; éventuellement réécrire la question pour le quantum 2026 (hors scope Phase 7)."
+    },
+    {
+      "questionId": "2021-C-q02-4e9aec96",
+      "code": "ambiguous_type",
+      "status": "partially_resolved",
+      "blocksScoring": true,
+      "exploitableForCurrentExam": false,
+      "recommendedAnswer": {
+        "proposedChoiceIds": ["b"],
+        "confidence": "medium",
+        "note": "Si barème single : B (freinage). C aussi physiquement lié (distance d’arrêt)."
+      },
+      "analysis": "PDF : aucune consigne « une ou plusieurs ». Type banque single conservé. La pluie allonge la distance de freinage et donc d’arrêt ; le temps de réaction n’est pas « allongé » ; l’adhérence diminue. Ambiguïté barème single vs multi non levée.",
+      "referencesConsulted": [
+        "docs/annales/raw-2021.txt — C Q2",
+        "docs/reports/lot-C-01-ambiguity-review.md"
+      ],
+      "humanActionNeeded": "Trancher barème (B seul vs B+C) avant notation."
+    },
+    {
+      "questionId": "2021-C-q05-d84d0b34",
+      "code": "ambiguous_type",
+      "status": "partially_resolved",
+      "blocksScoring": true,
+      "exploitableForCurrentExam": false,
+      "recommendedAnswer": {
+        "proposedChoiceIds": ["a", "d"],
+        "confidence": "high",
+        "note": "A et D sont tous deux dans R. 412-37 ; type PDF reste single → barème humain requis."
+      },
+      "analysis": "R. 412-37 (Légifrance) : (1) traverser en tenant compte visibilité/distance/vitesse = A ; (2) utiliser passages à < 50 m = D. B faux ; C faux. Type single au PDF malgré deux obligations cumulatives.",
+      "referencesConsulted": [
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023095943 (R. 412-37, consulté 2026-10-13)",
+        "docs/annales/raw-2021.txt — C Q5"
+      ],
+      "humanActionNeeded": "Ne pas passer en multiple sans consigne ; décider si le barème attend une ou deux cases."
+    }
+  ]
+}

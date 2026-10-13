@@ -1,0 +1,758 @@
+[
+  {
+    "id": "2021-E-q01-838fcf42",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Savez-vous de quand date ce bâtiment historique ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "is it possible to visit this historical monument?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "do you know some listed historical monuments?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "do you know when this historical monument was built ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-E: n° d'examen capturé; stem nettoyé; alias 2021-E-q49957-3f5e75b1.",
+      "Illustration « bâtiment historique » absente de l'extraction PDF — signalée pour revue ; la réponse linguistique ne dépend pas de l'image."
+    ],
+    "legacyIds": [
+      "2021-E-q49957-3f5e75b1",
+      "ILLUS-MISSING-2021-E-q01"
+    ]
+  },
+  {
+    "id": "2021-E-q02-4b357b6d",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "You will ……………, our island is amazing.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "look"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "see"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "watch"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q03-4d41b751",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Pourriez-vous passer me prendre ici demain à 6 heures, s'il-vous-plait ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "can you take me here tomorrow at 6, please?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "could you pick me on here tomorrow at 6, please?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "could you pick me up here tomorrow at 6, please?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q04-b8b4897a",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Thank you for the ride, keep the change.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Merci pour la course, ne changez pas"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Merci d'avoir attendu, gardez la monnaie"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Merci pour la course, gardez la monnaie"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q05-e87e2e46",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Passez-vous un agréable séjour en France ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "do you enjoy your stay in France?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "do you like France?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "are you ok in France?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q06-fdae0354",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "She..........English very well.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "speaks"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "speak"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "spoken"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q07-1c505f77",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Have you come for the music festival?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Êtes-vous venus pour le festival de musique ?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Avez-vous votre place pour le festival de musique ?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Êtes-vous allés au festival de musique ?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q08-38f358a9",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "Souhaitez-vous un reçu ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "would you like a receipt?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "did you want a bill?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "do you want a ticket?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q09-274aae34",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "Sorry! It's quite expensive for us. May we get a ……………… price?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "less"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "lower"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "reduction"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q10-98210ba6",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "Les gilets jaunes bloquent les autoroutes en ce moment",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "The yellow vests are blocking the motorways"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "The yellow vests block the motorways"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "The yellow vests blocked the motorways"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q11-6b32bdf9",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 11,
+    "stem": "Disabled welcome :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Pas de fauteuil roulant"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "J'accueille les handicapés"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Pas de place pour le fauteuil"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 10,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q12-cf5bf8a3",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 12,
+    "stem": "Bonjour, êtes-vous disponible pour m'emmener à la gare?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "hello, are you disponible to make me to the station?"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "hello, are you available to get me to the station?"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "hello, are you disponible to get me to the station?"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "hello, are you available to make me to the station?"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q13-68191dd5",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 13,
+    "stem": "Do you take the......card?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "business"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "credit"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "blue"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q14-6273f497",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 14,
+    "stem": "I was told to say anything concerning this new advert:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "je n'ai rien à dire à propos de ce nouvel avertissement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "on m'a dit de ne rien dire de cette nouvelle publicité"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "je n'avais rien à dire concernant ce nouvel adversaire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q15-24ccc740",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 15,
+    "stem": "Nous vérifions le moteur trois fois par an",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "we check the motor three times per year"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "we're checking the motor three times per week"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "we were tchecking the motor three times per year"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q16-4ac9ee8f",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 16,
+    "stem": "Vous nous devez 53 euros :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "you must us 53 euros"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "you must buy 53 euros"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "you owe us 53 euros"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q17-710d0895",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 17,
+    "stem": "What is the opposite of slow?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Noisy"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Dry"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Fast"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q18-b0f5cf99",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 18,
+    "stem": "Il est interdit de fumer dans la voiture !",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "it's allowed of smoke in the car!"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "it's forbidden to smoke in the car!"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "it's forbidden of smoke in the car!"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q19-5a4def9d",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 19,
+    "stem": "Elle vit à Paris depuis dix ans",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "She had been living in Paris since ten years"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "She has been living in Paris for ten years"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "She has lived in Paris until ten years"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "She lived in Paris for ten years"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-E-q20-ac27d203",
+    "subject": "E",
+    "scope": "common",
+    "year": 2021,
+    "number": 20,
+    "stem": "I took a taxi because the buses were on strike",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "je prends un taxi car les bus sont lents"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "j'ai pris un taxi car les bus ne fonctionnaient pas"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "j'ai pris un taxi car les bus étaient en grève"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - E - Anglais",
+    "pdfPage": 11,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

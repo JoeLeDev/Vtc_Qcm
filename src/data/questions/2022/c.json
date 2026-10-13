@@ -1,0 +1,822 @@
+[
+  {
+    "id": "2022-C-q01-28d0b79a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "Je peux suivre un stage de sensibilisation à la sécurité routière :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une fois tous les 2 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "trois fois par an"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une fois par an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-C: n° d'examen capturé; stem nettoyé; alias 2022-C-q58134-8dae64fa."
+    ],
+    "legacyIds": [
+      "2022-C-q58134-8dae64fa"
+    ]
+  },
+  {
+    "id": "2022-C-q02-fc740260",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "A 90 km/h la distance d'arrêt est approximativement de:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "80 m"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "70 m"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "50 m"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Doublon potentiel de 2021-C-q11-fc740260 (original conservé)."
+    ],
+    "duplicateOf": "2021-C-q11-fc740260"
+  },
+  {
+    "id": "2022-C-q03-48fcec06",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "Donnez au moins deux effets de la fatigue.",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le temps de réaction est plus rapide"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Les gestes sont moins rapides"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Les réflexes sont plus lents"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Une diminution de la distance parcourue pendant le temps de réaction"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q04-17ef6092",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Par temps de brouillard, lorsque la visibilité est inférieure à 50 mètres, je roule à :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "30 km à l'heure"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "50 km à l'heure"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "70 km à l'heure"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q05-5690af9c",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Sur les routes à sens unique, à deux voies ou lors d'un accès sur un rond point, vous pouvez circuler sur la voie de gauche :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "pour préparer un changement de direction à gauche"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "il n'y a pas de règle le précisant"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "lorsque vous êtes seul (e) sur la route et que vous ne gênez personne"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q06-72aa2a3a",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "Quel type d'arrêt ou de stationnement sont considérés comme gênant la circulation publique dans le code de la route ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "arrêt ou stationnement sur les trottoirs, les passages ou accotements réservés à la circulation des piétons"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "il n'y a pas d'arrêt ou de stationnement gênant pour les véhicules T3P"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "arrêt ou stationnement sur une place de parking"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "arrêt ou stationnement au droit des bouches d'incendie et des accès à des installations souterraines"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q07-bc9d87e4",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "Puis-je rajouter moi-même du liquide de refroidissement?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "non, cela doit attendre la prochaine révision"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "non, il faut aller chez le garagiste"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "oui, mais avec le moteur chaud"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "oui, mais avec le moteur froid"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q08-c75d0715",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Quelles sont les actions à mettre en œuvre en présence d'un blessé :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "retirer son casque"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "donner à boire de l'eau"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "couvrir la victime"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "parler à la victime"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q09-f9e9e0e2",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Au volant de mon véhicule léger, je me dirige vers le sommet d'une montagne (véhicule montant). Un véhicule de transport en commun arrive en sens inverse (véhicule descendant). Le croisement s'avère difficile :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "c'est au transport en commun de s'arrêter pour me laisser passer"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "je dois m'arrêter pour faciliter le passage du transport en commun"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il n'y a pas de règle, c'est une question de courtoisie"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q10-78ee974d",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Quelles sont les précautions nécessaires pour vérifier le niveau d'huile?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Moteur allumé"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Terrain plat"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Moteur chaud"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Moteur froid"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 6,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q11-b3fb4036",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 11,
+    "stem": "Pourquoi faut-il rédiger un constat amiable?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "pour calculer les indemnisations de chacune des personnes impliquées"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "pour déterminer les responsabilités de chacune des personnes impliquées"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "pour déterminer la sanction encourue par l'auteur"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "pour que le garagiste puisse établir un devis des réparations"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q12-13982f8e",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 12,
+    "stem": "Conduisant durant une période de suspension du permis de conduire :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "je risque un retrait de 6 points de mon permis de conduire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "je commets un délit"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il ne peut pas y avoir de retrait de points"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q13-4bcab890",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 13,
+    "stem": "Sur les routes à 2x2 voies séparées par une ligne continue, la vitesse est limitée à :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "110 km/h"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "130 km/h"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "90 km/h"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q14-79eaf786",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 14,
+    "stem": "Contrôlé avec un taux d'alcool de 0,7 gramme par litre de sang, je risque:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une peine de prison"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un retrait de 4 points sur mon permis de conduire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "une amende"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un retrait de 6 points sur mon permis de conduire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q15-25a897de",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 15,
+    "stem": "Dans quel cas exceptionnel devez-vous dépasser un véhicule par la droite ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "lorsque le conducteur du véhicule qui me précède a signalé qu'il allait changer de direction vers la droite"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "lorsque le conducteur du véhicule qui me précède a signalé qu'il allait changer de direction vers la gauche"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "lorsque le conducteur du véhicule qui me suit a signalé qu'il allait changer de direction vers la gauche"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "il est toujours autorisé de dépasser un véhicule par la droite"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q16-75fc58b2",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 16,
+    "stem": "Je dois augmenter la pression des pneus:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "si mon véhicule est très chargé"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "lorsque la route est mouillée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "si je circule longtemps sur autoroute"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "sur la neige"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-C-q17-3b08df0d",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 17,
+    "stem": "Ce pictogramme, qui figure sur des boîtes de médicaments, signifie :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "soyez prudent. Ne pas conduire sans avoir lu la notice"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "soyez très prudent. Ne pas conduire sans l'avis d'un professionnel de santé"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "attention, danger : ne pas conduire. Pour la reprise de la conduite, demandez l'avis d'un médecin"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 7,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Pictogramme médicaments non extrait du PDF — illustration manquante."
+    ],
+    "legacyIds": [
+      "ILLUS-MISSING-2022-C-q17"
+    ]
+  },
+  {
+    "id": "2022-C-q18-ab728d1e",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 18,
+    "stem": "Lorsque le permis a été invalidé en raison d'une perte totale de points, le nouveau permis obtenu est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "un permis probatoire doté d'un capital de 6 points"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un permis non probatoire doté d'un capital de 12 points"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un permis probatoire doté d'un capital de 12 points"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Dissocie 2022-p8.png (pictogramme pollution NIVEAU 3) — image orpheline, non liée à C Q18."
+    ],
+    "legacyIds": [
+      "ILLUS-CLEAR-2022-C-q18"
+    ]
+  },
+  {
+    "id": "2022-C-q19-e5e6e81f",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 19,
+    "stem": "Sont considérés comme véhicules d'intervention d'urgence prioritaire les :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "véhicules des services pénitenciers"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "véhicules du SAMU"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "véhicules de secours d'électricité"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "véhicules de service hivernal"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Dissocie 2022-p8.png — non liée à C Q19."
+    ],
+    "legacyIds": [
+      "ILLUS-CLEAR-2022-C-q19"
+    ]
+  },
+  {
+    "id": "2022-C-q20-c1dacc26",
+    "subject": "C",
+    "scope": "common",
+    "year": 2022,
+    "number": 20,
+    "stem": "Un conducteur qui commet un excès de vitesse de 40 km/h au-dessus de la vitesse autorisée risque :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une peine d'emprisonnement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la réduction de quatre points du permis de conduire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la réduction de six points du permis de conduire"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la suspension de son permis de conduire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - C - Sécurité routière",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Dissocie 2022-p8.png — non liée à C Q20."
+    ],
+    "legacyIds": [
+      "ILLUS-CLEAR-2022-C-q20"
+    ]
+  }
+]

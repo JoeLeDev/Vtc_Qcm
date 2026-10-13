@@ -1,0 +1,394 @@
+[
+  {
+    "id": "2021-D-q01-5033fa43",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 1,
+    "stem": "Quel pick-up est le plus apprécié aux États-Unis depuis longtemps ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le SpaceX"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le Ford F-150"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Le Blade Runner"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2021-D: n° d'examen capturé; stem nettoyé; alias 2021-D-q49956-f8a72138.",
+      "Texte 20 Minutes Cybertruck (p.9) requis pour la compréhension D 2021."
+    ],
+    "legacyIds": [
+      "2021-D-q49956-f8a72138",
+      "ILLUS-2021-D-q01"
+    ]
+  },
+  {
+    "id": "2021-D-q02-78f6c3f9",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 2,
+    "stem": "Qu'est-ce qu'un prototype ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Dernier modèle d'une série"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Un modèle de tests/d'études d'un nouveau produit"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Modèle diffusé à grande échelle"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q2."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q02"
+    ]
+  },
+  {
+    "id": "2021-D-q03-ba70d707",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 3,
+    "stem": "Pourquoi le Cybertruck pourrait-il avoir du mal à séduire la clientèle traditionnelle ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Parce que c'est un véhicule électrique"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Parce qu'il est trop cher"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Parce qu'il ne ressemble à rien d'autre"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q3."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q03"
+    ]
+  },
+  {
+    "id": "2021-D-q04-9c2d7e6c",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 4,
+    "stem": "Donnez un (des) synonyme(s) de « arborer »:",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Cacher"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Révéler"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Afficher"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Dissimuler"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck (mot « arborer ») associé à D 2021 Q4."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q04"
+    ]
+  },
+  {
+    "id": "2021-D-q05-cebbac15",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 5,
+    "stem": "Pourquoi la présentation du Cybertruck a été un échec?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Parce que ce véhicule est censé être très résistent aux attaques extérieurs mais son vitre a\nété cassé par l'envoi d'une balle d'acier.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Texte Cybertruck associé à D 2021 Q5."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q05"
+    ]
+  },
+  {
+    "id": "2021-D-q06-dc843594",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 6,
+    "stem": "Pour quel autre moyen de transport l'alliage en acier développé par Tesla sera-t-il utilisé ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le Blade Runner"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le F-150"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La fusée spatiale"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q6."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q06"
+    ]
+  },
+  {
+    "id": "2021-D-q07-7fb4def9",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 7,
+    "stem": "Quelle est l'autonomie maximale d'un modèle Cybertruck ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "100km"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "800km"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "400km"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 8,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 8 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q7."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q07"
+    ]
+  },
+  {
+    "id": "2021-D-q08-66adca1c",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 8,
+    "stem": "« Si le pick-up Tesla n'était pas un peu polémique, ça ne serait pas une Tesla». Expliquez cette affirmation",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Tesla est une société qui cherche toujours d'apporter de la nouveauté et de l'innovation. Les\npolémiques et les scandales ne font qu'augmenter son succès.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 9 — association manuelle via patches si pertinent.",
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Texte Cybertruck associé à D 2021 Q8."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q08"
+    ]
+  },
+  {
+    "id": "2021-D-q09-265a781b",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 9,
+    "stem": "Quelle est la signification du mot « allure » dans le texte ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Aspect"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Vitesse"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Style"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 9 — association manuelle via patches si pertinent.",
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Texte Cybertruck associé à D 2021 Q9."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q09"
+    ]
+  },
+  {
+    "id": "2021-D-q10-4d0b6f0e",
+    "subject": "D",
+    "scope": "common",
+    "year": 2021,
+    "number": 10,
+    "stem": "D'après le texte, listez au moins 4 caractéristiques du Cybertruck Tesla.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Véhicule 100% électrique, lignes très épurées, allure futuriste et cyberpunk, six places,\ncapable de tracter sept tonnes et emporter 1,5 tonne, réalisé en acier inoxydable ultrarésistant, pourra passer de 0 à\n100 km/h en environ trois secondes",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": true,
+    "illustrationPath": "/annales/images/2021-p9.png",
+    "points": 2,
+    "extractionNotes": [
+      "Image(s) extraites sur la page PDF 9 — association manuelle via patches si pertinent.",
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Texte Cybertruck associé à D 2021 Q10."
+    ],
+    "legacyIds": [
+      "ILLUS-2021-D-q10"
+    ]
+  }
+]

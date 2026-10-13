@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "suggestions": [
+    {
+      "questionId": "2021-E-q01-838fcf42",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "« Savez-vous de quand date ce bâtiment historique ? » = demande sur la date de construction → « do you know when this historical monument was built ? ». A porte sur la visite ; B sur la connaissance de monuments classés. Note : l’illustration du bâtiment n’a pas été extraite du PDF ; la réponse reste linguistique et ne dépend pas de l’image.",
+      "documentaryRef": "Consultation 2026-10-13. Équivalence FR→EN (présentatif « de quand date » / when … was built). Illustration manquante signalée (extrait PDF).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-E-q02-4b357b6d",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "« You will see » = tu verras / vous verrez (constatation future). Look (regarder activement) et watch (regarder attentivement, un spectacle) ne conviennent pas à cette tournure impersonnelle sur la découverte de l’île.",
+      "documentaryRef": "Consultation 2026-10-13. Grammaire / usage see vs look vs watch (anglais courant).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-E-q03-4d41b751",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "« Passer me prendre » = pick me up. Formule polie : could you pick me up here tomorrow at 6, please? A « take me here » est calque incorrect ; B « pick me on here » est agrammatical.",
+      "documentaryRef": "Consultation 2026-10-13. Phrasal verb pick somebody up (chercher quelqu’un en voiture).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-E-q04-b8b4897a",
+      "proposedChoiceIds": ["c"],
+      "pedagogicalExplanation": "« Thank you for the ride, keep the change » = Merci pour la course, gardez la monnaie. A confond change/monnaie avec « ne changez pas » ; B invente « attendu » et « bill ».",
+      "documentaryRef": "Consultation 2026-10-13. Vocabulaire taxi : ride = course ; keep the change = gardez la monnaie.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-E-q05-e87e2e46",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "« Passez-vous un agréable séjour… ? » vise le déroulement du séjour → « do you enjoy your stay in France? » (ou are you enjoying…). B trop général ; C incorrect.",
+      "documentaryRef": "Consultation 2026-10-13. EN professionnel tourisme / VTC — enjoy one’s stay.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-E-q06-fdae0354",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "3e personne du singulier au présent simple : She speaks English very well. « speak » sans -s est incorrect ; « spoken » est un participe passé.",
+      "documentaryRef": "Consultation 2026-10-13. Présent simple — accord sujet/verbe (she/he/it + V-s).",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-E-q07-1c505f77",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "« Have you come for the music festival? » = Êtes-vous venu(s) pour le festival de musique ? (but de la venue). B porte sur le billet ; C « allés » / gone change le sens.",
+      "documentaryRef": "Consultation 2026-10-13. Present perfect come for + événement.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-E-q08-38f358a9",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "« Souhaitez-vous un reçu ? » = Would you like a receipt? Bill = addition ; ticket = billet / PV selon contexte, pas le reçu de course.",
+      "documentaryRef": "Consultation 2026-10-13. Vocabulaire paiement : receipt = reçu.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-E-q09-274aae34",
+      "proposedChoiceIds": ["b"],
+      "pedagogicalExplanation": "Collocation : a lower price (prix plus bas). « less price » est incorrect ; « reduction price » n’est pas la forme attendue (a price reduction / a discount).",
+      "documentaryRef": "Consultation 2026-10-13. Collocations price : lower / reduced / discount.",
+      "confidence": "high"
+    },
+    {
+      "questionId": "2021-E-q10-98210ba6",
+      "proposedChoiceIds": ["a"],
+      "pedagogicalExplanation": "« en ce moment » impose le present continuous : The yellow vests are blocking the motorways. Le présent simple (B) décrit une habitude ; le prétérit (C) un fait passé.",
+      "documentaryRef": "Consultation 2026-10-13. Present continuous pour action en cours (now / en ce moment).",
+      "confidence": "high"
+    }
+  ]
+}

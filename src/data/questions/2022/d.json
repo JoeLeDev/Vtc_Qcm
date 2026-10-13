@@ -1,0 +1,341 @@
+[
+  {
+    "id": "2022-D-q01-f5bb21f0",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 1,
+    "stem": "Quelle place pour le vélo en France ? Le gouvernement a récemment annoncé un « Plan vélo » doté d'une enveloppe de 350 millions d'euros. Son ambition : développer une véritable culture du vélo. Son objectif : tripler les déplacements quotidiens des Français à vélo d'ici à 2024. Écolo, simple, silencieux, bon pour la santé… Il a tout pour plaire. Pourtant, les Français résistent toujours au vélo comme moyen de transport du quotidien. Le dernier recensement de l'Insee révèle cette réalité cruelle : 1,9 % des Français seulement se rendent à leur travail à vélo lorsqu'ils sont près de 71 % à utiliser la voiture, et ce quelle que soit la longueur du trajet. Le recours à la bicyclette reste timide, et cantonné à des petits trajets inférieurs à 4 kilomètres. D'après un dernier sondage, plus de la moitié des Français déclarent utiliser très rarement le vélo. Parmi les sondés, ils ne sont que 2 % à l'enfourcher chaque jour. Cette part grimpe à 14 % lorsqu'il s'agit de l'utiliser plus d'une fois par semaine. Les convaincus, ceux dont la pratique du vélo est supérieure à la moyenne, sont plutôt des hommes diplômés, âgés de moins de 35 ans et vivant en zone urbaine. On retrouve ici le dernier profil des adeptes du vélo dressé par l'Insee : \"Diplômés, citadins et cadres supérieurs\". Le gouvernement vient de mettre sur la table 25 mesures incitatives destinées à faire décoller les déplacements à vélo. Parmi les leviers choisis : plus de zones cyclables, et de meilleure qualité, la sécurisation des trajets ou bien la mise en place d'une indemnité kilométrique vélo. Mais le \"Plan vélo\" suscite encore beaucoup d'interrogations. Plus de huit sondés sur 10 (84 %) sont sceptiques quant à ses chances de réussite d'ici à 2024. Sans surprise, les sondés \"cyclistes\" se montrent plus positifs. En effet, 32 % d'entre eux pensent que l'objectif du gouvernement sera facile à atteindre. Dans leur ensemble, les personnes interrogées jugent prioritaires la sécurité, le comportement plus attentif de la part des conducteurs de voiture et de meilleures infrastructures. Ils mettent aussi l'accent sur l'importance d'avoir un vélo bien entretenu juste avant la mise en place de stationnements sécurisés. https:/www.lefigaro.fr/actualite-france/2018/11/30/01016-20181130ARTFIG00197-quelle-place-pour-le-velo-en-france.php ____________________ Que signifie le mot « recensement » ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Enquête"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Recueil d'informations"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Traitement de statistiques"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Dénombrement détaillé"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie).",
+      "Correctif Q1 2022-D: n° d'examen capturé; stem nettoyé; alias 2022-D-q58142-21c4a29d."
+    ],
+    "legacyIds": [
+      "2022-D-q58142-21c4a29d"
+    ]
+  },
+  {
+    "id": "2022-D-q02-4dd80e96",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 2,
+    "stem": "Combien de Français utilisent le vélo au quotidien ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "2%"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "4 %"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "14%"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q03-fda237e9",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 3,
+    "stem": "Le mot « cadre » définit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un statut"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Un classement administratif"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Une grille de rémunération"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q04-d1563af2",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 4,
+    "stem": "Qu'est-ce que l'INSEE ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Une agence de publicité"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Un institut de suivi de l'économie européenne"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Une administration"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Un institut d'études statistiques et économiques"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q05-31812f95",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 5,
+    "stem": "Qu'est-ce qu'une mesure incitative ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "C'est une mesure obligatoire"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "C'est une mesure conseillée"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "C'est une mesure qui donne envie"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q06-1e8a2f0a",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 6,
+    "stem": "Qu'est-ce qu'une indemnité ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Une récompense"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le remboursement de frais"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Une taxe sur les transports"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q07-c1f89b64",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 7,
+    "stem": "Quels éléments les sondés jugent prioritaires dans le plan vélo ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "La sécurité"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "De meilleures infrastructures"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "La mise en place d'une indemnité kilométrique vélo"
+      }
+    ],
+    "type": "multiple",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 9,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2022-D-q08-99b6e234",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 8,
+    "stem": "Pourquoi l'État veut-il lancer un plan vélo et quel est son objectif ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Son ambition : développer une véritable culture du vélo. Son objectif : tripler les\ndéplacements quotidiens des Français à vélo d'ici à 2024.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 10,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-D-q09-b2af7606",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 9,
+    "stem": "Que signifie l'expression « remporter la palme » ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Supériorité absolue dans un domaine quelconque, être le meilleur",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 10,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2022-D-q10-466c8ec3",
+    "subject": "D",
+    "scope": "common",
+    "year": 2022,
+    "number": 10,
+    "stem": "Selon le sondage, quel est le profil des cyclistes convaincus par la pratique du vélo ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Plutôt des hommes diplômés, âgés de moins de 35 ans et vivant en zone urbaine.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2022.pdf",
+    "sourceExamTitle": "25 octobre 2022 après-midi - D - Français",
+    "pdfPage": 10,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  }
+]

@@ -1,0 +1,1200 @@
+[
+  {
+    "id": "lot-A-01-2021-A-q01-6f0023fa",
+    "questionId": "2021-A-q01-6f0023fa",
+    "status": "suggested",
+    "pedagogicalExplanation": "Un contrôle routier de conducteur T3P relève de la compétence générale des officiers et agents de police judiciaire de la police nationale et de la gendarmerie nationale (constatation des infractions à la circulation et à la réglementation professionnelle). Le juge du tribunal judiciaire n’effectue pas de contrôle routier. Les agents de sécurité SNCF agissent sur le domaine ferroviaire, pas comme contrôleurs T3P sur la voie publique. Attention : l’énoncé dit « quels agents » et l’annale indique « question à choix multiple » — les deux réponses A et D sont attendues. L’identifiant technique de la question est corrompu (titre d’examen collé à l’énoncé).",
+    "documentaryRef": "Consultation 2026-10-13. Code de la route art. L. 130-4 (compétence OPJ/APJ police et gendarmerie pour contraventions liées à la circulation, sans préjudice de leur compétence générale). Code des transports art. R. 3124-12 (présentation de la carte aux « agents des services chargés des contrôles »). Compil. DGITM « Code des transports — T3P » (MAJ 06/01/2020), https://www.ecologie.gouv.fr/sites/default/files/documents/CodeTransportsT3PMAJ%2020012022.pdf. Légifrance : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045072417 (L. 130-4 code de la route).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": "lot-A-01-2021-A-q02-f1d3d2e2",
+    "questionId": "2021-A-q02-f1d3d2e2",
+    "status": "suggested",
+    "pedagogicalExplanation": "Une condamnation du tribunal correctionnel se conteste en appel devant la cour d’appel (voie de réformation de fait et de droit). La Cour de cassation n’est saisie qu’après appel, pour le droit seulement. Le tribunal correctionnel ne « rejugera » pas l’affaire hors voies de recours prévues ; le tribunal judiciaire n’est pas la juridiction d’appel du correctionnel.",
+    "documentaryRef": "Consultation 2026-10-13. Code de procédure pénale — appel des jugements correctionnels (art. 496 et s.). Légifrance code de procédure pénale : https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006071154/. Règle inchangée depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-A-01-2021-A-q03-f89927f8",
+    "questionId": "2021-A-q03-f89927f8",
+    "status": "suggested",
+    "pedagogicalExplanation": "Aucune disposition du code des transports n’assujettit l’exercice d’une activité T3P (taxi, VTC, VMDTR) à un seuil minimal d’habitants de la commune. Les seuils démographiques rencontrés ailleurs (ex. PDU / LOTI) ne créent pas une taille minimale de commune pour le T3P.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports, titre II livre Ier 3e partie (L. 3120-1 et s.) — absence de condition de taille de commune. Présentation ministérielle T3P : https://www.ecologie.gouv.fr/politiques-publiques/taxi-vtc-vmdtr-cpa-reglementation-transports-publics-particuliers-personnes. Inchangé depuis 2021 sur ce point.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-A-01-2021-A-q04-21f97d5d",
+    "questionId": "2021-A-q04-21f97d5d",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’agrément des centres de formation initiale ou continue des conducteurs de transport public particulier est délivré par le préfet du département du lieu du centre, ou par le préfet de police si le centre est à Paris. L’agrément vaut cinq ans. La formulation « les préfectures » de l’indication d’annale désigne cette autorité préfectorale.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-9 (agrément préfectoral des centres de formation T3P). Légifrance : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034389387. Compil. DGITM T3P. Inchangé sur le principe depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Le préfet du département où est situé le centre de formation (à Paris : le préfet de police). En pratique : les préfectures."
+  },
+  {
+    "id": "lot-A-01-2021-A-q05-ffc0ef7b",
+    "questionId": "2021-A-q05-ffc0ef7b",
+    "status": "suggested",
+    "pedagogicalExplanation": "La carte professionnelle de conducteur T3P est délivrée par l’autorité administrative : préfet du département (ou préfet de police à Paris). C’est cette autorité qui s’assure des conditions d’honorabilité, notamment via le bulletin n° 2 du casier judiciaire (art. R. 3120-8). Ni le préfet de région, ni le ministère chargé des transports, ni « les forces de l’ordre » en tant que telles ne délivrent la carte ni ne conduisent cette vérification administrative.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-2-2 (délivrance de la carte), R. 3120-6 (conditions de délivrance), R. 3120-8 (honorabilité / B2), R. 3122-10 (préfet / préfet de police pour VTC). Compil. DGITM T3P. Pages Service-Public consultées via recherche (F21907/F31027 ont renvoyé 404 le 2026-10-13 ; s’appuyer sur Légifrance/DGITM).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-A-01-2021-A-q06-94ae2b9a",
+    "questionId": "2021-A-q06-94ae2b9a",
+    "status": "suggested",
+    "pedagogicalExplanation": "Pour les VTC, l’arrêté du 26 mars 2015 fixe une ancienneté maximale de moins de six ans (sauf véhicules de collection), mais son article 2 exclut expressément les véhicules hybrides et électriques de ces exigences. L’article L. 3120-5 du code des transports confirme que les prestations T3P peuvent être effectuées avec des véhicules électriques ou hybrides par dérogation aux caractéristiques techniques réglementaires. Réponse annale et actuelle : aucune limite d’âge spécifique issue de cet arrêté pour un hybride. La question ne précise pas « VTC » mais s’inscrit dans le sujet T3P / cadre VTC de l’examen.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-5. Arrêté du 26 mars 2015 relatif aux caractéristiques des véhicules VTC, art. 1 et 2 (NOR DEVT1500042A) — art. 1 : moins de 6 ans ; art. 2 : inapplicable aux hybrides/électriques. Réponse ministérielle AN n°33449 (rappel de l’exonération d’âge pour hybrides/électriques). Inchangé sur le principe depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-A-01-2021-A-q07-61c19a41",
+    "questionId": "2021-A-q07-61c19a41",
+    "status": "suggested",
+    "pedagogicalExplanation": "Support papier ou électronique (R. 3120-2). RÉPONSE D’ANNALE 2021 : 2 mentions parmi la liste de l’arrêté 30/07/2013 / indication CMA (exploitant, RCS/RM ou SIREN, client+tél., dates/heures, lieu). RÉPONSE 2026 (depuis 30/10/2025) : liste de l’arrêté 06/08/2025 — nouveauté n° registre VTC (L. 3122-3) ; souplesse si coordonnées client absentes du justificatif. Ne pas fusionner les deux régimes.",
+    "documentaryRef": "Consultation 2026-10-13. Voir docs/reports/lot-A-01-validation.md §Q7. R. 3120-2 ; arrêté 30/07/2013 (régime 2021, abrogé) ; arrêté 06/08/2025 art. 1 (JO 29/08/2025, applic. 30/10/2025) https://librejustice.fr/norm/fr/arrete-du-6-aout-2025-relatif-au-justificatif-de-la-reservation-prealable-applicable-aux-voitures-de-transport-avec/1",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Support papier ou électronique. Deux mentions parmi : nom/dénomination et coordonnées de l’exploitant ; numéro d’identification (SIREN/SIRET) ; nom et téléphone du client ; date et heure de la réservation ; date, heure et lieu de prise en charge."
+  },
+  {
+    "id": "lot-A-01-2021-A-q08-2de1b526",
+    "questionId": "2021-A-q08-2de1b526",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le conducteur doit pouvoir présenter aux agents chargés des contrôles le justificatif de réservation préalable prévu à l’article R. 3120-2 (document écrit sur support papier ou électronique). C’est la pièce qui prouve le respect de L. 3120-2 (interdiction de maraudage hors taxi ADS).",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-2. Compil. DGITM T3P. Principe inchangé depuis 2021 ; seul le contenu détaillé du justificatif a évolué en 2025 (voir suggestion q07).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Un justificatif écrit de la réservation préalable, sur support papier ou électronique."
+  },
+  {
+    "id": "lot-A-01-2021-A-q09-080e6ea7",
+    "questionId": "2021-A-q09-080e6ea7",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le retrait (temporaire ou définitif) de la carte professionnelle pour violation de la réglementation applicable à la profession est une sanction administrative prise par l’autorité administrative compétente : le préfet (préfet de police à Paris) — art. L. 3124-11 et textes d’application. Ce n’est pas une sanction prononcée par un juge ; un jugement pénal peut en revanche faire cesser une condition d’honorabilité et entraîner restitution/retrait sur le fondement de R. 3120-6.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3124-11 ; R. 3124-4 / R. 3124-8 (autorité compétente = préfet / préfet de police) ; R. 3120-6 (retrait si conditions de délivrance non remplies). Compil. DGITM T3P. Inchangé sur le principe depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-A-01-2021-A-q10-ac166b31",
+    "questionId": "2021-A-q10-ac166b31",
+    "status": "suggested",
+    "pedagogicalExplanation": "Deux obligations distinctes : (1) justificatif d’assurance pour le transport de personnes à titre onéreux présenté aux contrôles (R. 3120-4 / code des assurances) — RC circulation adaptée à l’usage professionnel ; (2) contrat couvrant la responsabilité civile professionnelle (L. 3120-4). Une assurance auto « particulière » insuffisante pour l’usage T3P ne suffit pas.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-4 et R. 3120-4. Compil. DGITM T3P. Indication annale CMA 2021 (RC circulation + RC professionnelle). Cadre inchangé depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "1) Assurance responsabilité civile circulation du véhicule couvrant le transport de personnes à titre onéreux. 2) Assurance responsabilité civile professionnelle."
+  },
+  {
+    "id": "lot-A-01-2021-A-q11-01fdc9ac",
+    "questionId": "2021-A-q11-01fdc9ac",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le cœur de la réglementation T3P (accès à la profession, exercice, véhicules, sanctions) figure dans le code des transports (3e partie, livre Ier, titre II). Le code pénal et le code du travail peuvent s’appliquer ponctuellement ; il n’existe pas de « code préfectoral ».",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-1 à L. 3124-15. Ministère des Transports — page T3P. Compil. DGITM T3P. Inchangé depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "d"
+    ]
+  },
+  {
+    "id": "lot-A-01-2021-A-q12-adcd7c27",
+    "questionId": "2021-A-q12-adcd7c27",
+    "status": "suggested",
+    "pedagogicalExplanation": "Un véhicule électrique (comme un hybride) peut être utilisé pour le T3P par dérogation aux caractéristiques techniques imposées par voie réglementaire (L. 3120-5). Pour les VTC, l’arrêté du 26 mars 2015 (âge, dimensions, puissance) ne s’applique pas aux électriques/hybrides. D’où « sans contraintes particulières » au sens de ces contraintes techniques réglementaires — sans que cela dispense des autres obligations (assurance, signalétique VTC, etc.).",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-5. Arrêté du 26 mars 2015 art. 2. Compil. DGITM T3P. Inchangé sur le principe depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "d"
+    ]
+  },
+  {
+    "id": "lot-A-01-2021-A-q13-ce3e9c73",
+    "questionId": "2021-A-q13-ce3e9c73",
+    "status": "suggested",
+    "pedagogicalExplanation": "Règle (R. 221-11 via D. 3120-5) : 5 ans <60 ; 2 ans dès 60 ; 1 an dès 76. ANNALE 2021 (27/10/2021) : 71 ans → B = 2 ans. AUJOURD’HUI (13/10/2026) : même naissance → >76 ans → C = 1 an. La suggestion conserve B (réponse historique).",
+    "documentaryRef": "Consultation 2026-10-13. Voir docs/reports/lot-A-01-validation.md §Q13. D. 3120-5 ; R. 221-11 code de la route ; Service-Public F1255 https://www.service-public.gouv.fr/particuliers/vosdroits/F1255",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-A-01-2021-A-q14-00110411",
+    "questionId": "2021-A-q14-00110411",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le retrait peut être une sanction administrative (L. 3124-11) ou la conséquence de la disparition d’une condition d’exercice (R. 3120-6 : restitution, sinon retrait après observations). Exemples concrets retenus en pédagogie d’examen : annulation du permis ; condamnation pénale / atteinte à l’honorabilité (R. 3120-8). L’indication d’annale cite annulation du permis et délits prévus par le code des transports / honorabilité.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3124-11, R. 3120-6, R. 3120-8. Compil. DGITM T3P. Indication annale CMA 2021. Cadre inchangé sur le principe depuis 2021.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Deux cas parmi : (1) violation de la réglementation applicable à la profession (avertissement, retrait temporaire ou définitif — L. 3124-11) ; (2) une des conditions de délivrance cesse d’être remplie (ex. annulation/invalidation du permis, condamnation figurant au B2 au sens de R. 3120-8) — R. 3120-6."
+  },
+  {
+    "id": "lot-A-01-2021-A-q15-bfd027be",
+    "questionId": "2021-A-q15-bfd027be",
+    "status": "suggested",
+    "pedagogicalExplanation": "Aucune disposition du code des transports ne fixe un kilométrage maximal par course pour un conducteur T3P. Les limitations portent sur d’autres points (réservation préalable, stationnement aux gares/aéroports, etc.), pas sur une distance maximale de prestation.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-1 et s. — absence de plafond kilométrique de course. Compil. DGITM T3P. Inchangé depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "d"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q01-34dc9cf1",
+    "questionId": "2022-A-q01-34dc9cf1",
+    "status": "suggested",
+    "pedagogicalExplanation": "La carte professionnelle de conducteur T3P est délivrée par l’autorité administrative : le préfet du département (ou le préfet de police à Paris). En pratique, le service compétent est la préfecture. Ni la DREAL, ni la DIRECCTE, ni la mairie ne délivrent cette carte.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-2-2, R. 3120-6, R. 3122-10 (VTC : préfet / préfet de police). Compil. DGITM T3P. ID corrigé depuis legacy 2022-A-q58132-e3694fd5.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q02-5eca2b6a",
+    "questionId": "2022-A-q02-5eca2b6a",
+    "status": "suggested",
+    "pedagogicalExplanation": "Un service régulier s’oppose au service occasionnel : il est organisé de façon permanente selon un parcours et un schéma d’exploitation préétablis (itinéraire, arrêts, horaires/fréquence, tarifs). L’indication d’annale CMA reprend ces critères. Cadre : transports publics routiers de personnes (code des transports), distinct du T3P à la demande.",
+    "documentaryRef": "Consultation 2026-10-13. Indication annale CMA 2022. Code des transports — services réguliers de transport public routier de personnes (livre Ier 3e partie, titre Ier). Compil./page ministère transports. Confiance limitée à la formulation exacte d’article non relu mot à mot dans cette session.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Transport collectif de personnes défini par un itinéraire, des points d’arrêt, une fréquence (ou horaires), et des conditions tarifaires."
+  },
+  {
+    "id": "lot-A-02-2022-A-q03-1ce22607",
+    "questionId": "2022-A-q03-1ce22607",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’examen d’accès comporte des épreuves écrites d’admissibilité et une épreuve pratique d’admission (R. 3120-7). Les options « préparation » et « intégration » ne correspondent pas au texte. L’annale marque « choix multiple » : B et D sont les deux composantes légales. Si le barème n’accepte qu’une case, validation humaine requise.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-7. Arrêté du 6 avril 2017 relatif aux programmes et à l’évaluation des épreuves (JORF). Compil. DGITM T3P.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b",
+      "d"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q04-6687ebc8",
+    "questionId": "2022-A-q04-6687ebc8",
+    "status": "suggested",
+    "pedagogicalExplanation": "En contrôle, le conducteur T3P doit pouvoir présenter les titres de circulation et d’identification du véhicule, la carte professionnelle (R. 3120-6 / R. 3124-12), et les justificatifs d’assurance (R. 3120-4 et L. 3120-4). L’indication CMA ajoute l’attestation de formation (formation continue R. 3120-8-2).",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports R. 3120-4, R. 3120-6, R. 3120-8-2, R. 3124-12 ; L. 3120-4. Indication annale CMA 2022. Compil. DGITM T3P.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Permis de conduire ; carte grise ; justificatif d’assurance du véhicule (transport de personnes à titre onéreux) ; justificatif d’assurance RC professionnelle ; carte professionnelle en cours de validité ; attestation de formation continue le cas échéant."
+  },
+  {
+    "id": "lot-A-02-2022-A-q05-da1c93e8",
+    "questionId": "2022-A-q05-da1c93e8",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’honorabilité professionnelle (R. 3120-8) exclut notamment une condamnation définitive pour infraction à la législation sur les stupéfiants. Le franchissement d’un feu rouge n’est pas, en soi, dans cette liste ; l’inaptitude médicale et le non-exercice ne sont pas des « délits » justifiant le refus au sens de la question.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-8 (3° : stupéfiants notamment). Compil. DGITM T3P.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "d"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q06-0f587e83",
+    "questionId": "2022-A-q06-0f587e83",
+    "status": "suggested",
+    "pedagogicalExplanation": "LOTI = Loi d’orientation des transports intérieurs (loi n° 82-1153 du 30 décembre 1982), texte fondateur recodifié pour partie dans le code des transports.",
+    "documentaryRef": "Consultation 2026-10-13. Loi n° 82-1153 du 30 décembre 1982 d’orientation des transports intérieurs — https://www.legifrance.gouv.fr (recherche LOTI) ; notice CEREMA/DTRF. Inchangé quant à la signification du sigle.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q07-5583c18d",
+    "questionId": "2022-A-q07-5583c18d",
+    "status": "suggested",
+    "pedagogicalExplanation": "Seule l’affirmation A est exacte : délivrance par le préfet ou le préfet de police. La carte ne mentionne pas le résultat d’examen ni une commune d’autorisation d’exercice au sens d’une ADS ; la mairie ne délivre pas la carte pro conducteur T3P.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-2-2, R. 3120-6, R. 3122-10. Compil. DGITM T3P.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q08-d99af71e",
+    "questionId": "2022-A-q08-d99af71e",
+    "status": "suggested",
+    "pedagogicalExplanation": "R. 3120-6 impose la restitution de la carte (1) en cas de cessation définitive d’activité et (2) lorsqu’une condition de délivrance cesse d’être remplie. Une condamnation correctionnelle n’entraîne restitution automatique que si elle fait disparaître l’honorabilité ou une autre condition. L’annale indique « choix multiple » : A et D. Si barème mono-réponse, validation humaine.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-6 (alinéas restitution). Compil. DGITM T3P.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q09-df7e60ee",
+    "questionId": "2022-A-q09-df7e60ee",
+    "status": "suggested",
+    "pedagogicalExplanation": "Les collèges État et professionnels sont membres de la commission (voix délibérative). Les représentants des organisations professionnelles des centrales de réservation sont invités comme personnes qualifiées sans voix délibérative (voix consultative) lorsque leur activité a un impact significatif (D. 3120-31).",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. D. 3120-26 (composition) et D. 3120-31 (invités sans voix délibérative) — https://librejustice.fr/norm/fr/code-des-transports/d3120-31 (base LEGI). Compil. DGITM T3P.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q10-c3de9d58",
+    "questionId": "2022-A-q10-c3de9d58",
+    "status": "suggested",
+    "pedagogicalExplanation": "Même dualité qu’en 2021 : R. 3120-4 / assurance circulation pour TPP à titre onéreux + L. 3120-4 RC professionnelle.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-4 et R. 3120-4. Indication annale CMA 2022. Compil. DGITM T3P.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Responsabilité civile circulation (RCC) adaptée au transport de personnes à titre onéreux ; responsabilité civile professionnelle (RCP)."
+  },
+  {
+    "id": "lot-A-02-2022-A-q11-59f68ab9",
+    "questionId": "2022-A-q11-59f68ab9",
+    "status": "suggested",
+    "pedagogicalExplanation": "L. 3124-11 énumère les sanctions administratives : avertissement, retrait temporaire ou définitif de la carte, en cas de violation de la réglementation applicable à la profession. Autorité : préfet (R. 3124-4 / R. 3124-8).",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3124-11, R. 3124-4, R. 3124-8. Indication annale CMA 2022. Compil. DGITM T3P.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Avertissement ; retrait temporaire de la carte professionnelle ; retrait définitif de la carte professionnelle."
+  },
+  {
+    "id": "lot-A-02-2022-A-q12-d0682d45",
+    "questionId": "2022-A-q12-d0682d45",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’honorabilité n’est pas une notion morale vague : R. 3120-8 liste les condamnations qui font obstacle à l’exercice. L’indication CMA « B2 vierge » est une formule pédagogique : le B2 ne doit pas comporter les peines listées.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-2-1 (honorabilité) et R. 3120-8. Indication annale CMA 2022. Compil. DGITM T3P.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Condition d’honorabilité professionnelle : absence au bulletin n° 2 du casier judiciaire des condamnations limitativement énumérées à l’article R. 3120-8 (souvent résumée en examen par « B2 vierge » des peines concernées)."
+  },
+  {
+    "id": "lot-A-02-2022-A-q13-1e2b58e4",
+    "questionId": "2022-A-q13-1e2b58e4",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’aptitude professionnelle est en principe constatée par la réussite à l’examen (R. 3120-7). Une simple formation ne suffit pas. L’expérience de conducteur n’est pas la voie obligatoire générale (des équivalences existent pour certains profils, hors option A telle que rédigée).",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. L. 3120-2-1 et R. 3120-7. Compil. DGITM T3P. Point de vigilance : équivalences / VMDTR — validation humaine si le barème vise une autre option.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q14-9cbb981d",
+    "questionId": "2022-A-q14-9cbb981d",
+    "status": "suggested",
+    "pedagogicalExplanation": "Un litige de tarification de course relève du contentieux civil de consommation / contrat, historiquement évoqué sous l’appellation « juge de proximité ». La préfecture traite surtout les manquements professionnels (et précise souvent ne pas traiter les remboursements). Prud’hommes = travail ; tribunal de commerce = commerçants entre eux. Attention : terminologie 2026 = tribunal de proximité / tribunal judiciaire (petits litiges).",
+    "documentaryRef": "Consultation 2026-10-13. Service-Public F35125 (tribunal de proximité, litiges ≤ 10 000 €) https://www.service-public.gouv.fr/particuliers/vosdroits/F35125. Formulaire Pref. Police : incompétence pour remboursements. Confiance moyenne : libellé d’examen « juge de proximité » daté.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-A-02-2022-A-q15-5f99467b",
+    "questionId": "2022-A-q15-5f99467b",
+    "status": "suggested",
+    "pedagogicalExplanation": "La formation continue est obligatoire tous les cinq ans ; l’attestation est valable cinq ans (R. 3120-8-2).",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports art. R. 3120-8-2. Compil. DGITM T3P. Inchangé depuis 2022.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-B-01-2021-B-q02-f93825f9",
+    "questionId": "2021-B-q02-f93825f9",
+    "status": "suggested",
+    "pedagogicalExplanation": "En comptabilité, le résultat d’exploitation = produits d’exploitation − charges d’exploitation. Si les charges sont inférieures aux produits, le résultat est positif : bénéfice d’exploitation. Ce n’est pas, en soi, un dépôt de bilan ni une perte.",
+    "documentaryRef": "Consultation 2026-10-13. Notion de résultat d’exploitation (plan comptable / pédagogie gestion). Pas de texte pénal spécifique — raisonnement comptable standard. Inchangé 2021→2026.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-B-01-2021-B-q03-7d37122c",
+    "questionId": "2021-B-q03-7d37122c",
+    "status": "suggested",
+    "pedagogicalExplanation": "Les statuts fixent la durée de la société, qui ne peut excéder 99 ans (prorogeable par périodes ≤ 99 ans). Réponse : 99 ans.",
+    "documentaryRef": "Consultation 2026-10-13. Code de commerce art. L. 210-2 — https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000005634379/LEGISCTA000006113739/ ; Service-Public Entreprendre F36201 https://entreprendre.service-public.gouv.fr/vosdroits/F36201. Inchangé depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "d"
+    ]
+  },
+  {
+    "id": "lot-B-01-2021-B-q04-715861bf",
+    "questionId": "2021-B-q04-715861bf",
+    "status": "suggested",
+    "pedagogicalExplanation": "RÉPONSE D’ANNALE 2021 : l’extrait d’immatriculation au Répertoire des Métiers s’appelait extrait D1 (équivalent artisan du Kbis commercial). RÉPONSE 2026 : depuis le 1er janvier 2023, le RM est intégré au Registre national des entreprises (RNE) ; l’extrait D1 n’est plus délivré — le justificatif est l’attestation/extrait RNE (DGE / Service-Public). La suggestion conserve B comme réponse historique d’examen.",
+    "documentaryRef": "Consultation 2026-10-13. Service-Public Entreprendre A18918 (Kbis vs RNE) https://entreprendre.service-public.gouv.fr/actualites/A18918 ; DGE — attestation RNE https://www.entreprises.gouv.fr/la-dge/actualites/attestation-dimmatriculation-au-registre-national-des-entreprises-ou-extrait-rne. Question potentiellement obsolète dans sa formulation.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-B-01-2021-B-q05-776b254b",
+    "questionId": "2021-B-q05-776b254b",
+    "status": "suggested",
+    "pedagogicalExplanation": "En amortissement linéaire (constant), la base amortissable HT est répartie également sur la durée d’utilisation. 21 000 / 3 = 7 000 € HT par an. (Pas de valeur résiduelle indiquée.)",
+    "documentaryRef": "Consultation 2026-10-13. Indication annale CMA 2021. Règle d’amortissement linéaire (CGI / plan comptable — principe pédagogique). Inchangé sur le calcul.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Amortissement linéaire annuel = 21 000 € HT ÷ 3 = 7 000 € HT."
+  },
+  {
+    "id": "lot-B-01-2021-B-q06-3b9206b5",
+    "questionId": "2021-B-q06-3b9206b5",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’immatriculation artisanale exigeait classiquement une qualification professionnelle (ou équivalence) pour l’activité concernée. Le permis D n’est pas requis pour le T3P léger ; la propriété du véhicule n’est pas une condition d’immatriculation au RM. Vigilance 2026 : formalités via guichet unique / RNE — le libellé « Répertoire des Métiers » est daté.",
+    "documentaryRef": "Consultation 2026-10-13. Cadre historique répertoire des métiers / qualification artisanale (code de l’artisanat). Évolution 2023 RNE — Service-Public Entreprendre. Confiance moyenne-élevée sur A ; formulation RM à signaler comme potentiellement obsolète.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-B-01-2021-B-q07-64d444dd",
+    "questionId": "2021-B-q07-64d444dd",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le code APE (activité principale exercée / NAF) est attribué par l’INSEE à partir de l’activité déclarée, à des fins statistiques. Ni l’URSSAF, ni la CMA, ni la SSI ne l’attribuent.",
+    "documentaryRef": "Consultation 2026-10-13. INSEE FAQ Sirene « Qui attribue le code APE ? » https://www.insee.fr/fr/information/6790269?question=qui-attribue-le-code-ape ; Service-Public F33050 https://entreprendre.service-public.gouv.fr/vosdroits/F33050. Inchangé depuis 2021 (NAF 2025 à venir 2027 — hors question).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "d"
+    ]
+  },
+  {
+    "id": "lot-B-01-2021-B-q08-8dd210c6",
+    "questionId": "2021-B-q08-8dd210c6",
+    "status": "suggested",
+    "pedagogicalExplanation": "SARL = Société À Responsabilité Limitée. « Société anonyme à responsabilité limitée » mélange SARL et SA.",
+    "documentaryRef": "Consultation 2026-10-13. Code de commerce — sociétés à responsabilité limitée (L. 223-1 et s.). Définition statutaire inchangée.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-B-01-2021-B-q09-b0bcc50d",
+    "questionId": "2021-B-q09-b0bcc50d",
+    "status": "suggested",
+    "pedagogicalExplanation": "Par construction, le bilan est toujours équilibré : total de l’actif = total du passif (capitaux propres + dettes). Un bénéfice ou une perte apparaît dans le compte de résultat et se retrouve dans les capitaux propres, pas comme un déséquilibre actif/passif.",
+    "documentaryRef": "Consultation 2026-10-13. Principe d’équilibre du bilan (PCG). Inchangé 2021→2026.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-B-01-2021-B-q10-7249cd8b",
+    "questionId": "2021-B-q10-7249cd8b",
+    "status": "suggested",
+    "pedagogicalExplanation": "Une personne morale est une entité juridique (société, association, etc.) distincte des personnes physiques. L’indication CMA (« regroupement… ») est une formulation pédagogique partielle : la personnalité morale naît notamment de l’immatriculation pour les sociétés (code civil / code de commerce).",
+    "documentaryRef": "Consultation 2026-10-13. Code civil art. 1842 (personnalité des sociétés) ; indication annale CMA 2021. Confiance medium sur la formulation exacte attendue à l’examen.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Sujet de droit distinct des personnes physiques qui le composent (ex. société, association), doté de la personnalité juridique lui permettant d’avoir des droits et obligations propres."
+  },
+  {
+    "id": "lot-B-01-2021-B-q11-53bdeb27",
+    "questionId": "2021-B-q11-53bdeb27",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le président de SASU, lorsqu’il est rémunéré, est affilié au régime général en qualité d’assimilé salarié (pas salarié au sens du droit du travail ; pas de cotisation chômage sur le mandat). « Salarié » / « travailleur salarié » sont inexactes au sens strict.",
+    "documentaryRef": "Consultation 2026-10-13. Service-Public Entreprendre F36240 https://entreprendre.service-public.gouv.fr/vosdroits/F36240 ; Code de la sécurité sociale art. L. 311-3 (assimilés). Inchangé sur le principe depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q02-4e9aec96",
+    "questionId": "2021-C-q02-4e9aec96",
+    "status": "suggested",
+    "pedagogicalExplanation": "La pluie diminue l’adhérence : la distance de freinage s’allonge, donc la distance d’arrêt aussi. Le temps de réaction n’est pas « allongé » ; l’adhérence diminue. Type PDF single conservé : proposition pédagogique B (freinage). C (distance d’arrêt) reste physiquement lié — barème humain requis avant notation (anomalie Phase 7).",
+    "documentaryRef": "Consultation 2026-10-13. Pédagogie Sécurité routière (distances freinage/arrêt). Phase 7 : docs/reports/anomalies-resolution.md — type single non modifié artificiellement.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T16:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q03-23bb0d60",
+    "questionId": "2021-C-q03-23bb0d60",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’usage d’un téléphone tenu en main par le conducteur en circulation entraîne de plein droit la réduction de trois points du permis (contravention 4e classe).",
+    "documentaryRef": "Consultation 2026-10-13. Code de la route art. R. 412-6-1 — https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159599/ (section principes généraux). Inchangé sur le retrait de 3 points depuis bien avant 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q04-3f61e04a",
+    "questionId": "2021-C-q04-3f61e04a",
+    "status": "suggested",
+    "pedagogicalExplanation": "Pour un accident à dégâts matériels seuls, R. 231-1 impose : (1°) s’arrêter dès que possible sans créer de danger ; (2°) communiquer identité et adresse aux personnes impliquées. Avertir police/gendarmerie n’est obligatoire que s’il y a blessés ou tués (3°).",
+    "documentaryRef": "Consultation 2026-10-13. Code de la route art. R. 231-1 — https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074228/LEGISCTA000006143853/2017-11-05/. Texte justifie explicitement C et D. Type extrait « single » mais deux obligations cumulatives — validation humaine barème.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c",
+      "d"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q05-d84d0b34",
+    "questionId": "2021-C-q05-d84d0b34",
+    "status": "suggested",
+    "pedagogicalExplanation": "R. 412-37 : (1) traverser en tenant compte de la visibilité, de la distance et de la vitesse des véhicules (A) ; (2) utiliser les passages prévus lorsqu’il en existe à moins de 50 m (D). B et C sont faux. Type PDF single conservé malgré deux obligations cumulatives — ne pas passer en multiple sans consigne d’annale.",
+    "documentaryRef": "Consultation 2026-10-13. Code de la route art. R. 412-37 — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023095943. Phase 7 : anomalies-resolution.md — barème humain requis.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T16:00:00.000Z",
+    "proposedChoiceIds": [
+      "a",
+      "d"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q06-a4235dde",
+    "questionId": "2021-C-q06-a4235dde",
+    "status": "suggested",
+    "pedagogicalExplanation": "En cas de récidive de conduite après usage de stupéfiants, la peine complémentaire d’annulation du permis avec interdiction de le repasser pendant un délai est encourue (cadre L. 235-1 et peines associées). La suspension peut aussi exister, mais l’annulation est la réponse typiquement attendue pour la récidive.",
+    "documentaryRef": "Consultation 2026-10-13. Code de la route L. 235-1 et peines complémentaires associées (annulation). Sécurité routière. Confiance medium-high — autres peines (confiscation) possibles ; A est la plus spécifique à la récidive dans les choix.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q07-3fcdd133",
+    "questionId": "2021-C-q07-3fcdd133",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le voyant de réserve n’impose pas un arrêt d’urgence ni les feux de détresse. La conduite prudente consiste à rejoindre la prochaine station-service sans paniquer. Ce n’est pas une règle codifiée précise — réponse pédagogique sécurité routière.",
+    "documentaryRef": "Consultation 2026-10-13. Pédagogie conduite / Sécurité routière (comportement voyant carburant). Pas d’article du code imposant B — confiance low-medium ; validation humaine.",
+    "confidence": "low",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q08-4bea5117",
+    "questionId": "2021-C-q08-4bea5117",
+    "status": "suggested",
+    "pedagogicalExplanation": "Depuis le 1er janvier 2017 (décret 2016-448), le facteur de transmission de la lumière doit être d’au moins 70 % pour le pare-brise et les vitres latérales avant. Les vitres arrière ne sont pas soumises à ce seuil. Attention orthographe de l’énoncé (« pare-prise » = pare-brise).",
+    "documentaryRef": "Consultation 2026-10-13. Décret n° 2016-448 du 13 avril 2016 ; Code de la route art. R. 316-3 (transparence ≥ 70 % vitres avant). Préfecture Réunion / Sécurité routière. Règle déjà en vigueur en 2021 et en 2026.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q09-b9b5e399",
+    "questionId": "2021-C-q09-b9b5e399",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le triangle de présignalisation se place sur la chaussée à environ 30 mètres (au moins) en amont du véhicule immobilisé, sauf mise en danger manifeste du conducteur. Sur autoroute/voie rapide la pratique recommande souvent davantage, mais le choix d’examen parmi A/B/C est 30 m.",
+    "documentaryRef": "Consultation 2026-10-13. Arrêté du 30 septembre 2008 relatif à la présignalisation ; art. R. 416-19 code de la route. DGCCRF fiche triangle/gilet https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Triangles-de-pre-signalisation-gilets-de-securite. Inchangé sur 30 m.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q10-f7267642",
+    "questionId": "2021-C-q10-f7267642",
+    "status": "suggested",
+    "pedagogicalExplanation": "En agglomération, l’avertisseur sonore n’est autorisé qu’en cas de danger immédiat (pas pour saluer, et pas la formule « avertissements nécessaires » qui vaut hors agglo).",
+    "documentaryRef": "Consultation 2026-10-13. Code de la route art. R. 416-1 ; Service-Public F35343 https://www.service-public.gouv.fr/particuliers/vosdroits/F35343. Inchangé depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-C-01-2021-C-q11-fc740260",
+    "questionId": "2021-C-q11-fc740260",
+    "status": "suggested",
+    "pedagogicalExplanation": "Règle pédagogique classique : distance de freinage ≈ (V/10)². À 90 km/h : 9² = 81 m ≈ 80 m. (La distance d’arrêt ajoute le temps de réaction ; selon les barèmes, 80 m désigne souvent la distance de freinage présentée comme « d’arrêt » approximative dans les QCM.)",
+    "documentaryRef": "Consultation 2026-10-13. Formule pédagogique Sécurité routière / code de la route (distances). Ambiguïté freinage vs arrêt — confiance medium.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-D-01-2021-D-q01-5033fa43",
+    "questionId": "2021-D-q01-5033fa43",
+    "status": "suggested",
+    "pedagogicalExplanation": "D’après le texte 20 Minutes (illustration p.9), le pick-up le plus apprécié depuis longtemps aux États-Unis est le Ford F-150 ; le Cybertruck est présenté comme un concurrent atypique. SpaceX n’est pas un pick-up ; « Blade Runner » désigne l’esthétique / surnom du concept, pas le modèle de référence du marché.",
+    "documentaryRef": "Consultation 2026-10-13. Texte d’annale CMA 2021 D (capture `/annales/images/2021-p9.png`) — article 20 Minutes 22/11/2019 https://www.20minutes.fr/monde/2657443-20191122-gros-fail-design-douteux-elon-musk-presente-cybertruck-100-electrique-tesla. Compréhension de document, pas de norme juridique.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-D-01-2021-D-q02-78f6c3f9",
+    "questionId": "2021-D-q02-78f6c3f9",
+    "status": "suggested",
+    "pedagogicalExplanation": "Un prototype est un modèle d’essais / d’études avant une diffusion en série. Ce n’est ni le dernier modèle d’une série, ni un modèle déjà diffusé à grande échelle. Le texte évoque le prototype Cybertruck présenté lors du show.",
+    "documentaryRef": "Consultation 2026-10-13. Lexique français courant + texte d’annale 20 Minutes (prototype / démonstration). Définition pédagogique standard.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-D-01-2021-D-q03-ba70d707",
+    "questionId": "2021-D-q03-ba70d707",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le texte cite Jessica Caldwell (Edmunds) : le véhicule peut avoir du mal à séduire la clientèle traditionnelle de pick-up parce qu’il « ne ressemble à rien d’autre » (design radical). L’électricité et le prix sont évoqués mais ne sont pas la raison mise en avant pour cette difficulté de séduction traditionnelle.",
+    "documentaryRef": "Consultation 2026-10-13. Texte d’annale 20 Minutes / citation Edmunds dans `/annales/images/2021-p9.png`. Compréhension ciblée.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-D-01-2021-D-q04-9c2d7e6c",
+    "questionId": "2021-D-q04-9c2d7e6c",
+    "status": "suggested",
+    "pedagogicalExplanation": "« Arborer » signifie porter / afficher ostensiblement (ex. arborer un logo, un macaron). Parmi les choix, Afficher est le synonyme correct. Cacher et Dissimuler sont des antonymes ; Révéler est proche mais moins exact (dévoiler un secret plutôt qu’exhiber).",
+    "documentaryRef": "Consultation 2026-10-13. Dictionnaire de français (CNRTL / Larousse — « arborer »). Texte d’annale pour le contexte d’emploi. Énoncé « synonyme(s) » : une réponse principale attendue côté banque `single`.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-D-01-2021-D-q05-cebbac15",
+    "questionId": "2021-D-q05-cebbac15",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’indication CMA et le texte décrivent le « fail » du show : revendication de résistance (marteaux, billes d’acier, balles) puis casse de la vitre sous les yeux du public. Orthographe de l’indication PDF (« résistent », « vitre ») à ne pas recopier telle quelle.",
+    "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 D Q5 + texte 20 Minutes (`/annales/images/2021-p9.png`).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Parce que le véhicule était présenté comme très résistant aux attaques extérieures, mais une vitre du prototype a été cassée par le lancer d’une bille d’acier lors de la démonstration."
+  },
+  {
+    "id": "lot-D-01-2021-D-q06-dc843594",
+    "questionId": "2021-D-q06-dc843594",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le texte précise que l’alliage d’acier inoxydable développé pour le Cybertruck est le même que celui utilisé pour les fusées SpaceX. Blade Runner = esthétique ; F-150 = concurrent marché.",
+    "documentaryRef": "Consultation 2026-10-13. Texte d’annale 20 Minutes (`/annales/images/2021-p9.png`) — mention SpaceX / fusées.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-D-01-2021-D-q07-7fb4def9",
+    "questionId": "2021-D-q07-7fb4def9",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le texte indique trois versions tarifaires, la plus chère (~69 900 $) annoncée avec une autonomie d’environ 800 km. 400 km correspond à une version d’entrée ; 100 km n’apparaît pas.",
+    "documentaryRef": "Consultation 2026-10-13. Texte d’annale 20 Minutes (`/annales/images/2021-p9.png`) — autonomie max 800 km. Chiffres d’annonce 2019 (pas une norme).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-D-01-2021-D-q08-66adca1c",
+    "questionId": "2021-D-q08-66adca1c",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’indication CMA souligne que Tesla mise sur la nouveauté et que les polémiques renforcent son succès / sa visibilité. Réponse pédagogique de compréhension, pas juridique.",
+    "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 D Q8 + citation du texte 20 Minutes / Edmunds.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Tesla cultive l’innovation et la rupture ; la polémique (design atypique, « fail » du show) fait partie de son image et alimente sa notoriété — « si ce n’était pas un peu polémique, ce ne serait pas une Tesla »."
+  },
+  {
+    "id": "lot-D-01-2021-D-q09-265a781b",
+    "questionId": "2021-D-q09-265a781b",
+    "status": "suggested",
+    "pedagogicalExplanation": "Dans le texte (« allure futuriste et cyberpunk »), « allure » désigne l’aspect / l’apparence du véhicule, pas la vitesse. Style (C) reste un quasi-synonyme : ambiguïté résiduelle Aspect vs Style. Proposition pédagogique A ; notation bloquée jusqu’à tranché humain.",
+    "documentaryRef": "Consultation 2026-10-13. Texte d’annale + image `/annales/images/2021-p9.png` (vérifiée thématiquement Cybertruck). Phase 7 : anomalies-resolution.md.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T16:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-D-01-2021-D-q10-4d0b6f0e",
+    "questionId": "2021-D-q10-4d0b6f0e",
+    "status": "suggested",
+    "pedagogicalExplanation": "Recopie structurée de l’indication CMA / du texte. Toute liste d’au moins quatre traits issus du document est acceptable.",
+    "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 D Q10 + texte 20 Minutes.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "100 % électrique ; lignes épurées ; allure futuriste / cyberpunk ; 6 places ; traction ~7 tonnes ; charge utile ~1,5 t ; acier inoxydable ultrarésistant ; 0–100 km/h en ~3 s (au moins 4 caractéristiques attendues)."
+  },
+  {
+    "id": "lot-E-01-2021-E-q01-838fcf42",
+    "questionId": "2021-E-q01-838fcf42",
+    "status": "suggested",
+    "pedagogicalExplanation": "« Savez-vous de quand date ce bâtiment historique ? » = demande sur la date de construction → « do you know when this historical monument was built ? ». A porte sur la visite ; B sur la connaissance de monuments classés. Illustration du bâtiment absente des extractions (aucune association inventée) — blocage notation maintenu.",
+    "documentaryRef": "Consultation 2026-10-13. Équivalence FR→EN. Inventaire images : pas de bâtiment E. Phase 7 : anomalies-resolution.md.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T16:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-E-01-2021-E-q02-4b357b6d",
+    "questionId": "2021-E-q02-4b357b6d",
+    "status": "suggested",
+    "pedagogicalExplanation": "« You will see » = tu verras / vous verrez (constatation future). Look (regarder activement) et watch (regarder attentivement, un spectacle) ne conviennent pas à cette tournure impersonnelle sur la découverte de l’île.",
+    "documentaryRef": "Consultation 2026-10-13. Grammaire / usage see vs look vs watch (anglais courant).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-E-01-2021-E-q03-4d41b751",
+    "questionId": "2021-E-q03-4d41b751",
+    "status": "suggested",
+    "pedagogicalExplanation": "« Passer me prendre » = pick me up. Formule polie : could you pick me up here tomorrow at 6, please? A « take me here » est calque incorrect ; B « pick me on here » est agrammatical.",
+    "documentaryRef": "Consultation 2026-10-13. Phrasal verb pick somebody up (chercher quelqu’un en voiture).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-E-01-2021-E-q04-b8b4897a",
+    "questionId": "2021-E-q04-b8b4897a",
+    "status": "suggested",
+    "pedagogicalExplanation": "« Thank you for the ride, keep the change » = Merci pour la course, gardez la monnaie. A confond change/monnaie avec « ne changez pas » ; B invente « attendu » et « bill ».",
+    "documentaryRef": "Consultation 2026-10-13. Vocabulaire taxi : ride = course ; keep the change = gardez la monnaie.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-E-01-2021-E-q05-e87e2e46",
+    "questionId": "2021-E-q05-e87e2e46",
+    "status": "suggested",
+    "pedagogicalExplanation": "« Passez-vous un agréable séjour… ? » vise le déroulement du séjour → « do you enjoy your stay in France? » (ou are you enjoying…). B trop général ; C incorrect.",
+    "documentaryRef": "Consultation 2026-10-13. EN professionnel tourisme / VTC — enjoy one’s stay.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-E-01-2021-E-q06-fdae0354",
+    "questionId": "2021-E-q06-fdae0354",
+    "status": "suggested",
+    "pedagogicalExplanation": "3e personne du singulier au présent simple : She speaks English very well. « speak » sans -s est incorrect ; « spoken » est un participe passé.",
+    "documentaryRef": "Consultation 2026-10-13. Présent simple — accord sujet/verbe (she/he/it + V-s).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-E-01-2021-E-q07-1c505f77",
+    "questionId": "2021-E-q07-1c505f77",
+    "status": "suggested",
+    "pedagogicalExplanation": "« Have you come for the music festival? » = Êtes-vous venu(s) pour le festival de musique ? (but de la venue). B porte sur le billet ; C « allés » / gone change le sens.",
+    "documentaryRef": "Consultation 2026-10-13. Present perfect come for + événement.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-E-01-2021-E-q08-38f358a9",
+    "questionId": "2021-E-q08-38f358a9",
+    "status": "suggested",
+    "pedagogicalExplanation": "« Souhaitez-vous un reçu ? » = Would you like a receipt? Bill = addition ; ticket = billet / PV selon contexte, pas le reçu de course.",
+    "documentaryRef": "Consultation 2026-10-13. Vocabulaire paiement : receipt = reçu.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-E-01-2021-E-q09-274aae34",
+    "questionId": "2021-E-q09-274aae34",
+    "status": "suggested",
+    "pedagogicalExplanation": "Collocation : a lower price (prix plus bas). « less price » est incorrect ; « reduction price » n’est pas la forme attendue (a price reduction / a discount).",
+    "documentaryRef": "Consultation 2026-10-13. Collocations price : lower / reduced / discount.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-E-01-2021-E-q10-98210ba6",
+    "questionId": "2021-E-q10-98210ba6",
+    "status": "suggested",
+    "pedagogicalExplanation": "« en ce moment » impose le present continuous : The yellow vests are blocking the motorways. Le présent simple (B) décrit une habitude ; le prétérit (C) un fait passé.",
+    "documentaryRef": "Consultation 2026-10-13. Present continuous pour action en cours (now / en ce moment).",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q01-715e2d6a",
+    "questionId": "2021-FV-q01-715e2d6a",
+    "status": "suggested",
+    "pedagogicalExplanation": "Indication CMA : bas prix pour conquérir le marché = risque économique et d’image. Raisonnement commercial général (pas une norme juridique VTC).",
+    "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 FV Q1. Marketing : stratégie de pénétration / dumping perçu.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Politique risquée : marge et rentabilité fragilisées ; risque d’image « prix bas = qualité basse » ; pression concurrentielle et dégradation perçue de la profession ; difficile à remonter ensuite."
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q02-4cc8521f",
+    "questionId": "2021-FV-q02-4cc8521f",
+    "status": "suggested",
+    "pedagogicalExplanation": "La marge peut s’exprimer en % du chiffre d’affaires ou en % du coût de revient. Type PDF `single` conservé : on ne force pas le type multiple pour coller à A+C. Suggestion pédagogique A+C uniquement ; notation bloquée sans barème.",
+    "documentaryRef": "Consultation 2026-10-13. Comptabilité / gestion (taux de marge / taux de marque). Phase 7 : anomalies-resolution.md — statut bloquée.",
+    "confidence": "low",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T16:00:00.000Z",
+    "proposedChoiceIds": [
+      "a",
+      "c"
+    ]
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q03-7d72f76a",
+    "questionId": "2021-FV-q03-7d72f76a",
+    "status": "suggested",
+    "pedagogicalExplanation": "Les 4P du marketing mix : Product, Price, Place, Promotion (Produit, Prix, Distribution/Place, Communication/Promotion). Les autres listes mélangent des leviers hors modèle classique.",
+    "documentaryRef": "Consultation 2026-10-13. Marketing mix McCarthy (4P) — référentiel commercial standard. Inchangé.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q04-772e340b",
+    "questionId": "2021-FV-q04-772e340b",
+    "status": "suggested",
+    "pedagogicalExplanation": "Indication CMA : distinguer canaux traditionnels et numériques avec un exemple chacun.",
+    "documentaryRef": "Consultation 2026-10-13. Indication/Right answer annale CMA 2021 FV Q4.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Prospection traditionnelle (porte-à-porte, téléphone, réseaux locaux) et prospection numérique (site, mailing, réseaux sociaux, plateformes) — un exemple de chaque."
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q05-f8f41748",
+    "questionId": "2021-FV-q05-f8f41748",
+    "status": "suggested",
+    "pedagogicalExplanation": "Avant mix et plan d’action, la démarche commerciale commence par l’analyse du marché (besoins, concurrence, segmentation). Le marketing mix et le plan d’action viennent ensuite.",
+    "documentaryRef": "Consultation 2026-10-13. Démarche stratégique commerciale (diagnostic / étude de marché → objectifs → mix → plan). Pédagogie gestion/commerce.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q07-e38fabec",
+    "questionId": "2021-FV-q07-e38fabec",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le BOFiP ne fixe pas une durée légale « 3 ans » pour l’informatique : la durée suit les usages / la durée d’utilisation. Le matériel de bureau est souvent cité autour de 10–20 %/an (≈5–10 ans). La réponse A (3 ans) n’est donc pas suffisamment étayée par une source institutionnelle consultée — ne pas valider pour notation.",
+    "documentaryRef": "Consultation 2026-10-13. BOI-BIC-AMT-10-40 — https://bofip.impots.gouv.fr/bofip/4686-PGP.html/identifiant=BOI-BIC-AMT-10-40-20170104 ; BOI-BIC-AMT-10-40-30. Phase 7 : anomalies-resolution.md — statut bloquée.",
+    "confidence": "low",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T16:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q08-2c2d1d26",
+    "questionId": "2021-FV-q08-2c2d1d26",
+    "status": "suggested",
+    "pedagogicalExplanation": "Indication CMA confirme le taux 10 % (transport de voyageurs). Calcul : prix TTC / (1+t) = HT ; TVA = TTC − HT.",
+    "documentaryRef": "Consultation 2026-10-13. Indication annale CMA 2021 FV Q8. Code général des impôts — taux réduit 10 % transport de voyageurs (art. 279 b quater CGI, sauf exceptions). Toujours d’actualité en 2026 pour le transport public routier de personnes concerné.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "TVA transport de personnes 10 % : HT = 75 / 1,10 ≈ 68,18 € ; TVA = 75 − 68,18 ≈ 6,82 €."
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q10-5346f142",
+    "questionId": "2021-FV-q10-5346f142",
+    "status": "suggested",
+    "pedagogicalExplanation": "Bonne pratique de sécurité / qualité de service de nuit : déposer devant l’immeuble et attendre que la cliente soit entrée. Repartir aussitôt (B) est risqué ; raccompagner jusqu’à l’appartement (C) n’est pas attendu et peut être inapproprié.",
+    "documentaryRef": "Consultation 2026-10-13. Savoir-être / qualité de service VTC (guides professionnels / formation CMA) — pas un article du code des transports. Confiance pédagogique high.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q14-71bb2eda",
+    "questionId": "2021-FV-q14-71bb2eda",
+    "status": "suggested",
+    "pedagogicalExplanation": "Le panier moyen = montant moyen des achats (ou du CA) par client / par commande. Pas la taille physique d’un panier de courses.",
+    "documentaryRef": "Consultation 2026-10-13. Indicateur commercial standard (CA / nombre de clients). Pédagogie gestion.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-FV-01-2021-FV-q16-da00bd7e",
+    "questionId": "2021-FV-q16-da00bd7e",
+    "status": "suggested",
+    "pedagogicalExplanation": "B to B = Business to Business (prestations entre professionnels). A est la bonne définition. C reformule correctement le sens mais le sigle standard est « business to business » (A) ; B décrit du C to C / particulier.",
+    "documentaryRef": "Consultation 2026-10-13. Vocabulaire commercial B2B / B2C. Si le barème n’accepte qu’une case, A est la réponse attendue.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-GV-01-2021-GV-q01-804dd097",
+    "questionId": "2021-GV-q01-804dd097",
+    "status": "suggested",
+    "pedagogicalExplanation": "Longueur hors tout minimale 4,50 m et largeur minimale 1,70 m pour un VTC thermique (arrêté du 26 mars 2015). Les véhicules hybrides et électriques sont exemptés de ces caractéristiques (et de la puissance / âge dans les conditions de l’arrêté).",
+    "documentaryRef": "Consultation 2026-10-13. Arrêté du 26 mars 2015 relatif aux caractéristiques des véhicules VTC (JO) ; code des transports R. 3122-6 / L. 3120-5. Livret préfectoral VTC 2025 (ex. Landes) confirme 4,50 × 1,70 m. Inchangé sur le fond depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "b"
+    ]
+  },
+  {
+    "id": "lot-GV-01-2021-GV-q02-65dc0b6d",
+    "questionId": "2021-GV-q02-65dc0b6d",
+    "status": "suggested",
+    "pedagogicalExplanation": "RÉPONSE D’ANNALE 2021 : prise en charge sans réservation = délit (L. 3120-2 / L. 3124-12), quantum historique 1 an / 15 000 € → choix C. A faux ; B = peine complémentaire possible seulement. DEPUIS la loi n° 2026-534 du 25 juin 2026 (en vigueur 27/06/2026), L. 3124-12 prévoit 3 ans / 45 000 € : le libellé « 15 000 € » est obsolète pour l’examen actuel. Notation bloquée (notScoreable actuel).",
+    "documentaryRef": "Consultation 2026-10-13. L. 3124-12 — https://librejustice.fr/norm/fr/code-des-transports/l3124-12 (version 27/06/2026). Phase 7 : anomalies-resolution.md — résolue documentairement, hors QCM notés 2026.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T16:00:00.000Z",
+    "proposedChoiceIds": [
+      "c"
+    ]
+  },
+  {
+    "id": "lot-GV-01-2021-GV-q03-50c11b46",
+    "questionId": "2021-GV-q03-50c11b46",
+    "status": "suggested",
+    "pedagogicalExplanation": "Il doit exister un contrat avec le client final, pouvant être conclu sur support papier ou électronique. Les CGV seules ne suffisent pas sans acceptation claire ; l’écrit n’est pas limité au papier.",
+    "documentaryRef": "Consultation 2026-10-13. Cadre contractuel VTC / réservation préalable (code des transports + droit de la consommation pour le B2C). Service-Public F31027 (preuve de réservation papier ou électronique). Confiance medium-high.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "d"
+    ]
+  },
+  {
+    "id": "lot-GV-01-2021-GV-q04-961127c7",
+    "questionId": "2021-GV-q04-961127c7",
+    "status": "suggested",
+    "pedagogicalExplanation": "Indication CMA alignée sur L. 3120-5 / arrêté caractéristiques : exemption des seuils dimension/puissance/âge pour VE/VH.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-5 ; arrêté 26/03/2015 art. 2 (non-application aux hybrides et électriques). Indication annale CMA 2021 GV Q4. Inchangé sur le principe.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Aucune démarche spécifique : les véhicules électriques (et hybrides) peuvent être utilisés en VTC même s’ils ne respectent pas toutes les caractéristiques techniques imposées aux autres VTC."
+  },
+  {
+    "id": "lot-GV-01-2021-GV-q05-52d1eb2b",
+    "questionId": "2021-GV-q05-52d1eb2b",
+    "status": "suggested",
+    "pedagogicalExplanation": "Durée maximale de stationnement aux abords / enceinte des gares et aérogares : 1 heure avant l’horaire de prise en charge réservé (D. 3120-3).",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3120-2 II 3° et D. 3120-3. Service-Public F31027 ; fiche thématique ministère écologie L. 3120-2. Inchangé depuis 2021.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-GV-01-2021-GV-q06-8c53e464",
+    "questionId": "2021-GV-q06-8c53e464",
+    "status": "suggested",
+    "pedagogicalExplanation": "Indication CMA : « Retirer la carte professionnelle ». Complément réglementaire : la signalétique doit être retirée ou occultée hors activité VTC (arrêté signalétique). Suggestion enrichie pour 2026 sans contredire l’indication.",
+    "documentaryRef": "Consultation 2026-10-13. Indication annale CMA 2021 GV Q6 ; arrêté 6 avril 2017 (signalétique) — occultation hors activité ; REVTC aide macarons. Partiellement au-delà du libellé strict de l’indication → confiance medium.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedOpenAnswer": "Retirer ou occulter la carte professionnelle et la signalétique VTC (macarons) lorsque le véhicule est utilisé à des fins privées."
+  },
+  {
+    "id": "lot-GV-01-2021-GV-q07-37418464",
+    "questionId": "2021-GV-q07-37418464",
+    "status": "suggested",
+    "pedagogicalExplanation": "Un VTC se reconnaît à la signalétique officielle : macaron / vignette à l’avant et à l’arrière du véhicule. Pas par la seule couleur noire.",
+    "documentaryRef": "Consultation 2026-10-13. Arrêté du 6 avril 2017 relatif à la signalétique des VTC (deux vignettes avant/arrière) ; R. 3122-8 code des transports ; REVTC. Arrêté modificatif 24/07/2025 (inamovibilité) — principe avant+arrière inchangé.",
+    "confidence": "high",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "a"
+    ]
+  },
+  {
+    "id": "lot-GV-01-2021-GV-q08-6a844bda",
+    "questionId": "2021-GV-q08-6a844bda",
+    "status": "suggested",
+    "pedagogicalExplanation": "L’inscription au registre des exploitants VTC donne lieu à la délivrance d’une attestation d’inscription (espace REVTC). La liste publique des exploitants existe aussi, mais le choix d’examen le plus direct est l’attestation (D). Pas de diplôme ni de BO.",
+    "documentaryRef": "Consultation 2026-10-13. Code des transports L. 3122-3 / R. 3122-1 ; portail REVTC (attestation PDF) https://registre-vtc.developpement-durable.gouv.fr/ ; ecologie.gouv.fr registre VTC. C (publication liste) est partiellement vrai — D reste la réponse pédagogique attendue ; confiance medium-high.",
+    "confidence": "medium",
+    "source": "external_import",
+    "createdAt": "2026-10-13T14:00:00.000Z",
+    "updatedAt": "2026-10-13T14:00:00.000Z",
+    "proposedChoiceIds": [
+      "d"
+    ]
+  }
+]

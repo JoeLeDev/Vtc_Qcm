@@ -1,0 +1,536 @@
+[
+  {
+    "id": "2021-GT-q01-227225f4",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 1,
+    "stem": "Quelle est la définition du véhicule taxi ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le véhicule taxi est un véhicule automobile de catégorie Ml (véhicule conçu et construit pour\nle transport de personnes et comportant, outre le siège du conducteur, huit places assises au maximum\net ayant un poids total autorisé en charge inférieur ou égal à 3,5 tonnes), muni d'équipement spéciaux, dont le\npropriétaire ou l'exploitant est titulaire d'une autorisation de stationnement sur la\nvoie publique en attente de la clientèle, afin d'effectuer à la demande de celle-ci et à titre onéreux le transport public\nparticulier de personne et de leurs bagages.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Correctif Q1 2021-GT: n° d'examen capturé; stem nettoyé; alias 2021-GT-q49960-da810b4c."
+    ],
+    "legacyIds": [
+      "2021-GT-q49960-da810b4c"
+    ]
+  },
+  {
+    "id": "2021-GT-q02-e3164530",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 2,
+    "stem": "Le conducteur de taxi a le droit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "de prendre en charge des voyageurs poursuivis par la clameur publique"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "de solliciter un pourboire"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "de ne pas attendre les voyageurs s'ils se trouvent dans une voie où le stationnement est impossible"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "d'être accompagné de personnes autres que des clients"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q03-ec95149e",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 3,
+    "stem": "Qu'est-ce que le carnet de métrologie ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "une preuve de la conformité des équipements spéciaux"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "un carnet de liaison entre l'installateur du matériel et le taxi"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "un cahier de note"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "un livre"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q04-bd935f35",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 4,
+    "stem": "Citez les trois éléments constitutifs du montant affiché sur le compteur horokilométrique.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "- Tarif appliqué\n- Prise en charge\n- Suppléments",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GT-q05-c541de3f",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 5,
+    "stem": "Dans le cadre du TAP et d'un transport simultané de deux passagers quel pourcentage de remise doit-on pratiquer pour chacun d'eux ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "40 %."
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "30 %."
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "10 %."
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "50 %"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q06-c6df56b6",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 6,
+    "stem": "Où doit-on adresser une demande de détaxe de carburants ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "au bureau des taxis de la Préfecture"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "à la Direction Départementale des Territoires et de la Mer"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "à la Direction régionale des Douanes"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q07-b8cfe9a3",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 7,
+    "stem": "Lorsqu'il cesse d'exercer son activité, le titulaire de la carte professionnelle doit :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la restituer à la préfecture qui l'a délivrée"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la céder à titre onéreux"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la détruire"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q08-737fb14f",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 8,
+    "stem": "Nul ne peut s'inscrire à l'examen en vue de la délivrance du certificat d'habilitation professionnelle de conducteur de taxi :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "s'il a fait l'objet dans les dix ans qui précèdent sa demande, d'un retrait définitif, de la carte professionnelle de conducteur de taxi"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "s'il a fait l'objet dans les dix ans qui précèdent sa demande, d'une exclusion pour fraude lors d'une session à l'examen d'habilitation de conducteur de taxi"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "s'il a fait l'objet dans les cinq ans qui précèdent sa demande, d'une exclusion pour fraude lors d'une session à l'examen d'habilitation de conducteur de taxi"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q09-0ec4dcd5",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 9,
+    "stem": "Lorsque le conducteur taxi est en service :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "il peut éclairer le dispositif lumineux en vert s'il n'est pas occupé ou retenu"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "il doit éclairer le dispositif lumineux en vert s'il n'est pas occupé ou retenu"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "il a interdiction d'éclairer le dispositif lumineux en vert s'il n'est pas occupé ou retenu"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 16,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q10-bf604abd",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 10,
+    "stem": "Quelle convention doit appliquer le taxi qui effectue un transport médical pour un assuré d'une CPAM différente de celle avec laquelle il a signé.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Le taxi doit appliquer la convention qu'il a signée avec la CPAM de son département quel que\nsoit la caisse de l'assuré.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GT-q11-fa78c3fb",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 11,
+    "stem": "Quelle est l'autorité administrative compétente pour fixer localement une couleur unique des véhicules taxi ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Les présidents du tribunal de commerce"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Les présidents de l'organisation professionnelle"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Les présidents de la chambre de métiers et de l'artisanat"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Celle qui délivre les autorisations de stationnement"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q12-4c3b56d0",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 12,
+    "stem": "Les taxis sont des véhicules automobiles comportant :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "9 places assises y compris le siège du conducteur au maximum"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "outre le siège du conducteur, 7 places assises au maximum"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "outre le siège du conducteur, 8 places assises au maximum"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "outre le siège du conducteur, 9 places assises au maximum"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q13-25e5d9a6",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 13,
+    "stem": "Un conducteur de taxi peut-il transporter des colis non accompagnés ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "oui, à condition que le conducteur de taxi se fasse payer d'avance"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "oui, mais le conducteur de taxi se fait payer à l'arrivée par rapport au compteur"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "non, c'est interdit car les taxis sont prévus pour le transport de personnes et de leurs bagages"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "non, même s'il a un contrat d'assistance bagages avec une compagnie aérienne"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-GT-q14-4b5da480",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 14,
+    "stem": "Lorsqu'un titulaire ne peut exploiter lui-même son autorisation de stationnement, quelles sont les deux possibilités qui s'offrent à lui pour que son entreprise reste active ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "La location du véhicule taxi à un conducteur de taxi.\nL'emploi d'un salarié.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-GT-q15-e5a9cadd",
+    "subject": "GT",
+    "scope": "taxi",
+    "year": 2021,
+    "number": 15,
+    "stem": "Quelle est la prestation dont le chef d'une entreprise individuelle de T3P ne peut bénéficier ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "l'indemnité journalière de maladie"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "les allocations familiales"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "l'indemnité de chômage"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "la retraite de base"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - G(T) - Réglementation nationale spécifique et\nquestions de gestion spécifiques",
+    "pdfPage": 17,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]

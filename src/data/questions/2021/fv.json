@@ -1,0 +1,553 @@
+[
+  {
+    "id": "2021-FV-q01-715e2d6a",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 1,
+    "stem": "Vous connaissez un VTC qui va démarrer son activité avec des prix très bas afin d'attirer un maximum de clients. Que pensez-vous de cette politique tarifaire ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Politique tarifaire risquée : rentabilité diminuée, perception du client ( prix bas = qualité\nmauvaise? ), dégradation de l'image de la profession,....",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement.",
+      "Correctif Q1 2021-FV: n° d'examen capturé; stem nettoyé; alias 2021-FV-q49958-9c8d74b4."
+    ],
+    "legacyIds": [
+      "2021-FV-q49958-9c8d74b4"
+    ]
+  },
+  {
+    "id": "2021-FV-q02-4cc8521f",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 2,
+    "stem": "La marge peut être exprimée en pourcentage du :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "chiffre d'affaires"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "coût fixe"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "coût de revient"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "coût des cotisations sociales"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q03-7d72f76a",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 3,
+    "stem": "Dans le mix marketing, à quoi correspondent les 4P ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Prix - Produit - Place - Promotion"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Prix - Produit - Parrainage - Personnalisation"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Plateforme - Présentation - Place - Promotion"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q04-772e340b",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 4,
+    "stem": "Quelles sont les méthodes de prospection existantes ? Citez un exemple de chaque.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Prospection traditionnelle (porte à porte, téléphone) ou prospection numérique (site web,\nmailing, réseaux sociaux, centrales de réservations)",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FV-q05-f8f41748",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 5,
+    "stem": "Quelle est la première étape d'une stratégie commerciale ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Le marketing mix"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Le plan d'action"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "L'analyse du marché"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q06-2ac2390e",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 6,
+    "stem": "En cas de retard très important du client, que faites-vous ?",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Dans un premier temps je prends contact avec le client afin de lui demander son heure\nd'arrivée.\nEn fonction de celle-ci je lui propose de lui réserver un autre VTC si j'ai une autre course de prévue.\nDans le cas contraire le client ayant réservé la course, je l'attends.",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FV-q07-e38fabec",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 7,
+    "stem": "Le matériel informatique peut être amorti sur :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "3 ans"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "5 ans"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "1 an"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q08-2c2d1d26",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 8,
+    "stem": "Le montant d'une prestation s'élève à 75 € TTC. Calculez le montant de la TVA et le prix HT, en détaillant vos calculs.",
+    "choices": [],
+    "type": "open",
+    "openReferenceAnswer": "Prix HT : /1,10 = 68,18\nMontant TVA : 75 - 68,18 = 6,82",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "needs_review",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 2,
+    "extractionNotes": [
+      "Correction ouverte issue de Indication/Right answer — à revalider réglementairement."
+    ]
+  },
+  {
+    "id": "2021-FV-q09-c79f89d1",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 9,
+    "stem": "Un chauffeur VTC, en EURL, fait un chiffre d'affaires de 50 000 €. Il a 10 000 € de charges sociales, a vendu son ancienne voiture 8 000 € et a payé 5 000 € de TVA. Quel est son résultat ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "43 000 €"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "37 000 €"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "27 000 €"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q10-5346f142",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 10,
+    "stem": "En déposant une cliente, de nuit, à son domicile :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous la déposez devant la porte de son immeuble et attendez qu'elle soit rentrée dans son immeuble avant de repartir"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous la déposez devant chez elle et votre mission étant terminée, vous repartez"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous proposez de la raccompagner jusqu'à la porte de son appartement compte tenu de l'heure tardive"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 13,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q11-15a9cb61",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 11,
+    "stem": "Dans l'activité de VTC, les conditions générales de vente sont :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "ne doivent pas être fournies à un professionnel qui en fait la demande"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "indispensables en relation B to C"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "conformes à la loi Hamon du 17 mars 2014"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "facultatives en relation B to B"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q12-44aa5b1d",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 12,
+    "stem": "A l'aéroport, le parking professionnel est saturé alors que vos clients ne vont pas tarder à sortir du check out :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "vous vous garez sur des zébras"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "vous vous garez au niveau de la dépose taxi car c'est au niveau des arrivées"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "vous vous garez au parking public"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "vous attendez qu'une place se libère"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q13-fee90e27",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 13,
+    "stem": "Que doit-on dire lorsqu'on décroche un appel téléphonique ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "le nom de la société et bonjour"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "le nom de la société"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "allo"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q14-71bb2eda",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 14,
+    "stem": "Le panier moyen est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "la taille des achats à charger dans le coffre"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "la moyenne des achats par client"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "la taille moyenne des paniers de courses en France"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q15-9a44d6b5",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 15,
+    "stem": "Trouver régulièrement de nouveaux clients c'est :",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Un moyen de garder votre confort de vie"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Une nécessité pour la survie de l'entreprise"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Une obligation de votre comptable"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  },
+  {
+    "id": "2021-FV-q16-da00bd7e",
+    "subject": "FV",
+    "scope": "vtc",
+    "year": 2021,
+    "number": 16,
+    "stem": "Un client vous demande si vous faites des prestations en B to B. De quoi parle-t-il ?",
+    "choices": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "de prestations business to business"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "de prestations d'un particulier vers des particuliers"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "de prestations d'un professionnel vers des professionnels"
+      }
+    ],
+    "type": "single",
+    "origin": "official_annals",
+    "sourceDocument": "Annales Examen Taxi VTC 2021.pdf",
+    "sourceExamTitle": "27 octobre - après-midi - F(V) - Développement commercial et questions\nde gestion spécifiques",
+    "pdfPage": 14,
+    "verificationStatus": "unverified",
+    "lifecycleStatus": "possibly_obsolete",
+    "hasIllustration": false,
+    "points": 1,
+    "extractionNotes": [
+      "Aucune bonne réponse QCM explicitement marquée dans le PDF (copie non remplie)."
+    ]
+  }
+]
