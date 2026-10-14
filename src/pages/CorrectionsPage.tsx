@@ -386,6 +386,7 @@ export function CorrectionsPage() {
 
           {selected ? (
             <CorrectionWorkspace
+              key={selected.id}
               question={selected}
               onSaved={(msg) => {
                 setMessage(msg)
@@ -477,6 +478,9 @@ function CorrectionWorkspace({
   const [confidence, setConfidence] = useState<ConfidenceLevel>('medium')
   const [reviewNote, setReviewNote] = useState('')
   const [error, setError] = useState<string | null>(null)
+  const [success, setSuccess] = useState<string | null>(null)
+  const [pendingVerify, setPendingVerify] = useState<'confirm' | 'modify' | null>(null)
+  const feedbackRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     const overlay = getOverlayForQuestion(question.id)
@@ -501,6 +505,8 @@ function CorrectionWorkspace({
     setConfidence(active?.confidence ?? 'medium')
     setReviewNote(decision?.note ?? '')
     setError(null)
+    setSuccess(null)
+    setPendingVerify(null)
   }, [question])
 
   function toggle(id: string) {
@@ -520,6 +526,19 @@ function CorrectionWorkspace({
     setConfidence(suggestion.confidence)
   }
 
+  function showFeedback(kind: 'error' | 'success', text: string) {
+    if (kind === 'error') {
+      setError(text)
+      setSuccess(null)
+    } else {
+      setSuccess(text)
+      setError(null)
+    }
+    requestAnimationFrame(() => {
+      feedbackRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+    })
+  }
+
   function saveSuggestionOnly() {
     const result = saveManualSuggestion({
       questionId: question.id,
@@ -530,19 +549,14 @@ function CorrectionWorkspace({
       confidence,
     })
     if (!result.ok) {
-      setError(result.reason)
+      showFeedback('error', result.reason)
       return
     }
-    setError(null)
+    showFeedback('success', 'Proposition enregistrée avec le statut suggested (hors score).')
     onSaved('Proposition enregistrée avec le statut suggested (hors score).')
   }
 
   function saveVerified(modifiedFromSuggestion: boolean) {
-    const confirmMsg = modifiedFromSuggestion
-      ? 'Confirmer la validation après modification manuelle ? La suggestion ne sera plus active. Aucune validation automatique.'
-      : 'Confirmer la validation humaine de cette correction ? Elle pourra entrer dans les QCM notés (si QCM et critères remplis). Aucune validation automatique.'
-    if (!window.confirm(confirmMsg)) return
-
     const result = saveOverlayForQuestion(question, {
       correctChoiceIds: question.type === 'open' ? undefined : selected,
       openReferenceAnswer: question.type === 'open' ? openAnswer : undefined,
@@ -554,16 +568,16 @@ function CorrectionWorkspace({
       suggestionId: suggestion?.id,
       modifiedFromSuggestion,
     })
+    setPendingVerify(null)
     if (!result.ok) {
-      setError(result.reason)
+      showFeedback('error', result.reason)
       return
     }
-    setError(null)
-    onSaved(
-      modifiedFromSuggestion
-        ? 'Correction modifiée puis validée (verified).'
-        : 'Correction validée après vérification humaine (verified).',
-    )
+    const msg = modifiedFromSuggestion
+      ? 'Correction modifiée puis validée (verified).'
+      : 'Correction validée après vérification humaine (verified).'
+    showFeedback('success', msg)
+    onSaved(msg)
   }
 
   function saveDraft() {
@@ -578,21 +592,21 @@ function CorrectionWorkspace({
       suggestionId: suggestion?.id,
     })
     if (!result.ok) {
-      setError(result.reason)
+      showFeedback('error', result.reason)
       return
     }
-    setError(null)
+    showFeedback('success', 'Brouillon enregistré (non scorée).')
     onSaved('Brouillon enregistré (non scorée).')
   }
 
   function reject() {
     if (!suggestion) return
-    if (!window.confirm('Rejeter cette suggestion ?')) return
     const result = rejectSuggestion(suggestion.id, 'Rejetée depuis l’UI')
     if (!result.ok) {
-      setError(result.reason)
+      showFeedback('error', result.reason)
       return
     }
+    showFeedback('success', 'Suggestion rejetée.')
     onSaved('Suggestion rejetée.')
   }
 
@@ -645,7 +659,10 @@ function CorrectionWorkspace({
         <SourceLegend
           hasAnnals={Boolean(question.openReferenceAnswer)}
           hasSuggestion={Boolean(suggestion)}
-          isVerified={question.verificationStatus === 'verified'}
+          isVerified={
+            question.verificationStatus === 'verified' ||
+            existing?.verificationStatus === 'verified'
+          }
           official={Boolean(existing?.officialSourceEstablished)}
         />
 
@@ -735,10 +752,10 @@ function CorrectionWorkspace({
               </p>
             ) : null}
             <div className="mt-3 flex flex-wrap gap-2">
-              <Button size="sm" variant="secondary" onClick={applySuggestionToForm}>
+              <Button type="button" size="sm" variant="secondary" onClick={applySuggestionToForm}>
                 Charger dans le formulaire
               </Button>
-              <Button size="sm" variant="outline" onClick={reject}>
+              <Button type="button" size="sm" variant="outline" onClick={reject}>
                 Rejeter
               </Button>
             </div>
@@ -900,19 +917,58 @@ function CorrectionWorkspace({
           ) : null}
         </div>
 
-        {error ? <p className="text-sm text-destructive">{error}</p> : null}
+        <div ref={feedbackRef} className="space-y-3">
+          {error ? (
+            <p className="rounded-md border border-destructive/40 bg-destructive/10 px-3 py-2 text-sm text-destructive">
+              {error}
+            </p>
+          ) : null}
+          {success ? (
+            <p className="rounded-md border border-emerald-400/40 bg-emerald-50 px-3 py-2 text-sm text-emerald-800 dark:bg-emerald-950/40 dark:text-emerald-200">
+              {success}
+            </p>
+          ) : null}
 
-        <div className="flex flex-wrap gap-2">
-          <Button onClick={() => saveVerified(false)}>Valider après vérification</Button>
-          <Button variant="secondary" onClick={() => saveVerified(true)}>
-            Modifier puis valider
-          </Button>
-          <Button variant="outline" onClick={saveSuggestionOnly}>
-            Enregistrer suggested
-          </Button>
-          <Button variant="outline" onClick={saveDraft}>
-            Brouillon
-          </Button>
+          {pendingVerify ? (
+            <div className="space-y-3 rounded-md border border-primary/40 bg-primary/5 p-3">
+              <p className="text-sm font-medium">
+                {pendingVerify === 'modify'
+                  ? 'Confirmer la validation après modification manuelle ?'
+                  : 'Confirmer la validation humaine de cette correction ?'}
+              </p>
+              <p className="text-xs text-muted-foreground">
+                {pendingVerify === 'modify'
+                  ? 'La suggestion ne sera plus active. Aucune validation automatique.'
+                  : 'Elle pourra entrer dans les QCM notés (si QCM et critères remplis). Aucune validation automatique.'}
+              </p>
+              <div className="flex flex-wrap gap-2">
+                <Button
+                  type="button"
+                  onClick={() => saveVerified(pendingVerify === 'modify')}
+                >
+                  Oui, valider
+                </Button>
+                <Button type="button" variant="outline" onClick={() => setPendingVerify(null)}>
+                  Annuler
+                </Button>
+              </div>
+            </div>
+          ) : (
+            <div className="flex flex-wrap gap-2">
+              <Button type="button" onClick={() => setPendingVerify('confirm')}>
+                Valider après vérification
+              </Button>
+              <Button type="button" variant="secondary" onClick={() => setPendingVerify('modify')}>
+                Modifier puis valider
+              </Button>
+              <Button type="button" variant="outline" onClick={saveSuggestionOnly}>
+                Enregistrer suggested
+              </Button>
+              <Button type="button" variant="outline" onClick={saveDraft}>
+                Brouillon
+              </Button>
+            </div>
+          )}
         </div>
 
         <div className="space-y-2">
